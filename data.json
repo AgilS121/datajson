@@ -4,11 +4,13 @@
     "Bagaimana Cara Mengubah Alamat Pengiriman Saya": "Anda dapat menambah, mengedit, atau menghapus alamat yang tertaut ke akun Shopee Anda melalui Aplikasi bengkel nusantara atau Situs Web bengkel nusantara. Melalui Aplikasi bengkel nusantara: Untuk menambahkan alamat baru, buka tab Saya > Pilih ikon > Alamat Saya > Pilih Tambah alamat baru > Isi rincian > KIRIM. Untuk mengedit alamat yang ada, cukup pilih alamat > ubah rincian > KIRIM. Untuk menghapus alamat yang ada, pilih alamat > Hapus Alamat > Ya.",
     "Bagaimana Caranya Agar Akun Saya Aman": "Keamanan juga dapat ditingkatkan dengan cara 1. Membuat PIN yang kuat Gunakan minimal 6 (enam) digit angka. Hindari penggunaan angka tanggal lahir dan berurutan (yang mudah ditebak), seperti: 111111, 123456, 112233, 147852, dsb. 2. Pastikan saat mengakses akun dan bertransaksi hanya melalui aplikasi/website resmi.",
     "Cara Mengganti Password": "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
+    "Bagaimana cara mereset kata sandi saya?": "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
     "Cara Ubah Nomor Telepon": "Hi kak, Kakak dapat mengubah no telepon akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti nomor telepon Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
     "Cara Verifikasi Nomor Telepon": "Hi kak, Kakak dapat mengubah no telepon akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti nomor telepon Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
     "Saya Ingin Menghapus Akun Bagaimana Caranya": "Anda dapat menghapus akun bengkel nusantara Anda dengan memilih tab Saya di aplikasi bengkel nusantara > pilih ikon (Pengaturan Akun) > pilih Ajukan Penghapusan Akun > pilih OK > pilih Lanjutkan > pilih metode verifikasi > lakukan proses verifikasi > isi alasan penghapusan akun > isi alamat email Anda > centang kotak setuju dengan Syarat & Ketentuan penghapusan akun > pilih Kirim > pilih Konfirmasi. Catatan: Penghapusan akun bersifat permanen dan tidak dapat diubah. Setelah penghapusan berhasil, Anda tidak dapat masuk dan melihat riwayat akun lagi.",
     "Saya Salah Menentukan Alamat Saya, Dan Barang Sudah Dikirim Bagaimana Solusinya": "Untuk menambahkan alamat baru, buka tab Saya > Pilih ikon > Alamat Saya > Pilih Tambah alamat baru > Isi rincian > KIRIM. Untuk mengedit alamat yang ada, cukup pilih alamat > ubah rincian > KIRIM. Untuk menghapus alamat yang ada, pilih alamat > Hapus Alamat > Ya. Jika ini belum membantu silakan klik hubungi cs.",
-    "Ubah Pin Bengkelnusantara": "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi."
+    "Ubah Pin Bengkelnusantara": "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
+    "Apakah saya bisa mengubah email pengguna?": "Maaf, setelah email pengguna ditetapkan, email tersebut tidak dapat diubah. Namun, Anda bisa membuat akun baru dengan email pengguna yang berbeda."
   },
   "Biaya Layanan": {
     "Syarat Dan Ketentuan Biaya Jasa Aplikasi": "Biaya Layanan sudah termasuk dengan biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku dan belum termasuk dengan Biaya Penanganan."
@@ -29,20 +31,26 @@
   },
   "Masalah Teknis": {
     "Bagaimana Mengatasi Aplikasi Error": "Luncurkan ulang aplikasi, atau hapus cache aplikasi. Langkah-Langkah untuk menghapus cache aplikasi: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari bengkel nusantara 4. buka penyimpanan 5. hapus memori/chace",
-    "Aplikasi Tidak Bisa Dibuka, Apa Yang Harus Saya Lakukan": "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi."
+    "Aplikasi Tidak Bisa Dibuka, Apa Yang Harus Saya Lakukan": "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
+    "Apa yang harus saya lakukan jika situs tidak bisa diakses?": "Jika situs tidak bisa diakses, coba bersihkan cache browser Anda atau coba akses situs dari browser atau perangkat lain.",
+    "Bagaimana cara melaporkan bug di aplikasi?": "Untuk melaporkan bug, pergi ke bagian 'Bantuan & Dukungan' di aplikasi dan klik 'Laporkan Masalah'. Jelaskan masalahnya secara detail."
   },
   "Metode Pembayaran": {
     "Apa Saja Metode Pembayaran Yang Dapat Dilakukan Di Bengkel Nusantra": "Di Bengkel Nusantra, beberapa metode pembayaran yang tersedia mungkin mencakup: COD: Pembayaran dapat dilakukan dengan sistem cod. Transfer Bank: Pembayaran dapat dilakukan dengan cara transfer bank. Diantaranya bank BRI, BNI, BCA. Tata Cara untuk transfer bank klik disini. Dompet Digital: Pembayaran juga dapat dilakukan dengan cara menggunakan dompet digital seperti GoPay, OVO, dan Dana. Cara untuk transfer menggunakan dompet digital dapat dilihat disini.",
-    "Apakah Bisa Bayar Dengan Kartu Kredit": "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout."
+    "Apakah Bisa Bayar Dengan Kartu Kredit": "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout.",
+    "Metode pembayaran apa saja yang diterima?": "Kami menerima berbagai metode pembayaran, termasuk kartu kredit/debit, PayPal, dan transfer bank."
   },
   "Pelacakan Pesanan": {
     "Bagaimana Cara Melacak Status Pengiriman Barang": "Anda dapat melacak status pengiriman barang dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi .",
     "Cara Mengetahui Estimasi Pengiriman": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama).",
-    "Apa Yang Harus Saya Lakukan Jika Tidak Bisa Melacak Pengiriman": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama)."
+    "Apa Yang Harus Saya Lakukan Jika Tidak Bisa Melacak Pengiriman": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama).",
+    "Apa arti 'Sedang Diproses' pada status pesanan saya?": "'Sedang Diproses' berarti pesanan Anda sedang disiapkan untuk pengiriman."
   },
   "Pengembalian Dana": {
     "Bagaimana Proses Pengembalian Dana": "Setelah melakukan pembatalan pesanan atau pengembalian barang, dana akan dikembalikan ke saldo bengkelnusantara (koin) atau transfer bank.",
-    "Berapa Lama Proses Pengembalian Dana": "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan."
+    "Berapa Lama Proses Pengembalian Dana": "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan.",
+    "Bagaimana cara mengembalikan produk?": "Untuk mengembalikan produk, masuk ke akun Anda, temukan pesanan, dan klik 'Kembalikan' di samping produk yang ingin Anda kembalikan. Ikuti instruksi yang diberikan.",
+    "Berapa lama waktu yang diperlukan untuk mendapatkan pengembalian dana?": "Pengembalian dana biasanya memerlukan waktu 5-7 hari kerja setelah barang yang dikembalikan diterima dan diperiksa."
   },
   "Pembatalan": {
     "Bagaimana Cara Membatalkan Pesanan": "Untuk pembatalan pesanan, pilih Saya > pilih menu Dikemas > pilih pesanan yang ingin dibatalkan > pilih Batalkan Pesanan. Anda dapat memilih alasan pembatalan dan kemudian konfirmasi untuk membatalkan pesanan. Harap diperhatikan bahwa pembatalan hanya bisa dilakukan sebelum pesanan masuk ke status Dikirim.",
@@ -50,13 +58,29 @@
   },
   "Pengiriman": {
     "Bagaimana Cara Mengatur Jadwal Pengiriman": "Anda dapat mengatur jadwal pengiriman saat melakukan proses checkout. Pilih opsi pengiriman yang sesuai dengan preferensi Anda. Pastikan untuk memeriksa jadwal dan ketersediaan pengiriman di area Anda.",
-    "Mengapa Alamat Pengiriman Saya Tidak Didukung Oleh Jasa Kirim": "Mohon maaf saat ini alamat pengiriman anda tidak didukung oleh jasa kirim kami"
+    "Mengapa Alamat Pengiriman Saya Tidak Didukung Oleh Jasa Kirim": "Mohon maaf saat ini alamat pengiriman anda tidak didukung oleh jasa kirim kami",
+    "Opsi pengiriman apa saja yang tersedia?": "Kami menawarkan opsi pengiriman standar, ekspres, dan pengiriman hari berikutnya. Ketersediaan mungkin berbeda berdasarkan lokasi Anda."
   },
   "Profil": {
     "Bagaimana Cara Mengubah Informasi Profil": "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan."
   },
   "Promo": {
     "Bagaimana Cara Mendapatkan Promo": "Untuk mendapatkan promo terbaru, buka aplikasi Bengkel Nusantara dan pergi ke bagian Promo atau Penawaran Spesial. Anda juga dapat mengikuti akun media sosial resmi kami untuk mendapatkan informasi promo terbaru.",
-    "Apakah Promo Berlaku Untuk Semua Barang": "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian."
+    "Apakah Promo Berlaku Untuk Semua Barang": "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian.",
+    "Bagaimana cara menggunakan kode promo?": "Anda dapat memasukkan kode promo saat checkout di kolom 'Kode Promo'. Masukkan kode dan klik 'Terapkan'.",
+    "Bisakah saya menggunakan beberapa diskon dalam satu pesanan?": "Hanya satu kode promo atau diskon yang dapat diterapkan per pesanan."
+  },
+  "Informasi Produk": {
+    "Apakah produk Anda dilengkapi dengan garansi?": "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
+    "Di mana saya bisa menemukan panduan ukuran produk?": "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'."
+  },
+  "Greeting": {
+    "Hi! Bagaimana kami bisa membantu Anda hari ini?": "Terima kasih telah menghubungi kami! Kami siap membantu Anda dengan pertanyaan atau masalah apa pun.",
+    "Halo! Ada yang bisa kami bantu?": "Kami di sini untuk membantu Anda dengan berbagai layanan kami. Silakan tanyakan apa saja.",
+    "Selamat Pagi! Bagaimana kabar Anda?": "Semoga harimu menyenangkan! Kami siap membantu segala kebutuhanmu.",
+    "Selamat Siang! Perlu bantuan?": "Kami siap memberikan dukungan penuh untuk masalah atau pertanyaan yang Anda miliki.",
+    "Selamat Sore! Ada yang bisa kami bantu?": "Kami siap membantu Anda dengan informasi atau layanan yang Anda butuhkan.",
+    "Selamat Malam! Butuh bantuan sebelum beristirahat?": "Kami di sini untuk membantu kapan saja, silakan ajukan pertanyaan Anda.",
+    "Terima Kasih sudah menghubungi kami. Ada yang bisa dibantu?": "Kami menghargai waktu Anda untuk menghubungi kami. Ada yang bisa kami bantu lebih lanjut?"
   }
 }
