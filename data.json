@@ -13,7 +13,16 @@
     "Apakah saya bisa mengubah email pengguna?": "Maaf, setelah email pengguna ditetapkan, email tersebut tidak dapat diubah. Namun, Anda bisa membuat akun baru dengan email pengguna yang berbeda."
   },
   "Biaya Layanan": {
-    "Syarat Dan Ketentuan Biaya Jasa Aplikasi": "Biaya Layanan sudah termasuk dengan biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku dan belum termasuk dengan Biaya Penanganan."
+    "Syarat Dan Ketentuan Biaya Jasa Aplikasi": "Biaya Layanan sudah termasuk dengan biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku dan belum termasuk dengan Biaya Penanganan.",
+    "Apakah Biaya Layanan sudah termasuk PPN?": "Ya, Biaya Layanan sudah termasuk Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan perundang-undangan yang berlaku.",
+    "Apakah ada biaya tambahan selain Biaya Layanan?": "Biaya Layanan belum termasuk Biaya Penanganan yang mungkin dikenakan tergantung pada layanan yang digunakan.",
+    "Bagaimana cara menghitung Biaya Layanan?": "Biaya Layanan dihitung berdasarkan ketentuan yang berlaku dan termasuk PPN. Biaya tambahan seperti Biaya Penanganan akan dikenakan secara terpisah.",
+    "Apakah ada Biaya Penanganan dalam transaksi?": "Ya, Biaya Penanganan dapat dikenakan tergantung pada jenis layanan yang digunakan, namun ini belum termasuk dalam Biaya Layanan.",
+    "Apakah Biaya Layanan dapat berubah?": "Biaya Layanan dapat berubah sesuai dengan kebijakan dan ketentuan yang berlaku. Semua perubahan akan diinformasikan melalui platform resmi.",
+    "Apakah ada promosi terkait Biaya Layanan?": "Promosi terkait Biaya Layanan dapat tersedia dari waktu ke waktu. Silakan cek halaman promosi di aplikasi atau website untuk informasi lebih lanjut.",
+    "Bagaimana cara mengetahui total Biaya Layanan?": "Total Biaya Layanan akan ditampilkan pada saat transaksi, termasuk PPN dan Biaya Penanganan jika berlaku.",
+    "Apakah ada denda jika terlambat membayar Biaya Layanan?": "Tidak ada denda untuk Biaya Layanan, namun pembayaran harus dilakukan sesuai dengan ketentuan yang berlaku.",
+    "Apakah Biaya Layanan sama untuk semua jenis layanan?": "Biaya Layanan bisa bervariasi tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku."
   },
   "Customer Service": {
     "Adakah Nomor Dari Bengkel Nusantara Yang Bisa Saya Hubungi": "Anda dapat menghubungi Layanan Pengaduan Konsumen pada kontak di bawah ini: CV. Motekar Cipta Teknologi Call Center : (021) xxxxxxx Anda dapat menghubungi Customer Service melalui email = bengkelnusantara@gmail.com Live Chat pada Pusat Bantuan di aplikasi bengkelnusantara.",
@@ -27,52 +36,127 @@
     "Apa Saja Jam Operasional Customer Service": "Customer Service Bengkel Nusantara tersedia 24 jam setiap hari untuk membantu Anda dengan segala pertanyaan dan masalah yang Anda miliki."
   },
   "Keamanan": {
-    "Cara Melindungi Diri Dari Penipuan": "Bengkel nusantara tidak menyediakan whatsapp pribadi, hindari link yang diberikan oleh oknum baik itu telepon, sms ataupun wa. Website resmi hanya ada di bengkelnusantara.com untuk informasi lebih lanjut hubungi cs jika ada masalah."
+    "Cara Melindungi Diri Dari Penipuan": "Bengkel nusantara tidak menyediakan whatsapp pribadi, hindari link yang diberikan oleh oknum baik itu telepon, sms ataupun wa. Website resmi hanya ada di bengkelnusantara.com untuk informasi lebih lanjut hubungi cs jika ada masalah.",
+    "Apakah Bengkel Nusantara memiliki nomor WhatsApp pribadi?": "Tidak, Bengkel Nusantara tidak menyediakan WhatsApp pribadi. Semua informasi resmi hanya dapat diakses melalui website bengkelnusantara.com.",
+    "Bagaimana cara mengetahui apakah sebuah link berasal dari Bengkel Nusantara?": "Pastikan link yang Anda terima berasal dari domain bengkelnusantara.com. Hindari link yang dikirim melalui SMS, telepon, atau WhatsApp oleh oknum yang tidak dikenal.",
+    "Bagaimana cara melaporkan penipuan terkait Bengkel Nusantara?": "Jika Anda menemui penipuan yang mengatasnamakan Bengkel Nusantara, segera hubungi Customer Service kami melalui website resmi.",
+    "Apakah aman untuk membuka link yang dikirim melalui SMS atau WhatsApp?": "Sebaiknya tidak membuka link yang dikirim melalui SMS atau WhatsApp oleh pihak yang tidak dikenal. Hanya akses link resmi dari website bengkelnusantara.com.",
+    "Bagaimana jika saya menerima pesan mencurigakan atas nama Bengkel Nusantara?": "Jangan klik link atau membagikan informasi pribadi. Segera laporkan pesan tersebut ke Customer Service melalui website resmi kami.",
+    "Apakah Bengkel Nusantara menyediakan layanan melalui SMS?": "Tidak, Bengkel Nusantara tidak menyediakan layanan melalui SMS. Semua informasi resmi disampaikan melalui website bengkelnusantara.com.",
+    "Di mana saya bisa menemukan informasi resmi dari Bengkel Nusantara?": "Semua informasi resmi mengenai Bengkel Nusantara tersedia di website resmi bengkelnusantara.com.",
+    "Apakah Bengkel Nusantara memiliki media sosial resmi?": "Ya, Bengkel Nusantara memiliki akun media sosial resmi yang terverifikasi. Hindari akun-akun palsu yang mengatasnamakan Bengkel Nusantara.",
+    "Apa yang harus saya lakukan jika menerima telepon mencurigakan dari seseorang yang mengaku dari Bengkel Nusantara?": "Jangan berikan informasi pribadi dan segera tutup telepon. Laporkan kejadian tersebut ke Customer Service melalui website resmi.",
+    "Bagaimana cara menghindari penipuan online yang mengatasnamakan Bengkel Nusantara?": "Selalu pastikan Anda hanya bertransaksi melalui website resmi bengkelnusantara.com dan hindari memberikan informasi pribadi kepada pihak yang tidak dikenal.",
+    "Apakah Bengkel Nusantara pernah meminta data pribadi melalui telepon atau WhatsApp?": "Tidak, Bengkel Nusantara tidak akan meminta data pribadi melalui telepon atau WhatsApp. Jika Anda menerima permintaan seperti itu, harap segera laporkan."
   },
   "Masalah Teknis": {
-    "Bagaimana Mengatasi Aplikasi Error": "Luncurkan ulang aplikasi, atau hapus cache aplikasi. Langkah-Langkah untuk menghapus cache aplikasi: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari bengkel nusantara 4. buka penyimpanan 5. hapus memori/chace",
-    "Aplikasi Tidak Bisa Dibuka, Apa Yang Harus Saya Lakukan": "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
+    "Bagaimana Mengatasi Aplikasi Error?": "Luncurkan ulang aplikasi, atau hapus cache aplikasi. Langkah-Langkah untuk menghapus cache aplikasi: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus memori/cache.",
+    "Aplikasi Tidak Bisa Dibuka, Apa Yang Harus Saya Lakukan?": "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
     "Apa yang harus saya lakukan jika situs tidak bisa diakses?": "Jika situs tidak bisa diakses, coba bersihkan cache browser Anda atau coba akses situs dari browser atau perangkat lain.",
-    "Bagaimana cara melaporkan bug di aplikasi?": "Untuk melaporkan bug, pergi ke bagian 'Bantuan & Dukungan' di aplikasi dan klik 'Laporkan Masalah'. Jelaskan masalahnya secara detail."
+    "Bagaimana cara melaporkan bug di aplikasi?": "Untuk melaporkan bug, pergi ke bagian 'Bantuan & Dukungan' di aplikasi dan klik 'Laporkan Masalah'. Jelaskan masalahnya secara detail.",
+    "Bagaimana cara memperbaiki aplikasi yang sering crash?": "Coba perbarui aplikasi ke versi terbaru dan pastikan perangkat Anda memiliki ruang penyimpanan yang cukup. Jika masalah berlanjut, reinstall aplikasi.",
+    "Mengapa saya tidak bisa mengunduh pembaruan aplikasi?": "Pastikan koneksi internet Anda stabil dan perangkat Anda memiliki ruang penyimpanan yang cukup untuk mengunduh pembaruan aplikasi.",
+    "Apa yang harus dilakukan jika aplikasi mengalami lag?": "Tutup aplikasi lain yang berjalan di latar belakang dan pastikan perangkat Anda memiliki ruang penyimpanan serta RAM yang cukup.",
+    "Bagaimana cara memperbarui aplikasi Bengkel Nusantara?": "Buka Play Store atau App Store, cari Bengkel Nusantara, dan klik tombol 'Perbarui' jika tersedia.",
+    "Mengapa aplikasi tiba-tiba keluar sendiri?": "Aplikasi mungkin mengalami crash. Coba bersihkan cache atau perbarui aplikasi ke versi terbaru. Jika masalah berlanjut, reinstall aplikasi.",
+    "Apa yang harus saya lakukan jika notifikasi dari aplikasi tidak muncul?": "Periksa pengaturan notifikasi di perangkat Anda dan pastikan notifikasi untuk aplikasi Bengkel Nusantara diaktifkan.",
+    "Bagaimana cara membersihkan cache aplikasi untuk memperbaiki masalah teknis?": "Untuk membersihkan cache: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus cache."
   },
   "Metode Pembayaran": {
-    "Apa Saja Metode Pembayaran Yang Dapat Dilakukan Di Bengkel Nusantra": "Di Bengkel Nusantra, beberapa metode pembayaran yang tersedia mungkin mencakup: COD: Pembayaran dapat dilakukan dengan sistem cod. Transfer Bank: Pembayaran dapat dilakukan dengan cara transfer bank. Diantaranya bank BRI, BNI, BCA. Tata Cara untuk transfer bank klik disini. Dompet Digital: Pembayaran juga dapat dilakukan dengan cara menggunakan dompet digital seperti GoPay, OVO, dan Dana. Cara untuk transfer menggunakan dompet digital dapat dilihat disini.",
-    "Apakah Bisa Bayar Dengan Kartu Kredit": "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout.",
-    "Metode pembayaran apa saja yang diterima?": "Kami menerima berbagai metode pembayaran, termasuk kartu kredit/debit, PayPal, dan transfer bank."
+    "Apa Saja Metode Pembayaran Yang Dapat Dilakukan Di Bengkel Nusantara?": "Di Bengkel Nusantara, beberapa metode pembayaran yang tersedia mungkin mencakup: COD: Pembayaran dapat dilakukan dengan sistem cod. Transfer Bank: Pembayaran dapat dilakukan dengan cara transfer bank. Diantaranya bank BRI, BNI, BCA. Tata Cara untuk transfer bank klik disini. Dompet Digital: Pembayaran juga dapat dilakukan dengan cara menggunakan dompet digital seperti GoPay, OVO, dan Dana. Cara untuk transfer menggunakan dompet digital dapat dilihat disini.",
+    "Apakah Bisa Bayar Dengan Kartu Kredit?": "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout.",
+    "Metode pembayaran apa saja yang diterima?": "Kami menerima berbagai metode pembayaran, termasuk kartu kredit/debit, PayPal, dan transfer bank.",
+    "Bagaimana cara melakukan pembayaran dengan transfer bank?": "Untuk melakukan pembayaran dengan transfer bank, pilih opsi transfer bank saat checkout. Anda dapat melakukan transfer ke rekening BRI, BNI, atau BCA. Klik di sini untuk panduan lebih lanjut.",
+    "Apakah Bengkel Nusantara menerima pembayaran dengan dompet digital?": "Ya, kami menerima pembayaran dengan dompet digital seperti GoPay, OVO, dan Dana. Panduan cara menggunakan dompet digital dapat dilihat di sini.",
+    "Apakah COD tersedia untuk semua produk?": "Tidak, sistem COD hanya tersedia untuk produk tertentu. Pilih opsi COD saat checkout untuk melihat produk yang mendukung metode ini.",
+    "Apakah pembayaran dengan PayPal tersedia?": "Ya, kami mendukung pembayaran melalui PayPal. Anda dapat memilih opsi PayPal saat checkout.",
+    "Bagaimana cara membayar menggunakan GoPay?": "Untuk membayar dengan GoPay, pilih opsi dompet digital saat checkout, kemudian pilih GoPay dan ikuti instruksi pada layar.",
+    "Apakah bisa membayar menggunakan kartu debit?": "Ya, kami menerima pembayaran menggunakan kartu debit. Pilih opsi kartu kredit/debit saat checkout.",
+    "Bagaimana jika pembayaran saya gagal?": "Jika pembayaran Anda gagal, coba lagi menggunakan metode pembayaran yang berbeda atau hubungi Customer Service untuk bantuan lebih lanjut.",
+    "Apakah ada biaya tambahan untuk pembayaran dengan kartu kredit?": "Tidak ada biaya tambahan untuk pembayaran menggunakan kartu kredit di Bengkel Nusantara."
   },
   "Pelacakan Pesanan": {
-    "Bagaimana Cara Melacak Status Pengiriman Barang": "Anda dapat melacak status pengiriman barang dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi .",
-    "Cara Mengetahui Estimasi Pengiriman": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama).",
-    "Apa Yang Harus Saya Lakukan Jika Tidak Bisa Melacak Pengiriman": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama).",
-    "Apa arti 'Sedang Diproses' pada status pesanan saya?": "'Sedang Diproses' berarti pesanan Anda sedang disiapkan untuk pengiriman."
+    "Bagaimana Cara Melacak Status Pengiriman Barang?": "Anda dapat melacak status pengiriman barang dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi.",
+    "Cara Mengetahui Estimasi Pengiriman?": "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh: Masa Pengemasan yang dibutuhkan Penjual. Tipe layanan pengiriman yang dipilih (Contoh: pengiriman dengan tipe layanan pengiriman Hemat dapat lebih lama dibandingkan dengan tipe layanan pengiriman Reguler, atau pesanan yang dikirimkan dari luar negeri dapat membutuhkan waktu lebih lama karena proses Bea Cukai dan/atau hari libur). Lokasi Pembeli dan Penjual (semakin jauh jarak antara Penjual dan Pembeli, maka pengiriman dapat lebih lama).",
+    "Apa Yang Harus Saya Lakukan Jika Tidak Bisa Melacak Pengiriman?": "Jika Anda tidak bisa melacak pengiriman, pastikan nomor resi atau pelacakan yang dimasukkan benar. Jika masalah berlanjut, hubungi Customer Service atau penyedia layanan pengiriman untuk bantuan lebih lanjut.",
+    "Apa arti 'Sedang Diproses' pada status pesanan saya?": "'Sedang Diproses' berarti pesanan Anda sedang disiapkan untuk pengiriman.",
+    "Apa yang harus saya lakukan jika status pengiriman tidak berubah?": "Jika status pengiriman tidak berubah dalam beberapa hari, coba periksa kembali nomor pelacakan dan hubungi penyedia layanan pengiriman atau Customer Service untuk konfirmasi.",
+    "Berapa lama waktu yang dibutuhkan untuk barang sampai?": "Waktu pengiriman bervariasi tergantung lokasi Penjual dan Pembeli, serta tipe layanan pengiriman yang dipilih. Biasanya pengiriman dengan layanan Hemat lebih lama dibandingkan dengan Reguler.",
+    "Apa yang harus saya lakukan jika barang saya terlambat sampai?": "Jika barang Anda terlambat sampai, pastikan Anda sudah memeriksa status pengiriman melalui nomor resi. Jika pengiriman terlambat lebih dari waktu estimasi, segera hubungi Customer Service.",
+    "Apakah saya bisa mengganti alamat pengiriman setelah pesanan dikirim?": "Setelah pesanan dikirim, penggantian alamat pengiriman tidak bisa dilakukan. Anda dapat menghubungi penyedia layanan pengiriman untuk bantuan jika memungkinkan.",
+    "Bagaimana jika barang saya hilang saat pengiriman?": "Jika barang hilang dalam proses pengiriman, segera hubungi penyedia layanan pengiriman dan Customer Service untuk melakukan pelacakan dan investigasi lebih lanjut.",
+    "Apa yang harus saya lakukan jika menerima barang yang salah?": "Jika Anda menerima barang yang salah, segera hubungi Customer Service dan sertakan foto barang yang diterima serta nomor pesanan Anda untuk langkah lebih lanjut.",
+    "Apa arti status 'Dikirim' pada pesanan saya?": "'Dikirim' berarti barang pesanan Anda telah diserahkan kepada penyedia layanan pengiriman dan sedang dalam proses menuju alamat tujuan."
   },
   "Pengembalian Dana": {
-    "Bagaimana Proses Pengembalian Dana": "Setelah melakukan pembatalan pesanan atau pengembalian barang, dana akan dikembalikan ke saldo bengkelnusantara (koin) atau transfer bank.",
-    "Berapa Lama Proses Pengembalian Dana": "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan.",
-    "Bagaimana cara mengembalikan produk?": "Untuk mengembalikan produk, masuk ke akun Anda, temukan pesanan, dan klik 'Kembalikan' di samping produk yang ingin Anda kembalikan. Ikuti instruksi yang diberikan.",
-    "Berapa lama waktu yang diperlukan untuk mendapatkan pengembalian dana?": "Pengembalian dana biasanya memerlukan waktu 5-7 hari kerja setelah barang yang dikembalikan diterima dan diperiksa."
+    "Bagaimana Proses Pengembalian Dana?": "Setelah melakukan pembatalan pesanan atau pengembalian barang, dana akan dikembalikan ke saldo Bengkel Nusantara (koin) atau melalui transfer bank.",
+    "Berapa Lama Proses Pengembalian Dana?": "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan.",
+    "Bagaimana Cara Mengembalikan Produk?": "Untuk mengembalikan produk, masuk ke akun Anda, temukan pesanan, dan klik 'Kembalikan' di samping produk yang ingin Anda kembalikan. Ikuti instruksi yang diberikan.",
+    "Berapa Lama Waktu yang Diperlukan untuk Mendapatkan Pengembalian Dana?": "Pengembalian dana biasanya memerlukan waktu 5-7 hari kerja setelah barang yang dikembalikan diterima dan diperiksa.",
+    "Apakah Ada Biaya Pengembalian Barang?": "Biaya pengembalian barang tergantung pada syarat dan ketentuan yang berlaku. Beberapa produk mungkin dikenakan biaya pengembalian.",
+    "Bagaimana Jika Produk yang Diterima Rusak?": "Jika Anda menerima produk yang rusak, segera laporkan melalui menu 'Bantuan & Dukungan' di aplikasi dan pilih opsi pengembalian barang. Dana akan dikembalikan setelah barang diterima dan diperiksa.",
+    "Apakah Semua Produk Bisa Dikembalikan?": "Tidak semua produk dapat dikembalikan. Produk yang tidak dapat dikembalikan biasanya termasuk produk yang bersifat perishable atau yang sudah digunakan.",
+    "Bagaimana Saya Mengetahui Jika Pengembalian Dana Sudah Diproses?": "Anda akan menerima notifikasi melalui email atau aplikasi setelah pengembalian dana diproses. Anda juga bisa memeriksa statusnya di bagian 'Riwayat Transaksi' akun Anda.",
+    "Apakah Pengembalian Dana Bisa Ditolak?": "Ya, pengembalian dana bisa ditolak jika produk yang dikembalikan tidak memenuhi syarat pengembalian, misalnya jika produk sudah digunakan atau tidak dalam kondisi asli.",
+    "Bagaimana Cara Menghubungi Customer Service untuk Pengembalian Dana?": "Anda dapat menghubungi Customer Service melalui menu 'Bantuan & Dukungan' di aplikasi Bengkel Nusantara atau melalui email resmi kami.",
+    "Apakah Saya Bisa Mengembalikan Barang Tanpa Alasan?": "Pengembalian barang tanpa alasan mungkin tidak diterima tergantung pada kebijakan penjual. Pastikan untuk memeriksa kebijakan pengembalian barang sebelum melakukan pembelian."
   },
   "Pembatalan": {
-    "Bagaimana Cara Membatalkan Pesanan": "Untuk pembatalan pesanan, pilih Saya > pilih menu Dikemas > pilih pesanan yang ingin dibatalkan > pilih Batalkan Pesanan. Anda dapat memilih alasan pembatalan dan kemudian konfirmasi untuk membatalkan pesanan. Harap diperhatikan bahwa pembatalan hanya bisa dilakukan sebelum pesanan masuk ke status Dikirim.",
-    "Apakah Ada Biaya Untuk Pembatalan Pesanan": "Tidak ada biaya tambahan untuk pembatalan pesanan di Bengkel Nusantara. Namun, jika pesanan sudah dalam proses pengiriman, pembatalan mungkin tidak dapat dilakukan."
+    "Bagaimana Cara Membatalkan Pesanan?": "Untuk pembatalan pesanan, pilih Saya > pilih menu Dikemas > pilih pesanan yang ingin dibatalkan > pilih Batalkan Pesanan. Anda dapat memilih alasan pembatalan dan kemudian konfirmasi untuk membatalkan pesanan. Harap diperhatikan bahwa pembatalan hanya bisa dilakukan sebelum pesanan masuk ke status Dikirim.",
+    "Apakah Ada Biaya Untuk Pembatalan Pesanan?": "Tidak ada biaya tambahan untuk pembatalan pesanan di Bengkel Nusantara. Namun, jika pesanan sudah dalam proses pengiriman, pembatalan mungkin tidak dapat dilakukan.",
+    "Bagaimana Jika Saya Ingin Membatalkan Pesanan Setelah Dikirim?": "Jika pesanan sudah dalam status Dikirim, pembatalan tidak dapat dilakukan. Anda bisa menunggu pesanan tiba dan kemudian mengajukan pengembalian barang.",
+    "Apakah Saya Bisa Membatalkan Sebagian Barang dalam Pesanan?": "Tidak, pembatalan hanya bisa dilakukan untuk keseluruhan pesanan, tidak untuk sebagian barang dalam pesanan.",
+    "Apakah Alasan Pembatalan Pesanan Diperlukan?": "Ya, Anda perlu memilih alasan pembatalan saat ingin membatalkan pesanan. Beberapa pilihan alasan sudah disediakan untuk Anda pilih.",
+    "Kapan Saya Bisa Membatalkan Pesanan?": "Pembatalan pesanan dapat dilakukan kapan saja selama pesanan belum masuk ke tahap pengiriman.",
+    "Apakah Saya Akan Mendapatkan Pengembalian Dana Setelah Membatalkan Pesanan?": "Ya, setelah pembatalan pesanan, dana Anda akan dikembalikan melalui metode pembayaran yang digunakan atau ke saldo Bengkel Nusantara.",
+    "Apa yang Terjadi Jika Pembatalan Tidak Berhasil?": "Jika pembatalan tidak berhasil, mungkin pesanan Anda sudah masuk dalam proses pengiriman. Anda dapat menghubungi Customer Service untuk bantuan lebih lanjut.",
+    "Apakah Saya Bisa Membatalkan Pesanan Jika Sudah Dibayar?": "Ya, pesanan yang sudah dibayar masih bisa dibatalkan selama belum dalam proses pengiriman.",
+    "Berapa Lama Waktu Yang Dibutuhkan Untuk Proses Pembatalan?": "Proses pembatalan biasanya selesai dalam beberapa menit. Pengembalian dana dapat memakan waktu 3-7 hari kerja tergantung metode pembayaran."
   },
   "Pengiriman": {
-    "Bagaimana Cara Mengatur Jadwal Pengiriman": "Anda dapat mengatur jadwal pengiriman saat melakukan proses checkout. Pilih opsi pengiriman yang sesuai dengan preferensi Anda. Pastikan untuk memeriksa jadwal dan ketersediaan pengiriman di area Anda.",
-    "Mengapa Alamat Pengiriman Saya Tidak Didukung Oleh Jasa Kirim": "Mohon maaf saat ini alamat pengiriman anda tidak didukung oleh jasa kirim kami",
-    "Opsi pengiriman apa saja yang tersedia?": "Kami menawarkan opsi pengiriman standar, ekspres, dan pengiriman hari berikutnya. Ketersediaan mungkin berbeda berdasarkan lokasi Anda."
+    "Bagaimana Cara Mengatur Jadwal Pengiriman?": "Anda dapat mengatur jadwal pengiriman saat melakukan proses checkout. Pilih opsi pengiriman yang sesuai dengan preferensi Anda. Pastikan untuk memeriksa jadwal dan ketersediaan pengiriman di area Anda.",
+    "Mengapa Alamat Pengiriman Saya Tidak Didukung Oleh Jasa Kirim?": "Mohon maaf, saat ini alamat pengiriman Anda tidak didukung oleh jasa kirim kami. Silakan coba dengan alamat lain atau hubungi Customer Service untuk bantuan lebih lanjut.",
+    "Opsi Pengiriman Apa Saja yang Tersedia?": "Kami menawarkan opsi pengiriman standar, ekspres, dan pengiriman hari berikutnya. Ketersediaan opsi ini mungkin berbeda tergantung lokasi Anda.",
+    "Bagaimana Saya Mengetahui Jadwal Pengiriman Tersedia di Daerah Saya?": "Anda bisa mengecek jadwal pengiriman yang tersedia di daerah Anda saat checkout. Pilih opsi pengiriman dan jadwal yang tersedia akan muncul berdasarkan alamat pengiriman Anda.",
+    "Apakah Saya Bisa Mengubah Jadwal Pengiriman Setelah Pesanan Dikirim?": "Sayangnya, jadwal pengiriman tidak dapat diubah setelah pesanan dikirim. Anda bisa mengatur jadwal pengiriman hanya saat proses checkout.",
+    "Apakah Ada Biaya Tambahan untuk Pengiriman Ekspres?": "Ya, pengiriman ekspres biasanya dikenakan biaya tambahan. Detail biaya akan ditampilkan saat Anda memilih opsi pengiriman di proses checkout.",
+    "Kapan Saya Bisa Memilih Pengiriman Hari Berikutnya?": "Pengiriman hari berikutnya hanya tersedia untuk pesanan yang dilakukan sebelum batas waktu tertentu dan di area yang mendukung layanan tersebut.",
+    "Bagaimana Jika Pengiriman Tidak Sampai Tepat Waktu?": "Jika pengiriman tidak tiba sesuai jadwal, Anda bisa menghubungi Customer Service untuk mendapatkan update atau bantuan lebih lanjut.",
+    "Apakah Saya Bisa Menggunakan Beberapa Alamat Pengiriman?": "Saat ini, Anda hanya bisa memilih satu alamat pengiriman per pesanan. Jika Anda ingin mengirim ke beberapa alamat, Anda harus membuat pesanan terpisah.",
+    "Bagaimana Cara Mengganti Alamat Pengiriman Setelah Pesanan Dibuat?": "Anda bisa mengganti alamat pengiriman selama pesanan belum diproses untuk pengiriman. Masuk ke akun Anda, buka detail pesanan, dan pilih opsi untuk mengganti alamat pengiriman."
   },
   "Profil": {
-    "Bagaimana Cara Mengubah Informasi Profil": "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan."
+    "Bagaimana Cara Mengubah Informasi Profil?": "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan.",
+    "Apakah Saya Bisa Mengganti Foto Profil?": "Ya, Anda bisa mengganti foto profil dengan membuka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > pilih Ganti Foto Profil dan unggah foto baru.",
+    "Bagaimana Jika Saya Lupa Kata Sandi Profil?": "Anda bisa melakukan reset kata sandi dengan memilih opsi 'Lupa Kata Sandi' pada halaman login dan mengikuti instruksi yang diberikan.",
+    "Apakah Saya Bisa Menghapus Akun Saya?": "Anda bisa mengajukan permohonan penghapusan akun dengan menghubungi Customer Service kami melalui bagian Bantuan di aplikasi.",
+    "Bagaimana Cara Menambahkan Informasi Kontak?": "Untuk menambahkan informasi kontak, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > tambahkan nomor telepon atau email baru dan pilih Simpan.",
+    "Apakah Informasi Profil Saya Aman?": "Ya, informasi profil Anda aman dan tidak akan dibagikan kepada pihak ketiga tanpa izin Anda.",
+    "Bagaimana Cara Melihat Riwayat Pembelian Saya?": "Anda bisa melihat riwayat pembelian dengan membuka tab Saya > pilih Riwayat Pembelian.",
+    "Apakah Saya Bisa Mengatur Notifikasi untuk Pembaruan Profil?": "Ya, Anda dapat mengatur notifikasi untuk pembaruan profil di pengaturan notifikasi pada tab Saya.",
+    "Apakah Ada Cara untuk Mengembalikan Profil yang Dihapus?": "Setelah profil dihapus, Anda tidak bisa mengembalikannya. Anda perlu mendaftar ulang jika ingin menggunakan layanan kami lagi."
   },
   "Promo": {
-    "Bagaimana Cara Mendapatkan Promo": "Untuk mendapatkan promo terbaru, buka aplikasi Bengkel Nusantara dan pergi ke bagian Promo atau Penawaran Spesial. Anda juga dapat mengikuti akun media sosial resmi kami untuk mendapatkan informasi promo terbaru.",
-    "Apakah Promo Berlaku Untuk Semua Barang": "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian.",
-    "Bagaimana cara menggunakan kode promo?": "Anda dapat memasukkan kode promo saat checkout di kolom 'Kode Promo'. Masukkan kode dan klik 'Terapkan'.",
-    "Bisakah saya menggunakan beberapa diskon dalam satu pesanan?": "Hanya satu kode promo atau diskon yang dapat diterapkan per pesanan."
+    "Bagaimana Cara Mendapatkan Promo?": "Untuk mendapatkan promo terbaru, buka aplikasi Bengkel Nusantara dan pergi ke bagian Promo atau Penawaran Spesial. Anda juga dapat mengikuti akun media sosial resmi kami untuk mendapatkan informasi promo terbaru.",
+    "Apakah Promo Berlaku Untuk Semua Barang?": "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian.",
+    "Bagaimana Cara Menggunakan Kode Promo?": "Anda dapat memasukkan kode promo saat checkout di kolom 'Kode Promo'. Masukkan kode dan klik 'Terapkan'.",
+    "Bisakah Saya Menggunakan Beberapa Diskon Dalam Satu Pesanan?": "Hanya satu kode promo atau diskon yang dapat diterapkan per pesanan.",
+    "Apakah Ada Promo Khusus Untuk Pengguna Baru?": "Ya, kami sering menawarkan promo khusus untuk pengguna baru. Pastikan Anda memeriksa bagian Promo di aplikasi untuk informasi lebih lanjut.",
+    "Bagaimana Cara Mendaftar untuk Mengetahui Promo Terbaru?": "Anda dapat mendaftar untuk newsletter atau mengikuti akun media sosial kami untuk mendapatkan informasi promo terbaru.",
+    "Apakah Promo Dapat Dibatalkan Setelah Diterapkan?": "Tidak, sekali promo diterapkan, Anda tidak bisa membatalkannya. Pastikan untuk memeriksa detail sebelum menyelesaikan pembayaran.",
+    "Bagaimana Saya Tahu Jika Promo Sudah Berakhir?": "Informasi mengenai masa berlaku promo biasanya ditampilkan di halaman promo. Pastikan untuk memeriksa sebelum melakukan pembelian.",
+    "Apakah Saya Bisa Menerima Pemberitahuan Tentang Promo Melalui Email?": "Ya, Anda dapat mengaktifkan pemberitahuan melalui email untuk mendapatkan informasi tentang promo terbaru."
   },
   "Informasi Produk": {
-    "Apakah produk Anda dilengkapi dengan garansi?": "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
-    "Di mana saya bisa menemukan panduan ukuran produk?": "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'."
+    "Apakah Produk Anda Dilengkapi Dengan Garansi?": "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
+    "Di Mana Saya Bisa Menemukan Panduan Ukuran Produk?": "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'.",
+    "Bagaimana Saya Bisa Mengetahui Ketersediaan Produk?": "Ketersediaan produk ditampilkan di halaman produk. Jika produk habis, Anda bisa memilih opsi untuk diberitahu ketika produk kembali tersedia.",
+    "Apakah Produk Dijual Dalam Kondisi Baru?": "Ya, semua produk yang dijual melalui platform kami adalah produk baru. Kondisi produk dapat diperiksa di halaman deskripsi produk.",
+    "Apakah Produk Yang Dijual Asli?": "Ya, kami menjamin bahwa semua produk yang dijual di Bengkel Nusantara adalah produk asli dari penjual terverifikasi.",
+    "Bagaimana Cara Mengetahui Spesifikasi Produk?": "Spesifikasi produk dapat ditemukan di halaman detail produk, di bagian deskripsi atau spesifikasi teknis.",
+    "Apakah Saya Bisa Mengajukan Pertanyaan Tentang Produk?": "Ya, Anda dapat mengajukan pertanyaan tentang produk di halaman produk, dan tim kami akan menjawabnya.",
+    "Bagaimana Jika Saya Menerima Produk yang Salah?": "Jika Anda menerima produk yang salah, segera hubungi Customer Service kami untuk proses pengembalian dan penggantian.",
+    "Apakah Ada Kebijakan Pengembalian untuk Produk?": "Ya, kami memiliki kebijakan pengembalian untuk produk dalam jangka waktu tertentu setelah penerimaan barang."
   },
   "Greeting": {
     "Hi! Bagaimana kami bisa membantu Anda hari ini?": "Terima kasih telah menghubungi kami! Kami siap membantu Anda dengan pertanyaan atau masalah apa pun.",
