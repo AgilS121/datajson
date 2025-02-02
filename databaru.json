@@ -340,7 +340,7 @@
             ]
         },
         {
-          "subkategori": "Tipe Layanan",
+          "subkategori": "Layanan Servis",
           "pertanyaan": [
             "Apakah saya bisa booking servis motor?",
             "Apa saja layanan yang tersedia di bengkel ini?",
@@ -1100,53 +1100,154 @@
         }
     ],
     "Pertolongan Awal": [
-        {
-          "subkategori": "Pengecekan Mandiri",
-          "pertanyaan": [
-            "Bagaimana cara mengecek kondisi oli motor?",
-            "Bagaimana mengetahui apakah ban perlu diganti?",
-            "Bagaimana cara mengecek kampas rem?",
-            "Apa tanda-tanda aki motor mulai lemah?",
-            "Bagaimana cara memeriksa tekanan angin ban?",
-            "Bagaimana mengetahui apakah shockbreaker masih bagus?",
-            "Bagaimana cara mengecek kebocoran oli pada mesin?",
-            "Apa saja yang perlu diperiksa sebelum perjalanan jauh?",
-            "Bagaimana cara mengetahui apakah mesin overheat?",
-            "Bagaimana cara mengecek kondisi rantai motor?",
-            "Aki cepat habis, apa penyebabnya?",
-            "Mengapa starter motor saya tidak berfungsi?",
-            "Bagaimana cara mengetahui apakah mesin berbunyi kasar karena masalah serius?",
-            "Apa penyebab gigi transmisi sulit masuk?",
-            "Bagaimana mengetahui apakah konsumsi bahan bakar kendaraan saya boros?",
-            "Apa penyebab AC mobil tidak dingin?",
-            "Mengapa rem saya terasa tidak pakem?",
-            "Bagaimana cara mengetahui apakah shockbreaker saya perlu diganti?",
-            "Apa tanda-tanda radiator mengalami kebocoran?",
-            "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?"
-          ],
-          "jawaban": [
-            "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
-            "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
-            "Periksa ketebalan kampas rem, jika sudah menipis dan pengereman terasa kurang pakem, sebaiknya diganti.",
-            "Jika lampu redup, motor sulit dinyalakan, atau klakson melemah, kemungkinan aki mulai lemah.",
-            "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
-            "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
-            "Periksa bagian bawah mesin untuk melihat apakah ada tetesan oli yang tidak wajar.",
-            "Cek kondisi ban, rem, oli, aki, dan lampu sebelum melakukan perjalanan jauh.",
-            "Jika indikator suhu naik drastis atau keluar asap dari mesin, segera matikan motor dan biarkan dingin.",
-            "Periksa ketegangan rantai, jika terlalu kendur atau berbunyi kasar, segera atur atau lumasi rantai.",
-            "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
-            "Starter yang tidak berfungsi bisa disebabkan oleh aki lemah atau kabel kelistrikan bermasalah.",
-            "Jika mesin berbunyi kasar terus-menerus, periksa oli mesin atau bawa ke bengkel untuk diagnosa lebih lanjut.",
-            "Gigi transmisi yang sulit masuk bisa disebabkan oleh oli transmisi yang kurang atau kopling yang bermasalah.",
-            "Jika kendaraan terasa lebih boros dari biasanya, cek filter udara dan sensor bahan bakar.",
-            "AC mobil yang tidak dingin bisa disebabkan oleh freon habis atau kompresor bermasalah.",
-            "Rem yang tidak pakem bisa disebabkan oleh minyak rem habis atau kampas rem yang aus.",
-            "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
-            "Radiator yang bocor biasanya menunjukkan tanda-tanda air cepat habis atau ada rembesan di bawah kendaraan.",
-            "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil."
-          ]
-        }
-    ]
+    {
+      "subkategori": "Pengecekan Mandiri Oli",
+      "pertanyaan": [
+        "Bagaimana cara mengecek kondisi oli motor?",
+        "Kapan saya harus mengganti oli motor?",
+        "Apa gejala jika oli motor kurang?",
+        "Bagaimana cara memeriksa kebocoran oli?",
+        "Apakah boleh menggunakan oli motor yang sudah lama?",
+        "Apa tanda-tanda oli motor perlu diganti?",
+        "Apakah bisa menggunakan oli motor yang berbeda merek?",
+        "Apa yang harus dilakukan jika oli motor bocor?",
+        "Bagaimana cara mengetahui kualitas oli motor?",
+        "Apakah perlu mengganti filter oli setiap kali ganti oli?",
+        "Apakah bisa menggunakan oli motor bekas?",
+        "Berapa banyak oli yang dibutuhkan untuk motor saya?",
+        "Apa yang terjadi jika terlambat mengganti oli motor?",
+        "Bagaimana cara mengisi ulang oli motor yang berkurang?",
+        "Apakah oli motor mempengaruhi performa mesin?"
+      ],
+      "jawaban": [
+        "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
+        "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.",
+        "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang.",
+        "Periksa bagian bawah mesin dan tempat parkir untuk melihat apakah ada tetesan oli yang tidak wajar.",
+        "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal.",
+        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
+        "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik.",
+        "Segera perbaiki kebocoran untuk menghindari kerusakan lebih lanjut pada mesin.",
+        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor.",
+        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
+        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin.",
+        "Biasanya sekitar 1-2 liter, tergantung jenis dan ukuran mesin motor.",
+        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk.",
+        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu.",
+        "Oli motor yang berkualitas buruk dapat menurunkan performa dan mempercepat keausan mesin."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Mandiri Ban",
+      "pertanyaan": [
+        "Bagaimana mengetahui apakah ban perlu diganti?",
+        "Bagaimana cara memeriksa tekanan angin ban?",
+        "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?",
+        "Bagaimana cara mengetahui apakah ban saya aus?",
+        "Apa penyebab ban motor cepat botak?",
+        "Berapa tekanan angin ideal untuk ban motor?",
+        "Bagaimana cara memperbaiki ban bocor?",
+        "Apa yang harus dilakukan jika ban motor saya kempes?",
+        "Bagaimana cara memilih ban motor yang tepat?",
+        "Kapan waktu yang tepat untuk mengganti ban motor?",
+        "Apakah ban mobil dapat dipasang di motor?",
+        "Bagaimana cara merawat ban agar awet?",
+        "Apa yang harus dilakukan jika ban mobil saya bocor?",
+        "Bagaimana cara mengecek kedalaman alur ban?",
+        "Apa tanda-tanda ban mobil perlu diganti?"
+      ],
+      "jawaban": [
+        "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
+        "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
+        "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil.",
+        "Periksa alur ban. Jika sudah tipis dan tidak ada lagi alur yang jelas, maka ban perlu diganti.",
+        "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi.",
+        "Tekanan angin ideal untuk ban motor biasanya sekitar 30-35 psi, tetapi cek di manual kendaraan.",
+        "Jika ban bocor, Anda bisa menambalnya atau mengganti ban jika sudah parah.",
+        "Segera isi ulang angin ban atau gunakan ban cadangan jika ban kempes.",
+        "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.",
+        "Ganti ban motor jika sudah aus atau tidak bisa diperbaiki lagi.",
+        "Tidak, ban mobil lebih besar dan memiliki spesifikasi yang berbeda dengan ban motor.",
+        "Jaga tekanan angin ban sesuai dengan rekomendasi dan hindari sering berkendara di jalan kasar.",
+        "Untuk ban mobil yang bocor, Anda bisa menambal ban atau mengganti ban jika tidak bisa diperbaiki.",
+        "Periksa kedalaman alur dengan alat pengukur kedalaman ban. Jika kurang dari 1.6 mm, ban harus diganti.",
+        "Jika ban mobil sudah aus atau ada kerusakan serius, sebaiknya segera diganti untuk keselamatan."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Mandiri Aki",
+      "pertanyaan": [
+        "Apa tanda-tanda aki motor mulai lemah?",
+        "Aki cepat habis, apa penyebabnya?",
+        "Bagaimana cara merawat aki motor?",
+        "Apa penyebab aki motor cepat habis?",
+        "Berapa lama umur aki motor?",
+        "Bagaimana cara mengetahui apakah aki sudah waktunya diganti?",
+        "Bagaimana cara mengecek kondisi aki?",
+        "Apakah bisa menggunakan aki mobil untuk motor?",
+        "Apa yang harus dilakukan jika aki motor soak?",
+        "Apa saja tanda aki mobil perlu diganti?",
+        "Bagaimana cara mengecek tegangan aki?",
+        "Apakah menggunakan alat elektronik terlalu banyak mempengaruhi aki motor?",
+        "Apa yang menyebabkan aki motor cepat rusak?",
+        "Bagaimana cara memperbaiki aki yang soak?",
+        "Apakah bisa mengisi ulang aki yang sudah soak?"
+      ],
+      "jawaban": [
+        "Jika lampu redup, motor sulit dinyalakan, atau klakson melemah, kemungkinan aki mulai lemah.",
+        "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
+        "Jaga kebersihan terminal aki dan pastikan tidak ada kotoran atau karat.",
+        "Penggunaan aksesori yang berlebihan atau masalah pada sistem pengisian dapat menyebabkan aki cepat habis.",
+        "Umur aki motor bervariasi, namun biasanya berkisar antara 1 hingga 2 tahun.",
+        "Jika lampu redup atau motor sulit dinyalakan, bisa jadi saatnya mengganti aki.",
+        "Periksa terminal aki dan pastikan tegangan aki berada di level yang normal.",
+        "Tidak disarankan, karena aki mobil lebih besar dan tidak cocok untuk motor.",
+        "Jika aki soak, coba isi ulang atau ganti jika sudah tidak dapat diperbaiki.",
+        "Tanda aki mobil perlu diganti adalah jika mobil sulit dinyalakan atau indikator aki menyala.",
+        "Gunakan multimeter untuk mengukur tegangan aki. Tegangan normal sekitar 12.6 volt.",
+        "Menggunakan alat elektronik yang berlebihan bisa menyebabkan aki cepat habis, terutama jika sistem pengisian tidak bekerja dengan baik.",
+        "Penyebab utama aki motor cepat rusak adalah kelistrikan yang bocor atau kurangnya perawatan.",
+        "Coba bersihkan terminal aki dan pastikan koneksinya baik. Jika tetap soak, sebaiknya ganti aki.",
+        "Jika aki sudah soak, sebaiknya ganti dengan yang baru karena proses pengisian ulang sering kali tidak efektif."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Mandiri Shockbreaker",
+      "pertanyaan": [
+        "Bagaimana mengetahui apakah shockbreaker masih bagus?",
+        "Bagaimana cara mengetahui apakah shockbreaker saya perlu diganti?",
+        "Bagaimana cara merawat shockbreaker?",
+        "Apa gejala shockbreaker rusak?",
+        "Apa tanda-tanda shockbreaker bocor?",
+        "Apa penyebab shockbreaker terasa keras?",
+        "Bagaimana cara memperbaiki shockbreaker?",
+        "Berapa lama usia shockbreaker motor?",
+        "Bagaimana cara mengecek kinerja shockbreaker?",
+        "Apa akibat jika shockbreaker rusak?",
+        "Bagaimana cara mengganti shockbreaker?",
+        "Apakah shockbreaker berpengaruh pada kenyamanan berkendara?",
+        "Apakah shockbreaker yang bocor bisa diperbaiki?",
+        "Bagaimana cara mengecek suspensi motor?",
+        "Apakah shockbreaker bisa digunakan kembali setelah dibongkar?"
+      ],
+      "jawaban": [
+        "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
+        "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
+        "Periksa apakah ada kebocoran oli dari shockbreaker atau jika suspensi terasa keras saat melewati jalan berlubang.",
+        "Gejala shockbreaker rusak termasuk suspensi keras, suara berdecit, atau kendaraan limbung saat berkendara.",
+        "Shockbreaker yang bocor biasanya menunjukkan tanda-tanda rembesan oli atau kebocoran pada bagian dalam.",
+        "Penyebab shockbreaker terasa keras bisa karena oli shockbreaker yang sudah habis atau seal yang rusak.",
+        "Shockbreaker yang rusak sebaiknya diganti, karena dapat mempengaruhi kenyamanan dan keselamatan.",
+        "Usia shockbreaker motor bervariasi, tetapi biasanya sekitar 20.000 hingga 30.000 km tergantung penggunaan.",
+        "Cek apakah kendaraan terlalu limbung atau terasa keras saat melewati jalan bergelombang, itu tanda shockbreaker tidak berfungsi dengan baik.",
+        "Jika shockbreaker rusak, kendaraan akan menjadi lebih sulit dikendalikan dan bisa mempengaruhi keselamatan.",
+        "Ganti shockbreaker dengan yang baru sesuai dengan spesifikasi motor untuk performa terbaik.",
+        "Ya, shockbreaker yang rusak akan sangat mempengaruhi kenyamanan berkendara dan stabilitas kendaraan.",
+        "Shockbreaker yang bocor bisa diperbaiki dengan mengisi ulang oli atau mengganti seal, tapi jika parah, ganti yang baru.",
+        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu.",
+        "Setelah dibongkar, shockbreaker biasanya tidak bisa digunakan kembali karena kehilangan kinerja."
+      ]
+    }
+  ]
 
   }
