@@ -215,7 +215,7 @@
             ]
         }
     ],
-    "Biaya Layanan": [
+    "Layanan Bengkel": [
         {
             "subkategori": "Syarat Dan Ketentuan Biaya Jasa Aplikasi",
             "pertanyaan": [
@@ -338,7 +338,34 @@
                 "Biaya Layanan bisa bervariasi tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku.",
                 "Biaya Layanan berbeda-beda tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku."
             ]
-        }
+        },
+        {
+          "subkategori": "Tipe Layanan",
+          "pertanyaan": [
+            "Apakah saya bisa booking servis motor?",
+            "Apa saja layanan yang tersedia di bengkel ini?",
+            "Bagaimana cara melakukan booking servis?",
+            "Berapa lama waktu yang dibutuhkan untuk servis?",
+            "Apakah saya bisa memilih mekanik tertentu?",
+            "Apakah ada layanan servis panggilan?",
+            "Apakah servis bisa dilakukan di hari Minggu?",
+            "Apakah saya bisa membatalkan booking servis?",
+            "Bagaimana cara melihat jadwal bengkel terdekat?",
+            "Apakah tersedia layanan antar jemput kendaraan untuk servis?"
+          ],
+          "jawaban": [
+            "Ya, Anda bisa booking servis melalui aplikasi Bengkel Nusantara. Silakan pilih tanggal dan jenis servis yang diinginkan.",
+            "Kami menyediakan layanan servis rutin, ganti oli, tune-up, spooring & balancing, dan banyak lagi.",
+            "Anda dapat melakukan booking servis melalui aplikasi atau datang langsung ke bengkel terdekat.",
+            "Waktu servis tergantung jenis layanan, biasanya sekitar 1-3 jam.",
+            "Saat ini kami belum menyediakan opsi pemilihan mekanik tertentu.",
+            "Ya, kami memiliki layanan servis panggilan dengan biaya tambahan.",
+            "Beberapa bengkel kami buka pada hari Minggu, silakan cek di aplikasi.",
+            "Anda dapat membatalkan booking melalui aplikasi maksimal 24 jam sebelum jadwal.",
+            "Jadwal bengkel terdekat bisa Anda lihat di menu 'Cari Bengkel' di aplikasi.",
+            "Ya, kami menyediakan layanan antar jemput kendaraan untuk servis dengan biaya tambahan."
+          ]
+        },
     ],
     "Customer Service": [
         {
@@ -401,7 +428,34 @@
                 "Jam operasional Layanan Pengaduan Konsumen Bengkel Nusantara"
             ],
             "jawaban": ["Customer Service Bengkel Nusantara tersedia 24 jam setiap hari untuk membantu Anda dengan segala pertanyaan dan masalah yang Anda miliki."]
-        }
+        },
+        {
+          "subkategori": "Keluhan dan Komplain",
+          "pertanyaan": [
+            "Saya mengalami keterlambatan servis, bagaimana solusinya?",
+            "Bagaimana cara mengajukan komplain?",
+            "Saya tidak puas dengan hasil servis, apa yang harus saya lakukan?",
+            "Bagaimana cara melaporkan mekanik yang kurang profesional?",
+            "Servis yang saya terima tidak sesuai pesanan, bagaimana cara mengatasinya?",
+            "Apakah ada garansi untuk servis yang dilakukan?",
+            "Bagaimana cara menghubungi customer service?",
+            "Saya dikenakan biaya tambahan tanpa pemberitahuan, bagaimana solusinya?",
+            "Bagaimana cara memberikan rating atau review terhadap bengkel?",
+            "Saya mengalami masalah dengan pembayaran, bagaimana cara menyelesaikannya?"
+          ],
+          "jawaban": [
+            "Mohon maaf atas ketidaknyamanannya. Anda bisa menghubungi bengkel terkait atau mengajukan keluhan melalui fitur pengaduan di aplikasi.",
+            "Anda dapat mengajukan komplain melalui menu 'Keluhan' di aplikasi atau langsung ke customer service kami.",
+            "Silakan hubungi bengkel tempat servis dilakukan untuk menyampaikan keluhan.",
+            "Laporkan keluhan Anda melalui aplikasi dengan menyertakan bukti atau detail kejadian.",
+            "Silakan hubungi customer service untuk mendapatkan solusi lebih lanjut.",
+            "Kami menyediakan garansi untuk beberapa jenis servis, silakan cek detailnya di aplikasi.",
+            "Anda bisa menghubungi customer service kami melalui live chat atau nomor yang tertera di aplikasi.",
+            "Jika terjadi kesalahan dalam penagihan, segera laporkan melalui fitur bantuan di aplikasi.",
+            "Anda bisa memberikan rating dan ulasan setelah servis selesai melalui aplikasi.",
+            "Silakan hubungi tim keuangan kami melalui aplikasi untuk menyelesaikan masalah pembayaran."
+          ]
+        },
     ],
     "Keamanan": [
         {
@@ -1025,6 +1079,7 @@
         {
             "subkategori": "Sambutan Awal",
             "pertanyaan": [
+                "Hi",
                 "Hi! Bagaimana kami bisa membantu Anda hari ini?",
                 "Halo! Ada yang bisa kami bantu?",
                 "Selamat Pagi! Bagaimana kabar Anda?",
@@ -1042,6 +1097,55 @@
                 "Kami di sini untuk membantu kapan saja, silakan ajukan pertanyaan Anda.",
                 "Kami menghargai waktu Anda untuk menghubungi kami. Ada yang bisa kami bantu lebih lanjut?"
             ]
+        }
+    ],
+    "Pertolongan Awal": [
+        {
+          "subkategori": "Pengecekan Mandiri",
+          "pertanyaan": [
+            "Bagaimana cara mengecek kondisi oli motor?",
+            "Bagaimana mengetahui apakah ban perlu diganti?",
+            "Bagaimana cara mengecek kampas rem?",
+            "Apa tanda-tanda aki motor mulai lemah?",
+            "Bagaimana cara memeriksa tekanan angin ban?",
+            "Bagaimana mengetahui apakah shockbreaker masih bagus?",
+            "Bagaimana cara mengecek kebocoran oli pada mesin?",
+            "Apa saja yang perlu diperiksa sebelum perjalanan jauh?",
+            "Bagaimana cara mengetahui apakah mesin overheat?",
+            "Bagaimana cara mengecek kondisi rantai motor?",
+            "Aki cepat habis, apa penyebabnya?",
+            "Mengapa starter motor saya tidak berfungsi?",
+            "Bagaimana cara mengetahui apakah mesin berbunyi kasar karena masalah serius?",
+            "Apa penyebab gigi transmisi sulit masuk?",
+            "Bagaimana mengetahui apakah konsumsi bahan bakar kendaraan saya boros?",
+            "Apa penyebab AC mobil tidak dingin?",
+            "Mengapa rem saya terasa tidak pakem?",
+            "Bagaimana cara mengetahui apakah shockbreaker saya perlu diganti?",
+            "Apa tanda-tanda radiator mengalami kebocoran?",
+            "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?"
+          ],
+          "jawaban": [
+            "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
+            "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
+            "Periksa ketebalan kampas rem, jika sudah menipis dan pengereman terasa kurang pakem, sebaiknya diganti.",
+            "Jika lampu redup, motor sulit dinyalakan, atau klakson melemah, kemungkinan aki mulai lemah.",
+            "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
+            "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
+            "Periksa bagian bawah mesin untuk melihat apakah ada tetesan oli yang tidak wajar.",
+            "Cek kondisi ban, rem, oli, aki, dan lampu sebelum melakukan perjalanan jauh.",
+            "Jika indikator suhu naik drastis atau keluar asap dari mesin, segera matikan motor dan biarkan dingin.",
+            "Periksa ketegangan rantai, jika terlalu kendur atau berbunyi kasar, segera atur atau lumasi rantai.",
+            "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
+            "Starter yang tidak berfungsi bisa disebabkan oleh aki lemah atau kabel kelistrikan bermasalah.",
+            "Jika mesin berbunyi kasar terus-menerus, periksa oli mesin atau bawa ke bengkel untuk diagnosa lebih lanjut.",
+            "Gigi transmisi yang sulit masuk bisa disebabkan oleh oli transmisi yang kurang atau kopling yang bermasalah.",
+            "Jika kendaraan terasa lebih boros dari biasanya, cek filter udara dan sensor bahan bakar.",
+            "AC mobil yang tidak dingin bisa disebabkan oleh freon habis atau kompresor bermasalah.",
+            "Rem yang tidak pakem bisa disebabkan oleh minyak rem habis atau kampas rem yang aus.",
+            "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
+            "Radiator yang bocor biasanya menunjukkan tanda-tanda air cepat habis atau ada rembesan di bawah kendaraan.",
+            "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil."
+          ]
         }
     ]
 
