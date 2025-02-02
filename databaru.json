@@ -365,7 +365,7 @@
             "Jadwal bengkel terdekat bisa Anda lihat di menu 'Cari Bengkel' di aplikasi.",
             "Ya, kami menyediakan layanan antar jemput kendaraan untuk servis dengan biaya tambahan."
           ]
-        },
+        }
     ],
     "Customer Service": [
         {
@@ -455,7 +455,7 @@
             "Anda bisa memberikan rating dan ulasan setelah servis selesai melalui aplikasi.",
             "Silakan hubungi tim keuangan kami melalui aplikasi untuk menyelesaikan masalah pembayaran."
           ]
-        },
+        }
     ],
     "Keamanan": [
         {
