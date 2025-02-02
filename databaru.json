@@ -1,1253 +1,1440 @@
 {
-    "Akun Saya": [
-        {
-            "subkategori": "Username",
-            "pertanyaan": [
-                "Apakah Saya Bisa Mengganti Username Saya, Bagaimana Caranya", 
-                "Bagaimana Cara Mengganti Username Saya", 
-                "Saya Ingin Mengganti Username Saya, Bagaimana Caranya", 
-                "Ganti Username",
-                "Bagaimana Cara Mengubah Username Saya",
-                "Saya Ingin Mengganti Username Saya",
-                "Bagaimana Cara Mengganti Username",
-                "Cara Mengganti Username",
-                "Bagaimana Cara Mengubah Username",
-                "Saya Ingin Mengganti Username",
-                "Bagaimana Cara Mengganti Username Saya",
-                "Cara Mengubah Username",
-                "Saya Ingin Mengubah Username Saya",
-                "Bagaimana Cara Mengubah Username Saya",
-                "Saya Ingin Mengubah Username",
-                "Bagaimana Cara Mengubah Username",
-                "Cara Mengganti Username Saya",
-                "Saya Ingin Mengganti Username",
-                "Bagaimana Cara Mengganti Username",
-                "Cara Mengubah Username Saya",
-                "Saya Ingin Mengubah Username",
-                "Bagaimana Cara Mengubah Username",
-                "Cara Mengganti Username",
-                "Rubah username"
-            ],
-            "jawaban": [
-                "Untuk mengubah username Anda melalui aplikasi bengkel nusantara, pilih tab Saya > pilih ikon > pilih Keamanan & Akun > pilih Username > pilih Lanjut > masukkan username baru Anda > pilih Simpan.",
-                "Untuk mengganti username, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Username'.",
-                "Untuk mengubah username, buka tab Saya > Pilih ikon > Akun Saya > Pilih Username > Isi username baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
-            ]
-        },
-        {
-            "subkategori" : "Alamat",
-            "pertanyaan" :[
-                "Bagaimana cara mengganti alamat?", 
-                "saya salah menentukan alamat, bagaimana cara menggantinya?", 
-                "Saya Salah Menentukan Alamat Saya, Dan Barang Sudah Dikirim Bagaimana Solusinya", 
-                "Bagaimana Cara Mengubah Alamat Pengiriman Saya",
-                "Saya Ingin Mengganti Alamat Pengiriman",
-                "Bagaimana Cara Mengganti Alamat",
-                "Saya Ingin Mengubah Alamat Pengiriman Saya",
-                "Bagaimana Cara Mengubah Alamat Saya",
-                "Saya Ingin Mengganti Alamat",
-                "Bagaimana Cara Mengganti Alamat",
-                "Cara Mengubah Alamat Pengiriman",
-                "Saya Ingin Mengubah Alamat",
-                "Bagaimana Cara Mengubah Alamat",
-                "Cara Mengganti Alamat Saya"
-            ],
-            "jawaban" : [
-                "Untuk mengganti alamat, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'.", 
-                "Untuk menambahkan alamat baru, buka tab Saya > Pilih ikon > Alamat Saya > Pilih Tambah alamat baru > Isi rincian > KIRIM. Untuk mengedit alamat yang ada, cukup pilih alamat > ubah rincian > KIRIM. Untuk menghapus alamat yang ada, pilih alamat > Hapus Alamat > Ya. Jika ini belum membantu silakan klik hubungi cs.",
-                "Untuk mengubah alamat pengiriman, buka tab Saya > Pilih ikon > Alamat Pengiriman > Pilih alamat yang ingin diubah > Isi rincian alamat baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs.",
-                "Untuk mengganti alamat pengiriman, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'.",
-                "Untuk mengubah alamat pengiriman, buka tab Saya > Pilih ikon > Alamat Pengiriman > Pilih alamat yang ingin diubah > Isi rincian alamat baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs.",
-                "Untuk mengganti alamat, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'."
-            ]
-        },
-        {
-            "subkategori": "Keamanan Akun",
-            "pertanyaan": [
-                "Bagaimana Caranya Agar Akun Saya Aman",
-                "Cara mengamankan akun",
-                "Bagaimana cara menjaga keamanan akun saya",
-                "Bagaimana cara meningkatkan keamanan akun saya",
-                "Bagaimana cara melindungi akun saya dari penipuan",
-                "Bagaimana cara mengamankan akun saya dari akses yang tidak sah",
-                "Bagaimana cara melindungi akun saya dari hacker",
-                "Bagaimana cara menjaga keamanan akun saya dari pencurian",
-                "Bagaimana cara meningkatkan keamanan akun saya dari serangan",
-                "Bagaimana cara melindungi akun saya dari akses yang tidak sah",
-                "Bagaimana cara mengamankan akun saya dari penipuan",
-                "Bagaimana cara menjaga keamanan akun saya dari hacker",
-                "Bagaimana cara meningkatkan keamanan akun saya dari pencurian",
-                "Bagaimana cara melindungi akun saya dari serangan",
-                "Bagaimana cara mengamankan akun saya dari akses yang tidak sah",
-                "Bagaimana cara menjaga keamanan akun saya dari penipuan",
-                "Bagaimana cara meningkatkan keamanan akun saya dari hacker",
-                "Bagaimana cara melindungi akun saya dari pencurian",
-                "Bagaimana cara mengamankan akun saya dari serangan",
-                "Bagaimana cara menjaga keamanan akun saya dari akses yang tidak sah",
-                "Bagaimana cara meningkatkan keamanan akun saya dari penipuan",
-                "Bagaimana cara melindungi akun saya dari hacker",
-                "Bagaimana cara mengamankan akun saya dari pencurian",
-                "Bagaimana cara menjaga keamanan akun saya dari serangan",
-                "Bagaimana cara meningkatkan keamanan akun saya dari akses yang tidak sah",
-                "Bagaimana cara melindungi akun saya dari penipuan",
-                "Bagaimana cara mengamankan akun saya dari hacker"
-            ],
-            "jawaban": [
-                "Keamanan juga dapat ditingkatkan dengan cara 1. Membuat PIN yang kuat Gunakan minimal 6 (enam) digit angka. Hindari penggunaan angka tanggal lahir dan berurutan (yang mudah ditebak), seperti: 111111, 123456, 112233, 147852, dsb. 2. Pastikan saat mengakses akun dan bertransaksi hanya melalui aplikasi/website resmi.",
-                "Untuk menjaga keamanan akun, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk meningkatkan keamanan akun, pastikan untuk menggunakan kata sandi yang kuat, tidak menggunakan kata sandi yang sama untuk akun lain, dan tidak memberikan informasi pribadi atau kata sandi kepada pihak lain.",
-                "Untuk melindungi akun dari penipuan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk mengamankan akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk melindungi akun dari hacker, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk menjaga keamanan akun dari pencurian, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk meningkatkan keamanan akun dari serangan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk melindungi akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk mengamankan akun dari penipuan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk menjaga keamanan akun dari hacker, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk meningkatkan keamanan akun dari pencurian, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk melindungi akun dari serangan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
-                "Untuk mengamankan akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi."
-            ]
-        },
-        {
-            "subkategori": "Password",
-            "pertanyaan": [
-                "Cara Mengganti Password", 
-                "Bagaimana cara mereset kata sandi saya?",
-                "Saya Lupa Password Akun Saya, Bagaimana Cara Mengatasinya",
-                "Bagaimana Cara Mengubah Password Akun Saya",
-                "Saya Ingin Mengubah Password Akun Saya",
-                "Bagaimana Cara Mengubah Password",
-                "Saya Ingin Mengganti Password Akun Saya",
-                "Bagaimana Cara Mengganti Password Saya",
-                "Saya Ingin Mengubah Password",
-                "Bagaimana Cara Mengubah Password",
-                "Cara Mengganti Password Akun Saya",
-                "Saya Ingin Mengganti Password",
-                "Bagaimana Cara Mengganti Password",
-                "Cara Mengubah Password Saya"
-            ],
-            "jawaban": [
-                "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
-                "Untuk mereset kata sandi, silahkan klik 'Lupa Password' pada halaman login dan ikuti petunjuk yang diberikan.",
-                "Jika Anda lupa password akun Anda, Anda dapat meresetnya dengan mengklik 'Lupa Password' pada halaman login dan mengikuti petunjuk yang diberikan.",
-                "Untuk mengubah password akun, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Password'.",
-                "Untuk mengubah password, buka tab Saya > Pilih ikon > Akun Saya > Pilih Password > Isi password lama > Isi password baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
-            ]
-        },
-        {
-            "subkategori": "Nomor Telepon",
-            "pertanyaan": [
-                "Cara Ubah Nomor Telepon", 
-                "Cara Verifikasi Nomor Telepon",
-                "Bagaimana Cara Mengganti Nomor Telepon",
-                "Saya Ingin Mengganti Nomor Telepon",
-                "Bagaimana Cara Mengubah Nomor Telepon",
-                "Saya Ingin Mengubah Nomor Telepon",
-                "Bagaimana Cara Mengganti Nomor Telepon Saya",
-                "Saya Ingin Mengganti Nomor Telepon Saya",
-                "Bagaimana Cara Mengubah Nomor Telepon Saya",
-                "Cara Mengganti Nomor Telepon",
-                "Saya Ingin Mengubah Nomor Telepon",
-                "Bagaimana Cara Mengubah Nomor Telepon",
-                "Cara Mengubah Nomor Telepon Saya",
-                "Saya Ingin Mengganti Nomor Telepon",
-                "Bagaimana Cara Mengganti Nomor Telepon",
-                "Cara Mengubah Nomor Telepon"
-            ],
-            "jawaban": [
-                "Hi kak, Kakak dapat mengubah no telepon akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti nomor telepon Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
-                "Untuk verifikasi nomor telepon, silahkan klik 'Verifikasi Nomor Telepon' pada halaman akun dan ikuti petunjuk yang diberikan.",
-                "Untuk mengganti nomor telepon, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Nomor Telepon'.",
-                "Untuk mengubah nomor telepon, buka tab Saya > Pilih ikon > Akun Saya > Pilih Nomor Telepon > Isi nomor telepon baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
-            ]
-        },
-        {
-            "subkategori": "Penghapusan Akun",
-            "pertanyaan": [
-                "Saya Ingin Menghapus Akun Bagaimana Caranya",
-                "Bagaimana Cara Menghapus Akun",
-                "Cara Menghapus Akun",
-                "Saya Ingin Menghapus Akun Saya",
-                "Bagaimana Cara Menghapus Akun Saya",
-                "Cara Menghapus Akun Saya",
-                "Saya Ingin Menghapus Akun",
-                "Cara Menghapus Akun Saya",
-                "Bagaimana Cara Menghapus Akun",
-                "Cara Menghapus Akun"
-            ],
-            "jawaban": [
-                "Anda dapat menghapus akun bengkel nusantara Anda dengan memilih tab Saya di aplikasi bengkel nusantara > pilih ikon (Pengaturan Akun) > pilih Ajukan Penghapusan Akun > pilih OK > pilih Lanjutkan > pilih metode verifikasi > lakukan proses verifikasi > isi alasan penghapusan akun > isi alamat email Anda > centang kotak setuju dengan Syarat & Ketentuan penghapusan akun > pilih Kirim > pilih Konfirmasi. Catatan: Penghapusan akun bersifat permanen dan tidak dapat diubah. Setelah penghapusan berhasil, Anda tidak dapat masuk dan melihat riwayat akun lagi.",
-                "Untuk menghapus akun, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Hapus Akun'."
-
-            ]
-        },
-        {
-            "subkategori": "PIN",
-            "pertanyaan": [
-                "Ubah Pin Bengkelnusantara",
-                "Bagaimana Cara Mengganti Pin",
-                "Saya Ingin Mengganti Pin",
-                "Bagaimana Cara Mengubah Pin",
-                "Cara Mengganti Pin",
-                "Saya Ingin Mengubah Pin",
-                "Bagaimana Cara Mengganti Pin Saya",
-                "Saya Ingin Mengganti Pin Saya",
-                "Bagaimana Cara Mengubah Pin Saya",
-                "Cara Mengubah Pin"
-            ],
-            "jawaban": [
-                "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
-                "Untuk mengganti pin, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Pin'.",
-                "Untuk mengubah pin, buka tab Saya > Pilih ikon > Akun Saya > Pilih Pin > Isi pin lama > Isi pin baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
-            ]
-        },
-        {
-            "subkategori": "Email Pengguna",
-            "pertanyaan": [
-                "Apakah saya bisa mengubah email pengguna?",
-                "Bagaimana cara mengganti email pengguna saya?",
-                "Saya ingin mengganti email pengguna saya",
-                "Cara mengganti email pengguna"
-            ],
-            "jawaban": [
-                "Maaf, setelah email pengguna ditetapkan, email tersebut tidak dapat diubah. Namun, Anda bisa membuat akun baru dengan email pengguna yang berbeda."
-            ]
-        }
-    ],
-    "Layanan Bengkel": [
-        {
-            "subkategori": "Syarat Dan Ketentuan Biaya Jasa Aplikasi",
-            "pertanyaan": [
-                "Apa saja syarat dan ketentuan biaya jasa aplikasi?",
-                "Bagaimana syarat dan ketentuan biaya jasa aplikasi?",
-                "Syarat dan ketentuan biaya jasa aplikasi",
-                "Apa saja ketentuan biaya jasa aplikasi?",
-                "Bagaimana ketentuan biaya jasa aplikasi?",
-                "Ketentuan biaya jasa aplikasi",
-                "Apa saja syarat biaya jasa aplikasi?",
-                "Bagaimana syarat biaya jasa aplikasi?",
-                "Syarat biaya jasa aplikasi"
-            ],
-            "jawaban": [
-                "Biaya Layanan sudah termasuk dengan biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku dan belum termasuk dengan Biaya Penanganan."
-            ]
-        },
-        {
-            "subkategori": "PPN",
-            "pertanyaan": [
-                "Apakah Biaya Layanan sudah termasuk PPN?",
-                "Apakah PPN sudah termasuk dalam Biaya Layanan?",
-                "Apakah Biaya Layanan sudah termasuk Pajak Pertambahan Nilai?",
-                "Apakah PPN sudah termasuk dalam Biaya Layanan?"
-            ],
-            "jawaban": [
-                "Ya, Biaya Layanan sudah termasuk Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan perundang-undangan yang berlaku."
-            ]
-        },
-        {
-            "subkategori": "Biaya Tambahan",
-            "pertanyaan": [
-                "Apakah ada biaya tambahan selain Biaya Layanan?",
-                "Apakah ada biaya tambahan yang dikenakan selain Biaya Layanan?",
-                "Apakah ada biaya tambahan yang harus dibayar selain Biaya Layanan?"
-            ],
-            "jawaban": [
-                "Biaya Layanan belum termasuk Biaya Penanganan yang mungkin dikenakan tergantung pada layanan yang digunakan."
-            ]
-        },
-        {
-            "subkategori": "Perhitungan Biaya",
-            "pertanyaan": [
-                "Bagaimana cara menghitung Biaya Layanan?",
-                "Bagaimana perhitungan Biaya Layanan?",
-                "Bagaimana cara perhitungan Biaya Layanan?"
-            ],
-            "jawaban": [
-                "Biaya Layanan dihitung berdasarkan ketentuan yang berlaku dan termasuk PPN. Biaya tambahan seperti Biaya Penanganan akan dikenakan secara terpisah."
-            ]
-        },
-        {
-            "subkategori": "Biaya Penanganan",
-            "pertanyaan": [
-                "Apakah ada Biaya Penanganan dalam transaksi?",
-                "Apakah Biaya Penangan"
-            ],
-            "jawaban": ["Ya, Biaya Penanganan dapat dikenakan tergantung pada jenis layanan yang digunakan, namun ini belum termasuk dalam Biaya Layanan."]
-        },
-        {
-            "subkategori": "Perubahan Biaya",
-            "pertanyaan": ["Apakah Biaya Layanan dapat berubah?", 
-            "Apakah Biaya Layanan bisa berubah?",
-            "Apakah Biaya Layanan dapat berubah sesuai kebijakan?",
-            "Apakah Biaya Layanan bisa berubah sesuai kebijakan?"],
-            "jawaban": ["Biaya Layanan dapat berubah sesuai dengan kebijakan dan ketentuan yang berlaku. Semua perubahan akan diinformasikan melalui platform resmi."]
-        },
-        {
-            "subkategori": "Promosi",
-            "pertanyaan": [
-                "Apakah ada promosi terkait Biaya Layanan?",
-                "Apakah Biaya Layanan bisa mendapatkan promosi?",
-                "Apakah Biaya Layanan bisa mendapatkan diskon?",
-                "Apakah Biaya Layanan bisa mendapatkan penawaran khusus?",
-                "Apakah Biaya Layanan bisa mendapatkan promo?",
-                "Apakah Biaya Layanan bisa mendapatkan penawaran diskon?",
-                "Apakah Biaya Layanan bisa mendapatkan penawaran promosi?"
-            ],
-            "jawaban": [
-                "Promosi terkait Biaya Layanan dapat tersedia dari waktu ke waktu. Silakan cek halaman promosi di aplikasi atau website untuk informasi lebih lanjut."
-            ]
-        },
-        {
-            "subkategori": "Total Biaya",
-            "pertanyaan": [
-                "Bagaimana cara mengetahui total Biaya Layanan?",
-                "cara mengetahui total biaya layanan",
-                "cara mengetahui total biaya layanan yang harus dibayar",
-                "total biaya layanan",
-                "total biaya layanan yang harus dibayar",
-                "total biaya layanan yang harus dibayar termasuk PPN dan biaya penanganan"
-            ],
-            "jawaban": [
-                "Total Biaya Layanan akan ditampilkan pada saat transaksi, termasuk PPN dan Biaya Penanganan jika berlaku."
-            ]
-        },
-        {
-            "subkategori": "Denda",
-            "pertanyaan": [
-                "Apakah ada denda jika terlambat membayar Biaya Layanan?",
-                "Apakah ada denda untuk Biaya Layanan jika terlambat membayar?"
-            ],
-            "jawaban": [
-                "Tidak ada denda untuk Biaya Layanan, namun pembayaran harus dilakukan sesuai dengan ketentuan yang berlaku."
-            ]
-        },
-        {
-            "subkategori": "Jenis Layanan",
-            "pertanyaan": [
-                "Apakah Biaya Layanan sama untuk semua jenis layanan?",
-                "Apakah Biaya Layanan berbeda untuk setiap jenis layanan?",
-                "Apakah Biaya Layanan bervariasi tergantung pada jenis layanan?",
-                "Apakah Biaya Layanan berbeda-beda tergantung pada jenis layanan?",
-                "Apakah Biaya Layanan bisa bervariasi tergantung pada jenis layanan?",
-                "Apakah Biaya Layanan bisa berbeda tergantung pada jenis layanan?",
-                "Apakah Biaya Layanan berbeda tergantung pada jenis layanan?",
-                "Apakah Biaya Layanan bervariasi tergantung pada jenis layanan?"
-            ],
-            "jawaban": [
-                "Biaya Layanan bisa bervariasi tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku.",
-                "Biaya Layanan berbeda-beda tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku."
-            ]
-        },
-        {
-          "subkategori": "Layanan Servis",
-          "pertanyaan": [
-            "Apakah saya bisa booking servis motor?",
-            "Apa saja layanan yang tersedia di bengkel ini?",
-            "Bagaimana cara melakukan booking servis?",
-            "Berapa lama waktu yang dibutuhkan untuk servis?",
-            "Apakah saya bisa memilih mekanik tertentu?",
-            "Apakah ada layanan servis panggilan?",
-            "Apakah servis bisa dilakukan di hari Minggu?",
-            "Apakah saya bisa membatalkan booking servis?",
-            "Bagaimana cara melihat jadwal bengkel terdekat?",
-            "Apakah tersedia layanan antar jemput kendaraan untuk servis?"
-          ],
-          "jawaban": [
-            "Ya, Anda bisa booking servis melalui aplikasi Bengkel Nusantara. Silakan pilih tanggal dan jenis servis yang diinginkan.",
-            "Kami menyediakan layanan servis rutin, ganti oli, tune-up, spooring & balancing, dan banyak lagi.",
-            "Anda dapat melakukan booking servis melalui aplikasi atau datang langsung ke bengkel terdekat.",
-            "Waktu servis tergantung jenis layanan, biasanya sekitar 1-3 jam.",
-            "Saat ini kami belum menyediakan opsi pemilihan mekanik tertentu.",
-            "Ya, kami memiliki layanan servis panggilan dengan biaya tambahan.",
-            "Beberapa bengkel kami buka pada hari Minggu, silakan cek di aplikasi.",
-            "Anda dapat membatalkan booking melalui aplikasi maksimal 24 jam sebelum jadwal.",
-            "Jadwal bengkel terdekat bisa Anda lihat di menu 'Cari Bengkel' di aplikasi.",
-            "Ya, kami menyediakan layanan antar jemput kendaraan untuk servis dengan biaya tambahan."
-          ]
-        }
-    ],
-    "Customer Service": [
-        {
-            "subkategori": "Kontak",
-            "pertanyaan": [
-                "Adakah nomor dari Bengkel Nusantara yang bisa saya hubungi?", 
-                "Bagaimana cara menghubungi Customer Service?",
-                "Bagaimana cara menghubungi Bengkel Nusantara?",
-                "Bagaimana cara menghubungi Layanan Pelanggan?",
-                "Bagaimana cara menghubungi Layanan Pengaduan Konsumen?",
-                "Bagaimana cara menghubungi Customer Service Bengkel Nusantara?",
-                "Bagaimana cara menghubungi Layanan Pelanggan Bengkel Nusantara?",
-                "Bagaimana cara menghubungi Layanan Pengaduan Konsumen Bengkel Nusantara?"
-            ],
-            "jawaban": ["Anda dapat menghubungi Layanan Pengaduan Konsumen pada kontak di bawah ini: CV. Motekar Cipta Teknologi Call Center : (021) xxxxxxx. Anda dapat menghubungi Customer Service melalui email = bengkelnusantara@gmail.com atau Live Chat pada Pusat Bantuan di aplikasi Bengkel Nusantara."]
-        },
-        {
-            "subkategori": "Registrasi Akun",
-            "pertanyaan": [
-                "Bagaimana cara menregistrasi akun baru?",
-                "Bagaimana cara mendaftar akun baru?",
-                "Bagaimana cara membuat akun baru?",
-                "Bagaimana cara daftar akun baru?",
-                "Bagaimana cara registrasi pengguna baru?",
-                "Bagaimana cara mendaftar pengguna baru?",
-                "Bagaimana cara membuat pengguna baru?",
-                "Bagaimana cara daftar pengguna baru?"
-            ],
-            "jawaban": [
-                "Untuk registrasi pengguna baru, Anda dapat mendaftarkan akun Anda dengan Google atau dengan email. Dengan Google: 1. Klik opsi daftar pada halaman Saya 2. Klik logo Google dan pilih akun Google yang akan didaftarkan 3. Registrasi pengguna baru selesai. Dengan email: 1. Klik opsi daftar pada halaman Saya 2. Masukkan data-data yang dibutuhkan seperti username, nomor telepon, email, dan password 3. Aktivasi dengan mengecek email yang telah dikirimkan 4. Registrasi pengguna baru selesai.",
-                "Untuk mendaftar akun baru, Anda dapat membuat akun Anda dengan Google atau dengan email. Dengan Google: 1. Klik opsi daftar pada halaman Saya 2. Klik logo Google dan pilih akun Google yang akan didaftarkan 3. Mendaftar akun baru selesai. Dengan email: 1. Klik opsi daftar pada halaman Saya 2. Masukkan data-data yang dibutuhkan seperti username, nomor telepon, email, dan password 3. Aktivasi dengan mengecek email yang telah dikirimkan 4. Mendaftar akun baru selesai."
-            ]
-        },
-        {
-            "subkategori": "Chat",
-            "pertanyaan": [
-                "Bagaimana cara menghubungi CS?", 
-                "Chat Admin", 
-                "Chat CS",
-                "Hubungi CS",
-                "Hubungkan Admin",
-                "Hubungi Admin",
-                "Hubungi Customer Service",
-                "Hubungi Layanan Pelanggan",
-                "Hubungi Layanan Pengaduan Konsumen",
-                "Hubungi Customer Service Bengkel Nusantara",
-                "Hubungi Layanan Pelanggan Bengkel Nusantara",
-                "Hubungi Layanan Pengaduan Konsumen Bengkel Nusantara"
-            ],
-            "jawaban": ["Sedang mengalihkan ke admin, harap tunggu.", "Sedang mengalihkan ke CS, harap tunggu.", "Sedang mengalihkan ke Customer Service, harap tunggu."]
-        },
-        {
-            "subkategori": "Jam Operasional",
-            "pertanyaan": [
-                "Apa saja jam operasional Customer Service?",
-                "Kapan Customer Service Bengkel Nusantara buka?",
-                "Kapan Customer Service Bengkel Nusantara tutup?",
-                "Jam operasional Customer Service Bengkel Nusantara",
-                "Jam operasional Layanan Pelanggan Bengkel Nusantara",
-                "Jam operasional Layanan Pengaduan Konsumen Bengkel Nusantara"
-            ],
-            "jawaban": ["Customer Service Bengkel Nusantara tersedia 24 jam setiap hari untuk membantu Anda dengan segala pertanyaan dan masalah yang Anda miliki."]
-        },
-        {
-          "subkategori": "Keluhan dan Komplain",
-          "pertanyaan": [
-            "Saya mengalami keterlambatan servis, bagaimana solusinya?",
-            "Bagaimana cara mengajukan komplain?",
-            "Saya tidak puas dengan hasil servis, apa yang harus saya lakukan?",
-            "Bagaimana cara melaporkan mekanik yang kurang profesional?",
-            "Servis yang saya terima tidak sesuai pesanan, bagaimana cara mengatasinya?",
-            "Apakah ada garansi untuk servis yang dilakukan?",
-            "Bagaimana cara menghubungi customer service?",
-            "Saya dikenakan biaya tambahan tanpa pemberitahuan, bagaimana solusinya?",
-            "Bagaimana cara memberikan rating atau review terhadap bengkel?",
-            "Saya mengalami masalah dengan pembayaran, bagaimana cara menyelesaikannya?"
-          ],
-          "jawaban": [
-            "Mohon maaf atas ketidaknyamanannya. Anda bisa menghubungi bengkel terkait atau mengajukan keluhan melalui fitur pengaduan di aplikasi.",
-            "Anda dapat mengajukan komplain melalui menu 'Keluhan' di aplikasi atau langsung ke customer service kami.",
-            "Silakan hubungi bengkel tempat servis dilakukan untuk menyampaikan keluhan.",
-            "Laporkan keluhan Anda melalui aplikasi dengan menyertakan bukti atau detail kejadian.",
-            "Silakan hubungi customer service untuk mendapatkan solusi lebih lanjut.",
-            "Kami menyediakan garansi untuk beberapa jenis servis, silakan cek detailnya di aplikasi.",
-            "Anda bisa menghubungi customer service kami melalui live chat atau nomor yang tertera di aplikasi.",
-            "Jika terjadi kesalahan dalam penagihan, segera laporkan melalui fitur bantuan di aplikasi.",
-            "Anda bisa memberikan rating dan ulasan setelah servis selesai melalui aplikasi.",
-            "Silakan hubungi tim keuangan kami melalui aplikasi untuk menyelesaikan masalah pembayaran."
-          ]
-        }
-    ],
-    "Keamanan": [
-        {
-            "subkategori": "Melindungi Diri Dari Penipuan",
-            "pertanyaan": [
-                "Bagaimana cara melindungi diri dari penipuan?",
-                "Bagaimana cara menghindari penipuan online yang mengatasnamakan Bengkel Nusantara?",
-                "Bagaimana cara mengenali penipuan online yang mengatasnamakan Bengkel Nusantara?",
-                "Bagaimana cara melindungi diri dari penipuan online?",
-                "Bagaimana cara menghindari penipuan online?",
-                "Bagaimana cara mengenali penipuan online?"
-            ],
-            "jawaban": [
-                "Bengkel Nusantara tidak menyediakan WhatsApp pribadi, hindari link yang diberikan oleh oknum baik itu telepon, SMS ataupun WA. Website resmi hanya ada di bengkelnusantara.com untuk informasi lebih lanjut hubungi CS jika ada masalah.",
-                "Selalu pastikan Anda hanya bertransaksi melalui website resmi bengkelnusantara.com dan hindari memberikan informasi pribadi kepada pihak yang tidak dikenal."
-            ]
-        },
-        {
-            "subkategori": "Informasi Resmi",
-            "pertanyaan": [
-                "Di mana saya bisa menemukan informasi resmi dari Bengkel Nusantara?",
-                "Apakah Bengkel Nusantara memiliki media sosial resmi?",
-                "informasi resmi",
-                "media sosial resmi",
-                "akun media sosial resmi",
-                "akun resmi",
-                "website resmi",
-                "website bengkelnusantara.com",
-                "akun media sosial",
-                "akun resmi"
-            ],
-            "jawaban": [
-                "Semua informasi resmi mengenai Bengkel Nusantara tersedia di website resmi bengkelnusantara.com.",
-                "Ya, Bengkel Nusantara memiliki akun media sosial resmi yang terverifikasi. Hindari akun-akun palsu yang mengatasnamakan Bengkel Nusantara.",
-                "Semua informasi resmi Bengkel Nusantara dapat diakses melalui website resmi bengkelnusantara.com."
-            ]
-        },
-        {
-            "subkategori": "Nomor Kontak dan Layanan",
-            "pertanyaan": [
-                "Apakah Bengkel Nusantara memiliki nomor WhatsApp pribadi?",
-                "Apakah Bengkel Nusantara menyediakan layanan melalui SMS?",
-                "Nomor kontak Bengkel Nusantara",
-                "Layanan Bengkel Nusantara",
-                "Nomor WhatsApp Bengkel Nusantara",
-                "Layanan SMS Bengkel Nusantara"
-            ],
-            "jawaban": [
-                "Tidak, Bengkel Nusantara tidak menyediakan WhatsApp pribadi. Semua informasi resmi hanya dapat diakses melalui website bengkelnusantara.com.",
-                "Tidak, Bengkel Nusantara tidak menyediakan layanan melalui SMS. Semua informasi resmi disampaikan melalui website bengkelnusantara.com.",
-                "Nomor kontak Bengkel Nusantara hanya tersedia di website resmi bengkelnusantara.com."
-            ]
-        },
-        {
-            "subkategori": "Menangani Pesan dan Telepon Mencurigakan",
-            "pertanyaan": [
-                "Bagaimana jika saya menerima pesan mencurigakan atas nama Bengkel Nusantara?",
-                "Apa yang harus saya lakukan jika menerima telepon mencurigakan dari seseorang yang mengaku dari Bengkel Nusantara?",
-                "pesan mencurigakan",
-                "telepon mencurigakan",
-                "pesan dari Bengkel Nusantara",
-                "telepon dari Bengkel Nusantara"
-            ],
-            "jawaban": [
-                "Jangan klik link atau membagikan informasi pribadi. Segera laporkan pesan tersebut ke Customer Service melalui website resmi kami.",
-                "Jangan berikan informasi pribadi dan segera tutup telepon. Laporkan kejadian tersebut ke Customer Service melalui website resmi.",
-                "Jangan klik link atau membagikan informasi pribadi. Segera laporkan pesan tersebut ke Customer Service melalui website resmi kami."
-            ]
-        },
-        {
-            "subkategori": "Pelaporan Penipuan",
-            "pertanyaan": [
-                "Bagaimana cara melaporkan penipuan terkait Bengkel Nusantara?",
-                "Apakah Bengkel Nusantara pernah meminta data pribadi melalui telepon atau WhatsApp?",
-                "lapor penipuan",
-                "lapor penipuan Bengkel Nusantara",
-                "lapor penipuan online",
-                "lapor penipuan WhatsApp",
-                "lapor penipuan telepon"
-            ],
-            "jawaban": [
-                "Jika Anda menemui penipuan yang mengatasnamakan Bengkel Nusantara, segera hubungi Customer Service kami melalui website resmi.",
-                "Tidak, Bengkel Nusantara tidak akan meminta data pribadi melalui telepon atau WhatsApp. Jika Anda menerima permintaan seperti itu, harap segera laporkan."
-            ]
-        },
-        {
-            "subkategori": "Keamanan Link",
-            "pertanyaan": [
-                "Bagaimana cara mengetahui apakah sebuah link berasal dari Bengkel Nusantara?",
-                "Apakah aman untuk membuka link yang dikirim melalui SMS atau WhatsApp?",
-                "link dari Bengkel Nusantara",
-                "link aman",
-                "link tidak aman",
-                "link SMS",
-                "link WhatsApp"
-            ],
-            "jawaban": [
-                "Pastikan link yang Anda terima berasal dari domain bengkelnusantara.com. Hindari link yang dikirim melalui SMS, telepon, atau WhatsApp oleh oknum yang tidak dikenal.",
-                "Sebaiknya tidak membuka link yang dikirim melalui SMS atau WhatsApp oleh pihak yang tidak dikenal. Hanya akses link resmi dari website bengkelnusantara.com."
-            ]
-        }
-    ],
-
-    "Masalah Teknis": [
-        {
-            "subkategori": "Mengatasi Error dan Crash",
-            "pertanyaan": [
-                "Bagaimana mengatasi aplikasi error?",
-                "Bagaimana cara memperbaiki aplikasi yang sering crash?",
-                "Mengapa aplikasi tiba-tiba keluar sendiri?",
-                "Aplikasi sering crash, bagaimana cara mengatasinya?",
-                "Aplikasi error, bagaimana cara memperbaikinya?",
-                "Aplikasi sering keluar sendiri, bagaimana cara mengatasinya?",
-                "Aplikasi crash, bagaimana cara memperbaikinya?",
-                "Aplikasi error, bagaimana cara mengatasinya?"
-            ],
-            "jawaban": [
-                "Luncurkan ulang aplikasi, atau hapus cache aplikasi. Langkah-Langkah untuk menghapus cache aplikasi: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus memori/cache.",
-                "Coba perbarui aplikasi ke versi terbaru dan pastikan perangkat Anda memiliki ruang penyimpanan yang cukup. Jika masalah berlanjut, reinstall aplikasi.",
-                "Aplikasi mungkin mengalami crash. Coba bersihkan cache atau perbarui aplikasi ke versi terbaru. Jika masalah berlanjut, reinstall aplikasi.",
-                "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
-                "Aplikasi mungkin mengalami crash. Coba bersihkan cache atau perbarui aplikasi ke versi terbaru. Jika masalah berlanjut, reinstall aplikasi."
-            ]
-        },
-        {
-            "subkategori": "Akses dan Pembaruan Aplikasi",
-            "pertanyaan": [
-                "Aplikasi tidak bisa dibuka, apa yang harus saya lakukan?",
-                "Mengapa saya tidak bisa mengunduh pembaruan aplikasi?",
-                "Bagaimana cara memperbarui aplikasi Bengkel Nusantara?",
-                "Aplikasi tidak bisa diakses, bagaimana cara mengatasinya?",
-                "Mengapa aplikasi tidak bisa diakses?",
-                "Bagaimana cara mengunduh pembaruan aplikasi?",
-                "Mengapa saya tidak bisa mengakses aplikasi?",
-                "Bagaimana cara memperbarui aplikasi?",
-                "Aplikasi tidak bisa dibuka, bagaimana cara mengatasinya?",
-                "Mengapa aplikasi tidak bisa dibuka?",
-                "Bagaimana cara mengunduh pembaruan aplikasi?",
-                "Mengapa saya tidak bisa mengakses aplikasi?",
-                "Bagaimana cara memperbarui aplikasi?"
-            ],
-            "jawaban": [
-                "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
-                "Pastikan koneksi internet Anda stabil dan perangkat Anda memiliki ruang penyimpanan yang cukup untuk mengunduh pembaruan aplikasi.",
-                "Buka Play Store atau App Store, cari Bengkel Nusantara, dan klik tombol 'Perbarui' jika tersedia."
-            ]
-        },
-        {
-            "subkategori": "Masalah Notifikasi dan Lag",
-            "pertanyaan": [
-                "Apa yang harus saya lakukan jika notifikasi dari aplikasi tidak muncul?",
-                "Apa yang harus dilakukan jika aplikasi mengalami lag?",
-                "Bagaimana cara mengatasi notifikasi yang tidak muncul?",
-                "Bagaimana cara mengatasi lag pada aplikasi?",
-                "Notifikasi tidak muncul, bagaimana cara mengatasinya?",
-                "Aplikasi sering lag, bagaimana cara mengatasinya?"
-            ],
-            "jawaban": [
-                "Periksa pengaturan notifikasi di perangkat Anda dan pastikan notifikasi untuk aplikasi Bengkel Nusantara diaktifkan.",
-                "Tutup aplikasi lain yang berjalan di latar belakang dan pastikan perangkat Anda memiliki ruang penyimpanan serta RAM yang cukup."
-            ]
-        },
-        {
-            "subkategori": "Laporan Masalah",
-            "pertanyaan": [
-                "Bagaimana cara melaporkan bug di aplikasi?",
-                "Apa yang harus saya lakukan jika situs tidak bisa diakses?",
-                "Bagaimana cara melaporkan masalah teknis?",
-                "Apa yang harus saya lakukan jika aplikasi mengalami masalah teknis?"
-            ],
-            "jawaban": [
-                "Untuk melaporkan bug, pergi ke bagian 'Bantuan & Dukungan' di aplikasi dan klik 'Laporkan Masalah'. Jelaskan masalahnya secara detail.",
-                "Jika situs tidak bisa diakses, coba bersihkan cache browser Anda atau coba akses situs dari browser atau perangkat lain.",
-                "Untuk melaporkan masalah teknis, hubungi Customer Service kami melalui email atau Live Chat di aplikasi."
-            ]
-        },
-        {
-            "subkategori": "Menghapus Cache",
-            "pertanyaan": [
-                "Bagaimana cara membersihkan cache aplikasi untuk memperbaiki masalah teknis?",
-                "Apa yang harus saya lakukan jika aplikasi sering crash?",
-                "Bagaimana cara menghapus cache aplikasi?",
-                "Aplikasi sering crash, bagaimana cara mengatasinya?"
-            ],
-            "jawaban": [
-                "Untuk membersihkan cache: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus cache.",
-                "Membersihkan cache aplikasi dapat membantu mengatasi masalah crash. Ikuti langkah-langkah di atas untuk membersihkan cache aplikasi."
-            ]
-        }
-    ],
-    "Metode Pembayaran": [
-        {
-            "subkategori": "Metode Pembayaran Umum",
-            "pertanyaan": [
-                "Apa saja metode pembayaran yang dapat dilakukan di Bengkel Nusantara?",
-                "Metode pembayaran apa saja yang diterima?",
-                "Apakah Bengkel Nusantara menerima pembayaran dengan dompet digital?",
-                "Metode pembayaran yang tersedia di Bengkel Nusantara",
-                "Metode pembayaran yang diterima",
-                "Pembayaran dengan dompet digital"
-            ],
-            "jawaban": [
-                "Di Bengkel Nusantara, beberapa metode pembayaran yang tersedia mungkin mencakup: COD: Pembayaran dapat dilakukan dengan sistem COD. Transfer Bank: Pembayaran dapat dilakukan dengan cara transfer bank. Diantaranya bank BRI, BNI, BCA. Tata Cara untuk transfer bank klik disini. Dompet Digital: Pembayaran juga dapat dilakukan dengan cara menggunakan dompet digital seperti GoPay, OVO, dan Dana. Cara untuk transfer menggunakan dompet digital dapat dilihat disini.",
-                "Kami menerima berbagai metode pembayaran, termasuk kartu kredit/debit, PayPal, dan transfer bank.",
-                "Ya, kami menerima pembayaran dengan dompet digital seperti GoPay, OVO, dan Dana. Panduan cara menggunakan dompet digital dapat dilihat di sini."
-            ]
-        },
-        {
-            "subkategori": "Pembayaran Spesifik",
-            "pertanyaan": [
-                "Apakah bisa bayar dengan kartu kredit?",
-                "Apakah COD tersedia untuk semua produk?",
-                "Apakah pembayaran dengan PayPal tersedia?",
-                "Pembayaran dengan kartu kredit",
-                "Pembayaran dengan COD",
-                "Pembayaran dengan PayPal"
-            ],
-            "jawaban": [
-                "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout.",
-                "Tidak, sistem COD hanya tersedia untuk produk tertentu. Pilih opsi COD saat checkout untuk melihat produk yang mendukung metode ini.",
-                "Ya, kami mendukung pembayaran melalui PayPal. Anda dapat memilih opsi PayPal saat checkout.",
-                "Ya, kami menerima pembayaran dengan kartu kredit. Pilih opsi kartu kredit/debit saat checkout.",
-                "COD hanya tersedia untuk produk tertentu. Pilih opsi COD saat checkout untuk melihat produk yang mendukung metode ini.",
-                "Ya, kami mendukung pembayaran melalui PayPal. Anda dapat memilih opsi PayPal saat checkout."
-            ]
-        },
-        {
-            "subkategori": "Cara Pembayaran",
-            "pertanyaan": [
-                "Bagaimana cara melakukan pembayaran dengan transfer bank?",
-                "Bagaimana cara membayar menggunakan GoPay?",
-                "Apakah bisa membayar menggunakan kartu debit?",
-                "Cara pembayaran dengan transfer bank",
-                "Cara pembayaran menggunakan GoPay",
-                "Cara pembayaran dengan kartu debit"
-            ],
-            "jawaban": [
-                "Untuk melakukan pembayaran dengan transfer bank, pilih opsi transfer bank saat checkout. Anda dapat melakukan transfer ke rekening BRI, BNI, atau BCA. Klik di sini untuk panduan lebih lanjut.",
-                "Untuk membayar dengan GoPay, pilih opsi dompet digital saat checkout, kemudian pilih GoPay dan ikuti instruksi pada layar.",
-                "Ya, kami menerima pembayaran menggunakan kartu debit. Pilih opsi kartu kredit/debit saat checkout."
-            ]
-        },
-        {
-            "subkategori": "Masalah Pembayaran",
-            "pertanyaan": [
-                "Bagaimana jika pembayaran saya gagal?",
-                "Apakah ada biaya tambahan untuk pembayaran dengan kartu kredit?",
-                "Pembayaran gagal, bagaimana cara mengatasinya?",
-                "Biaya tambahan untuk pembayaran dengan kartu kredit"
-            ],
-            "jawaban": [
-                "Jika pembayaran Anda gagal, coba lagi menggunakan metode pembayaran yang berbeda atau hubungi Customer Service untuk bantuan lebih lanjut.",
-                "Tidak ada biaya tambahan untuk pembayaran menggunakan kartu kredit di Bengkel Nusantara."
-            ]
-        }
-    ],
-
-    "Pelacakan Pesanan": [
+  "Akun Saya": [
     {
-        "subkategori": "Cara Melacak dan Memahami Status Pengiriman",
-        "pertanyaan": [
-            "Bagaimana cara melacak status pengiriman barang?",
-            "Apa arti 'Sedang Diproses' pada status pesanan saya?",
-            "Apa arti status 'Dikirim' pada pesanan saya?",
-            "Bagaimana cara mengetahui status pengiriman barang?",
-            "Apa arti status 'Dikirim' pada pengiriman barang saya?"
-        ],
-        "jawaban": [
-            "Anda dapat melacak status pengiriman barang dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi.",
-            "'Sedang Diproses' berarti pesanan Anda sedang disiapkan untuk pengiriman.",
-            "'Dikirim' berarti barang pesanan Anda telah diserahkan kepada penyedia layanan pengiriman dan sedang dalam proses menuju alamat tujuan.",
-            "Untuk mengetahui status pengiriman barang, masukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi."
-        ]
-    },
-    {
-        "subkategori": "Estimasi dan Masalah Pengiriman",
-        "pertanyaan": [
-            "Cara mengetahui estimasi pengiriman?",
-            "Berapa lama waktu yang dibutuhkan untuk barang sampai?",
-            "Apa yang harus saya lakukan jika status pengiriman tidak berubah?",
-            "Apa yang harus saya lakukan jika barang saya terlambat sampai?",
-            "Apa yang harus saya lakukan jika tidak bisa melacak pengiriman?"
-        ],
-        "jawaban": [
-            "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh beberapa faktor.",
-            "Waktu pengiriman bervariasi tergantung lokasi Penjual dan Pembeli, serta tipe layanan pengiriman yang dipilih. Biasanya pengiriman dengan layanan Hemat lebih lama dibandingkan dengan Reguler.",
-            "Jika status pengiriman tidak berubah dalam beberapa hari, coba periksa kembali nomor pelacakan dan hubungi penyedia layanan pengiriman atau Customer Service untuk konfirmasi.",
-            "Jika barang Anda terlambat sampai, pastikan Anda sudah memeriksa status pengiriman melalui nomor resi. Jika pengiriman terlambat lebih dari waktu estimasi, segera hubungi Customer Service.",
-            "Jika Anda tidak bisa melacak pengiriman, pastikan nomor resi atau pelacakan yang dimasukkan benar. Jika masalah berlanjut, hubungi Customer Service atau penyedia layanan pengiriman untuk bantuan lebih lanjut."
-        ]
-    },
-    {
-        "subkategori": "Masalah dan Tindakan Setelah Pengiriman",
-        "pertanyaan": [
-            "Apa yang harus saya lakukan jika menerima barang yang salah?",
-            "Bagaimana jika barang saya hilang saat pengiriman?",
-            "Apakah saya bisa mengganti alamat pengiriman setelah pesanan dikirim?",
-            "Apa yang harus saya lakukan jika menerima barang yang rusak?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan pesanan?",
-            "Apa yang harus saya lakukan jika barang rusak saat pengiriman?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan deskripsi?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan gambar?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan ukuran?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan warna?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan spesifikasi?",
-            "Apa yang harus saya lakukan jika barang tidak sesuai dengan kualitas?"
-        ],
-        "jawaban": [
-            "Jika Anda menerima barang yang salah, segera hubungi Customer Service dan sertakan foto barang yang diterima serta nomor pesanan Anda untuk langkah lebih lanjut.",
-            "Jika barang hilang dalam proses pengiriman, segera hubungi penyedia layanan pengiriman dan Customer Service untuk melakukan pelacakan dan investigasi lebih lanjut.",
-            "Setelah pesanan dikirim, penggantian alamat pengiriman tidak bisa dilakukan. Anda dapat menghubungi penyedia layanan pengiriman untuk bantuan jika memungkinkan."
-        ]
-    }
-],
-    "Pengembalian Dana": [
-        {
-            "subkategori": "Proses dan Waktu Pengembalian Dana",
-            "pertanyaan": [
-                "Bagaimana proses pengembalian dana?",
-                "Berapa lama proses pengembalian dana?",
-                "Berapa lama waktu yang diperlukan untuk mendapatkan pengembalian dana?",
-                "Kapan dana akan dikembalikan setelah pengembalian barang?",
-                "Berapa lama waktu yang dibutuhkan untuk proses pengembalian dana?"
-            ],
-            "jawaban": [
-                "Setelah melakukan pembatalan pesanan atau pengembalian barang, dana akan dikembalikan ke saldo Bengkel Nusantara (koin) atau melalui transfer bank.",
-                "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan.",
-                "Pengembalian dana biasanya memerlukan waktu 5-7 hari kerja setelah barang yang dikembalikan diterima dan diperiksa."
-            ]
-        },
-        {
-            "subkategori": "Kebijakan dan Persyaratan Pengembalian",
-            "pertanyaan": [
-                "Apakah ada biaya pengembalian barang?",
-                "Bagaimana jika produk yang diterima rusak?",
-                "Apakah semua produk bisa dikembalikan?",
-                "Bagaimana cara menghubungi Customer Service untuk pengembalian dana?",
-                "Apakah ada syarat dan ketentuan khusus untuk pengembalian dana?",
-                "Apa saja kebijakan pengembalian barang yang berlaku?"
-            ],
-            "jawaban": [
-                "Biaya pengembalian barang tergantung pada syarat dan ketentuan yang berlaku. Beberapa produk mungkin dikenakan biaya pengembalian.",
-                "Jika Anda menerima produk yang rusak, segera laporkan melalui menu 'Bantuan & Dukungan' di aplikasi dan pilih opsi pengembalian barang.",
-                "Tidak semua produk dapat dikembalikan. Produk yang tidak dapat dikembalikan biasanya termasuk produk yang bersifat perishable atau yang sudah digunakan.",
-                "Anda dapat menghubungi Customer Service melalui menu 'Bantuan & Dukungan' di aplikasi Bengkel Nusantara atau melalui email resmi kami."
-            ]
-        },
-        {
-            "subkategori": "Status dan Persyaratan Pengembalian Dana",
-            "pertanyaan": [
-                "Bagaimana saya mengetahui jika pengembalian dana sudah diproses?",
-                "Apakah pengembalian dana bisa ditolak?",
-                "Apakah saya bisa mengembalikan barang tanpa alasan?"
-            ],
-            "jawaban": [
-                "Anda akan menerima notifikasi melalui email atau aplikasi setelah pengembalian dana diproses. Anda juga bisa memeriksa statusnya di bagian 'Riwayat Transaksi' akun Anda.",
-                "Ya, pengembalian dana bisa ditolak jika produk yang dikembalikan tidak memenuhi syarat pengembalian, misalnya jika produk sudah digunakan atau tidak dalam kondisi asli.",
-                "Pengembalian barang tanpa alasan mungkin tidak diterima tergantung pada kebijakan penjual. Pastikan untuk memeriksa kebijakan pengembalian barang sebelum melakukan pembelian."
-            ]
-        }
-    ],
-    "Pembatalan": [
-        {
-            "subkategori": "Cara dan Syarat Pembatalan",
-            "pertanyaan": [
-                "Bagaimana cara membatalkan pesanan?",
-                "Apakah ada biaya untuk pembatalan pesanan?",
-                "Apakah alasan pembatalan pesanan diperlukan?",
-                "Kapan saya bisa membatalkan pesanan?"
-            ],
-            "jawaban": [
-                "Untuk pembatalan pesanan, pilih Saya > pilih menu Dikemas > pilih pesanan yang ingin dibatalkan > pilih Batalkan Pesanan. Anda dapat memilih alasan pembatalan dan kemudian konfirmasi untuk membatalkan pesanan.",
-                "Tidak ada biaya tambahan untuk pembatalan pesanan di Bengkel Nusantara. Namun, jika pesanan sudah dalam proses pengiriman, pembatalan mungkin tidak dapat dilakukan.",
-                "Ya, Anda perlu memilih alasan pembatalan saat ingin membatalkan pesanan. Beberapa pilihan alasan sudah disediakan untuk Anda pilih.",
-                "Pembatalan pesanan dapat dilakukan kapan saja selama pesanan belum masuk ke tahap pengiriman."
-            ]
-        },
-        {
-            "subkategori": "Proses dan Hasil Pembatalan",
-            "pertanyaan": [
-                "Apakah saya akan mendapatkan pengembalian dana setelah membatalkan pesanan?",
-                "Apa yang terjadi jika pembatalan tidak berhasil?",
-                "Berapa lama waktu yang dibutuhkan untuk proses pembatalan?"
-            ],
-            "jawaban": [
-                "Ya, setelah pembatalan pesanan, dana Anda akan dikembalikan melalui metode pembayaran yang digunakan atau ke saldo Bengkel Nusantara.",
-                "Jika pembatalan tidak berhasil, mungkin pesanan Anda sudah masuk dalam proses pengiriman. Anda dapat menghubungi Customer Service untuk bantuan lebih lanjut.",
-                "Proses pembatalan biasanya selesai dalam beberapa menit. Pengembalian dana dapat memakan waktu 3-7 hari kerja tergantung metode pembayaran."
-            ]
-        },
-        {
-            "subkategori": "Pembatalan Setelah Dikirim",
-            "pertanyaan": [
-                "Bagaimana jika saya ingin membatalkan pesanan setelah dikirim?",
-                "Apakah saya bisa membatalkan sebagian barang dalam pesanan?",
-                "Apakah saya bisa membatalkan pesanan jika sudah dibayar?"
-            ],
-            "jawaban": [
-                "Jika pesanan sudah dalam status Dikirim, pembatalan tidak dapat dilakukan. Anda bisa menunggu pesanan tiba dan kemudian mengajukan pengembalian barang.",
-                "Tidak, pembatalan hanya bisa dilakukan untuk keseluruhan pesanan, tidak untuk sebagian barang dalam pesanan.",
-                "Ya, pesanan yang sudah dibayar masih bisa dibatalkan selama belum dalam proses pengiriman."
-            ]
-        }
-    ],
-
-    "Pengiriman": [
-        {
-            "subkategori": "Jadwal dan Opsi Pengiriman",
-            "pertanyaan": [
-                "Bagaimana cara mengatur jadwal pengiriman?",
-                "Opsi pengiriman apa saja yang tersedia?",
-                "Kapan saya bisa memilih pengiriman hari berikutnya?",
-                "Bagaimana saya mengetahui jadwal pengiriman tersedia di daerah saya?"
-            ],
-            "jawaban": [
-                "Anda dapat mengatur jadwal pengiriman saat melakukan proses checkout. Pilih opsi pengiriman yang sesuai dengan preferensi Anda. Pastikan untuk memeriksa jadwal dan ketersediaan pengiriman di area Anda.",
-                "Kami menawarkan opsi pengiriman standar, ekspres, dan pengiriman hari berikutnya. Ketersediaan opsi ini mungkin berbeda tergantung lokasi Anda.",
-                "Pengiriman hari berikutnya hanya tersedia untuk pesanan yang dilakukan sebelum batas waktu tertentu dan di area yang mendukung layanan tersebut.",
-                "Anda bisa mengecek jadwal pengiriman yang tersedia di daerah Anda saat checkout. Pilih opsi pengiriman dan jadwal yang tersedia akan muncul berdasarkan alamat pengiriman Anda."
-            ]
-        },
-        {
-            "subkategori": "Status dan Lacak Pengiriman",
-            "pertanyaan": [
-                "Bagaimana cara melacak status pengiriman?",
-                "Apa yang harus saya lakukan jika status pengiriman tidak berubah?",
-                "Bagaimana cara mengetahui estimasi waktu pengiriman?",
-                "Apa yang harus saya lakukan jika barang tidak sampai sesuai jadwal?"
-            ],
-            "jawaban": [
-                "Anda dapat melacak status pengiriman dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi.",
-                "Jika status pengiriman tidak berubah dalam beberapa hari, coba periksa kembali nomor pelacakan dan hubungi penyedia layanan pengiriman atau Customer Service untuk konfirmasi.",
-                "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh beberapa faktor.",
-                "Jika barang tidak sampai sesuai jadwal, pastikan Anda sudah memeriksa status pengiriman melalui nomor resi. Jika pengiriman terlambat lebih dari waktu estimasi, segera hubungi Customer Service."
-            ]
-        },
-        {
-            "subkategori": "Pengiriman Internasional",
-            "pertanyaan": [
-                "Apakah Bengkel Nusantara melakukan pengiriman internasional?",
-                "Bagaimana cara mengatur pengiriman internasional?",
-                "Berapa lama waktu yang dibutuhkan untuk pengiriman internasional?"
-            ],
-            "jawaban": [
-                "Ya, kami melakukan pengiriman internasional ke beberapa negara tertentu. Pilih opsi pengiriman internasional saat checkout.",
-                "Anda dapat mengatur pengiriman internasional saat melakukan proses checkout. Pilih opsi pengiriman internasional dan masukkan alamat pengiriman yang valid.",
-                "Waktu pengiriman internasional bervariasi tergantung lokasi tujuan dan metode pengiriman yang dipilih. Estimasi waktu pengiriman akan ditampilkan saat checkout."
-            ]
-        },
-        {
-            "subkategori": "Pengiriman Gratis",
-            "pertanyaan": [
-                "Apakah Bengkel Nusantara menawarkan pengiriman gratis?",
-                "Bagaimana cara mendapatkan pengiriman gratis?",
-                "Apa syarat dan ketentuan pengiriman gratis?"
-            ],
-            "jawaban": [
-                "Ya, kami menawarkan pengiriman gratis untuk beberapa produk tertentu. Pastikan untuk memeriksa detail produk dan promo saat checkout.",
-                "Anda bisa mendapatkan pengiriman gratis dengan memenuhi syarat dan ketentuan yang berlaku. Promo pengiriman gratis biasanya tersedia untuk pembelian di atas nominal tertentu.",
-                "Syarat dan ketentuan pengiriman gratis dapat berbeda tergantung promo yang berlaku. Pastikan untuk memeriksa detail promo saat checkout."
-            ]
-        }
-    ],
-    "Profil": [
-        {
-            "subkategori": "Pengelolaan Informasi Profil",
-            "pertanyaan": [
-                "Bagaimana cara mengubah informasi profil?",
-                "Apakah saya bisa mengganti foto profil?",
-                "Bagaimana cara menambahkan informasi kontak?",
-                "Apakah informasi profil saya aman?",
-                "mengubah informasi profil",
-                "cara menambahkan kontak",
-                "mengganti foto profil",
-                "keamanan informasi profil",
-                "profil aman"
-            ],
-            "jawaban": [
-                "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan.",
-                "Ya, Anda bisa mengganti foto profil dengan membuka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > pilih Ganti Foto Profil dan unggah foto baru.",
-                "Untuk menambahkan informasi kontak, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > tambahkan nomor telepon atau email baru dan pilih Simpan.",
-                "Ya, informasi profil Anda aman dan tidak akan dibagikan kepada pihak ketiga tanpa izin Anda.",
-                "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan."
-
-            ]
-        },
-        {
-            "subkategori": "Keamanan dan Penghapusan Akun",
-            "pertanyaan": [
-                "Apa yang harus dilakukan jika saya lupa kata sandi profil?",
-                "Apakah saya bisa menghapus akun saya?",
-                "Apakah ada cara untuk mengembalikan profil yang dihapus?",
-                "cara hapus akun"
-            ],
-            "jawaban": [
-                "Anda bisa melakukan reset kata sandi dengan memilih opsi 'Lupa Kata Sandi' pada halaman login dan mengikuti instruksi yang diberikan.",
-                "Anda bisa mengajukan permohonan penghapusan akun dengan menghubungi Customer Service kami melalui bagian Bantuan di aplikasi.",
-                "Setelah profil dihapus, Anda tidak bisa mengembalikannya. Anda perlu mendaftar ulang jika ingin menggunakan layanan kami lagi."
-            ]
-        }
-    ],
-    "Promo": [
-        {
-            "subkategori": "Mendapatkan dan Menggunakan Promo",
-            "pertanyaan": [
-                "Bagaimana cara mendapatkan promo?",
-                "Bagaimana cara menggunakan kode promo?",
-                "Bisakah saya menggunakan beberapa diskon dalam satu pesanan?",
-                "Apakah ada promo khusus untuk pengguna baru?",
-                "promo",
-                "kode promo",
-                "diskon",
-                "promo khusus",
-                "promo baru",
-                "promo terbaru",
-                "kode promo baru",
-                "diskon baru",
-                "promo pengguna baru",
-                "promo pengguna lama",
-                "promo pelanggan baru",
-                "promo pelanggan lama",
-                "promo spesial",
-                "promo eksklusif",
-                "promo terbaru",
-                "promo diskon",
-                "promo kode",
-                "promo khusus"
-            ],
-            "jawaban": [
-                "Untuk mendapatkan promo terbaru, buka aplikasi Bengkel Nusantara dan pergi ke bagian Promo atau Penawaran Spesial. Anda juga dapat mengikuti akun media sosial resmi kami untuk mendapatkan informasi promo terbaru.",
-                "Anda dapat memasukkan kode promo saat checkout di kolom 'Kode Promo'. Masukkan kode dan klik 'Terapkan'.",
-                "Hanya satu kode promo atau diskon yang dapat diterapkan per pesanan.",
-                "Ya, kami sering menawarkan promo khusus untuk pengguna baru. Pastikan Anda memeriksa bagian Promo di aplikasi untuk informasi lebih lanjut."
-            ]
-        },
-        {
-            "subkategori": "Informasi dan Kebijakan Promo",
-            "pertanyaan": [
-                "Apakah promo berlaku untuk semua barang?",
-                "Bagaimana saya tahu jika promo sudah berakhir?",
-                "Apakah promo dapat dibatalkan setelah diterapkan?",
-                "Apakah saya bisa menerima pemberitahuan tentang promo melalui email?"
-            ],
-            "jawaban": [
-                "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian.",
-                "Informasi mengenai masa berlaku promo biasanya ditampilkan di halaman promo. Pastikan untuk memeriksa sebelum melakukan pembelian.",
-                "Tidak, sekali promo diterapkan, Anda tidak bisa membatalkannya. Pastikan untuk memeriksa detail sebelum menyelesaikan pembayaran.",
-                "Ya, Anda dapat mengaktifkan pemberitahuan melalui email untuk mendapatkan informasi tentang promo terbaru."
-            ]
-        }
-    ],
-
-    "Informasi Produk": [
-    {
-        "subkategori": "Garansi dan Ketersediaan Produk",
-        "pertanyaan": [
-            "Apakah produk Anda dilengkapi dengan garansi?",
-            "Bagaimana saya bisa mengetahui ketersediaan produk?",
-            "Di mana saya bisa menemukan panduan ukuran produk?",
-            "Apakah produk dijual dalam kondisi baru?",
-            "Apakah produk yang dijual asli?",
-            "Bagaimana cara mengetahui spesifikasi produk?",
-            "Apakah saya bisa mengajukan pertanyaan tentang produk?",
-            "Bagaimana jika saya menerima produk yang salah?"
-        ],
-        "jawaban": [
-            "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
-            "Ketersediaan produk ditampilkan di halaman produk. Jika produk habis, Anda bisa memilih opsi untuk diberitahu ketika produk kembali tersedia.",
-            "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'.",
-            "Ya, semua produk yang dijual melalui platform kami adalah produk baru. Kondisi produk dapat diperiksa di halaman deskripsi produk.",
-            "Ya, kami menjamin bahwa semua produk yang dijual di Bengkel Nusantara adalah produk asli dari penjual terverifikasi.",
-            "Spesifikasi produk dapat ditemukan di halaman detail produk, di bagian deskripsi atau spesifikasi teknis.",
-            "Ya, Anda dapat mengajukan pertanyaan tentang produk di halaman produk, dan tim kami akan menjawabnya.",
-            "Jika Anda menerima produk yang salah, segera hubungi Customer Service kami untuk proses pengembalian dan penggantian."
-        ]
-    },
-    {
-        "subkategori": "Keaslian dan Spesifikasi Produk",
-        "pertanyaan": [
-            "Apakah produk yang dijual asli?",
-            "Bagaimana cara mengetahui spesifikasi produk?",
-            "Apakah saya bisa mengajukan pertanyaan tentang produk?",
-            "Bagaimana jika saya menerima produk yang salah?",
-            "Apakah produk yang dijual dalam kondisi baru?",
-            "Apakah produk Anda dilengkapi dengan garansi?",
-            "Di mana saya bisa menemukan panduan ukuran produk?"
-        ],
-        "jawaban": [
-            "Ya, kami menjamin bahwa semua produk yang dijual di Bengkel Nusantara adalah produk asli dari penjual terverifikasi.",
-            "Spesifikasi produk dapat ditemukan di halaman detail produk, di bagian deskripsi atau spesifikasi teknis.",
-            "Ya, Anda dapat mengajukan pertanyaan tentang produk di halaman produk, dan tim kami akan menjawabnya.",
-            "Jika Anda menerima produk yang salah, segera hubungi Customer Service kami untuk proses pengembalian dan penggantian.",
-            "Ya, semua produk yang dijual melalui platform kami adalah produk baru. Kondisi produk dapat diperiksa di halaman deskripsi produk.",
-            "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
-            "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'."
-        ]
-    },
-    {
-        "subkategori": "Kebijakan Pengembalian",
-        "pertanyaan": [
-            "Apakah ada kebijakan pengembalian untuk produk?",
-            "Bagaimana cara mengembalikan produk yang tidak sesuai?",
-            "Berapa lama waktu yang diperlukan untuk proses pengembalian?",
-            "Apakah ada biaya tambahan untuk pengembalian produk?",
-            "Apakah semua produk bisa dikembalikan?",
-            "Bagaimana cara menghubungi Customer Service untuk pengembalian produk?",
-            "Apa yang harus dilakukan jika produk yang diterima rusak?"
-        ],
-        "jawaban": [
-            "Ya, kami memiliki kebijakan pengembalian untuk produk dalam jangka waktu tertentu setelah penerimaan barang.",
-            "Untuk mengembalikan produk yang tidak sesuai, hubungi Customer Service kami dan sertakan nomor pesanan serta alasan pengembalian.",
-            "Proses pengembalian biasanya memakan waktu 5-7 hari kerja setelah barang diterima dan diperiksa.",
-            "Biaya pengembalian tergantung pada syarat dan ketentuan yang berlaku. Beberapa produk mungkin dikenakan biaya pengembalian.",
-            "Tidak semua produk dapat dikembalikan. Produk yang tidak dapat dikembalikan biasanya termasuk produk yang bersifat perishable atau yang sudah digunakan.",
-            "Anda dapat menghubungi Customer Service melalui menu 'Bantuan & Dukungan' di aplikasi Bengkel Nusantara atau melalui email resmi kami.",
-            "Jika produk yang diterima rusak, segera laporkan melalui menu 'Bantuan & Dukungan' di aplikasi dan pilih opsi pengembalian barang."
-        ]
-    }
-    ],
-    "Greeting": [
-        {
-            "subkategori": "Sambutan Awal",
-            "pertanyaan": [
-                "Hi",
-                "Hi! Bagaimana kami bisa membantu Anda hari ini?",
-                "Halo! Ada yang bisa kami bantu?",
-                "Selamat Pagi! Bagaimana kabar Anda?",
-                "Selamat Siang! Perlu bantuan?",
-                "Selamat Sore! Ada yang bisa kami bantu?",
-                "Selamat Malam! Butuh bantuan sebelum beristirahat?",
-                "Terima Kasih sudah menghubungi kami. Ada yang bisa dibantu?"
-            ],
-            "jawaban": [
-                "Terima kasih telah menghubungi kami! Kami siap membantu Anda dengan pertanyaan atau masalah apa pun.",
-                "Kami di sini untuk membantu Anda dengan berbagai layanan kami. Silakan tanyakan apa saja.",
-                "Semoga harimu menyenangkan! Kami siap membantu segala kebutuhanmu.",
-                "Kami siap memberikan dukungan penuh untuk masalah atau pertanyaan yang Anda miliki.",
-                "Kami siap membantu Anda dengan informasi atau layanan yang Anda butuhkan.",
-                "Kami di sini untuk membantu kapan saja, silakan ajukan pertanyaan Anda.",
-                "Kami menghargai waktu Anda untuk menghubungi kami. Ada yang bisa kami bantu lebih lanjut?"
-            ]
-        }
-    ],
-    "Pertolongan Awal": [
-    {
-      "subkategori": "Pengecekan Mandiri Oli",
+      "subkategori": "Username",
       "pertanyaan": [
-        "Bagaimana cara mengecek kondisi oli motor?",
-        "Kapan saya harus mengganti oli motor?",
-        "Apa gejala jika oli motor kurang?",
-        "Bagaimana cara memeriksa kebocoran oli?",
-        "Apakah boleh menggunakan oli motor yang sudah lama?",
-        "Apa tanda-tanda oli motor perlu diganti?",
-        "Apakah bisa menggunakan oli motor yang berbeda merek?",
-        "Apa yang harus dilakukan jika oli motor bocor?",
-        "Bagaimana cara mengetahui kualitas oli motor?",
-        "Apakah perlu mengganti filter oli setiap kali ganti oli?",
-        "Apakah bisa menggunakan oli motor bekas?",
-        "Berapa banyak oli yang dibutuhkan untuk motor saya?",
-        "Apa yang terjadi jika terlambat mengganti oli motor?",
-        "Bagaimana cara mengisi ulang oli motor yang berkurang?",
-        "Apakah oli motor mempengaruhi performa mesin?"
+        "Apakah Saya Bisa Mengganti Username Saya, Bagaimana Caranya",
+        "Bagaimana Cara Mengganti Username Saya",
+        "Saya Ingin Mengganti Username Saya, Bagaimana Caranya",
+        "Ganti Username",
+        "Bagaimana Cara Mengubah Username Saya",
+        "Saya Ingin Mengganti Username Saya",
+        "Bagaimana Cara Mengganti Username",
+        "Cara Mengganti Username",
+        "Bagaimana Cara Mengubah Username",
+        "Saya Ingin Mengganti Username",
+        "Bagaimana Cara Mengganti Username Saya",
+        "Cara Mengubah Username",
+        "Saya Ingin Mengubah Username Saya",
+        "Bagaimana Cara Mengubah Username Saya",
+        "Saya Ingin Mengubah Username",
+        "Bagaimana Cara Mengubah Username",
+        "Cara Mengganti Username Saya",
+        "Saya Ingin Mengganti Username",
+        "Bagaimana Cara Mengganti Username",
+        "Cara Mengubah Username Saya",
+        "Saya Ingin Mengubah Username",
+        "Bagaimana Cara Mengubah Username",
+        "Cara Mengganti Username",
+        "Rubah username"
       ],
       "jawaban": [
-        "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
-        "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.",
-        "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang.",
-        "Periksa bagian bawah mesin dan tempat parkir untuk melihat apakah ada tetesan oli yang tidak wajar.",
-        "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal.",
-        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
-        "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik.",
-        "Segera perbaiki kebocoran untuk menghindari kerusakan lebih lanjut pada mesin.",
-        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor.",
-        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
-        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin.",
-        "Biasanya sekitar 1-2 liter, tergantung jenis dan ukuran mesin motor.",
-        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk.",
-        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu.",
-        "Oli motor yang berkualitas buruk dapat menurunkan performa dan mempercepat keausan mesin."
+        "Untuk mengubah username Anda melalui aplikasi bengkel nusantara, pilih tab Saya > pilih ikon > pilih Keamanan & Akun > pilih Username > pilih Lanjut > masukkan username baru Anda > pilih Simpan.",
+        "Untuk mengganti username, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Username'.",
+        "Untuk mengubah username, buka tab Saya > Pilih ikon > Akun Saya > Pilih Username > Isi username baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
       ]
     },
     {
-      "subkategori": "Pengecekan Mandiri Ban",
+      "subkategori": "Alamat",
+      "pertanyaan": [
+        "Bagaimana cara mengganti alamat?",
+        "saya salah menentukan alamat, bagaimana cara menggantinya?",
+        "Saya Salah Menentukan Alamat Saya, Dan Barang Sudah Dikirim Bagaimana Solusinya",
+        "Bagaimana Cara Mengubah Alamat Pengiriman Saya",
+        "Saya Ingin Mengganti Alamat Pengiriman",
+        "Bagaimana Cara Mengganti Alamat",
+        "Saya Ingin Mengubah Alamat Pengiriman Saya",
+        "Bagaimana Cara Mengubah Alamat Saya",
+        "Saya Ingin Mengganti Alamat",
+        "Bagaimana Cara Mengganti Alamat",
+        "Cara Mengubah Alamat Pengiriman",
+        "Saya Ingin Mengubah Alamat",
+        "Bagaimana Cara Mengubah Alamat",
+        "Cara Mengganti Alamat Saya"
+      ],
+      "jawaban": [
+        "Untuk mengganti alamat, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'.",
+        "Untuk menambahkan alamat baru, buka tab Saya > Pilih ikon > Alamat Saya > Pilih Tambah alamat baru > Isi rincian > KIRIM. Untuk mengedit alamat yang ada, cukup pilih alamat > ubah rincian > KIRIM. Untuk menghapus alamat yang ada, pilih alamat > Hapus Alamat > Ya. Jika ini belum membantu silakan klik hubungi cs.",
+        "Untuk mengubah alamat pengiriman, buka tab Saya > Pilih ikon > Alamat Pengiriman > Pilih alamat yang ingin diubah > Isi rincian alamat baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs.",
+        "Untuk mengganti alamat pengiriman, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'.",
+        "Untuk mengubah alamat pengiriman, buka tab Saya > Pilih ikon > Alamat Pengiriman > Pilih alamat yang ingin diubah > Isi rincian alamat baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs.",
+        "Untuk mengganti alamat, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Alamat'."
+      ]
+    },
+    {
+      "subkategori": "Keamanan Akun",
+      "pertanyaan": [
+        "Bagaimana Caranya Agar Akun Saya Aman",
+        "Cara mengamankan akun",
+        "Bagaimana cara menjaga keamanan akun saya",
+        "Bagaimana cara meningkatkan keamanan akun saya",
+        "Bagaimana cara melindungi akun saya dari penipuan",
+        "Bagaimana cara mengamankan akun saya dari akses yang tidak sah",
+        "Bagaimana cara melindungi akun saya dari hacker",
+        "Bagaimana cara menjaga keamanan akun saya dari pencurian",
+        "Bagaimana cara meningkatkan keamanan akun saya dari serangan",
+        "Bagaimana cara melindungi akun saya dari akses yang tidak sah",
+        "Bagaimana cara mengamankan akun saya dari penipuan",
+        "Bagaimana cara menjaga keamanan akun saya dari hacker",
+        "Bagaimana cara meningkatkan keamanan akun saya dari pencurian",
+        "Bagaimana cara melindungi akun saya dari serangan",
+        "Bagaimana cara mengamankan akun saya dari akses yang tidak sah",
+        "Bagaimana cara menjaga keamanan akun saya dari penipuan",
+        "Bagaimana cara meningkatkan keamanan akun saya dari hacker",
+        "Bagaimana cara melindungi akun saya dari pencurian",
+        "Bagaimana cara mengamankan akun saya dari serangan",
+        "Bagaimana cara menjaga keamanan akun saya dari akses yang tidak sah",
+        "Bagaimana cara meningkatkan keamanan akun saya dari penipuan",
+        "Bagaimana cara melindungi akun saya dari hacker",
+        "Bagaimana cara mengamankan akun saya dari pencurian",
+        "Bagaimana cara menjaga keamanan akun saya dari serangan",
+        "Bagaimana cara meningkatkan keamanan akun saya dari akses yang tidak sah",
+        "Bagaimana cara melindungi akun saya dari penipuan",
+        "Bagaimana cara mengamankan akun saya dari hacker"
+      ],
+      "jawaban": [
+        "Keamanan juga dapat ditingkatkan dengan cara 1. Membuat PIN yang kuat Gunakan minimal 6 (enam) digit angka. Hindari penggunaan angka tanggal lahir dan berurutan (yang mudah ditebak), seperti: 111111, 123456, 112233, 147852, dsb. 2. Pastikan saat mengakses akun dan bertransaksi hanya melalui aplikasi/website resmi.",
+        "Untuk menjaga keamanan akun, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk meningkatkan keamanan akun, pastikan untuk menggunakan kata sandi yang kuat, tidak menggunakan kata sandi yang sama untuk akun lain, dan tidak memberikan informasi pribadi atau kata sandi kepada pihak lain.",
+        "Untuk melindungi akun dari penipuan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk mengamankan akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk melindungi akun dari hacker, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk menjaga keamanan akun dari pencurian, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk meningkatkan keamanan akun dari serangan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk melindungi akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk mengamankan akun dari penipuan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk menjaga keamanan akun dari hacker, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk meningkatkan keamanan akun dari pencurian, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk melindungi akun dari serangan, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi.",
+        "Untuk mengamankan akun dari akses yang tidak sah, pastikan untuk tidak memberikan informasi pribadi atau kata sandi kepada pihak lain, dan pastikan untuk keluar dari akun setelah selesai menggunakan aplikasi."
+      ]
+    },
+    {
+      "subkategori": "Password",
+      "pertanyaan": [
+        "Cara Mengganti Password",
+        "Bagaimana cara mereset kata sandi saya?",
+        "Saya Lupa Password Akun Saya, Bagaimana Cara Mengatasinya",
+        "Bagaimana Cara Mengubah Password Akun Saya",
+        "Saya Ingin Mengubah Password Akun Saya",
+        "Bagaimana Cara Mengubah Password",
+        "Saya Ingin Mengganti Password Akun Saya",
+        "Bagaimana Cara Mengganti Password Saya",
+        "Saya Ingin Mengubah Password",
+        "Bagaimana Cara Mengubah Password",
+        "Cara Mengganti Password Akun Saya",
+        "Saya Ingin Mengganti Password",
+        "Bagaimana Cara Mengganti Password",
+        "Cara Mengubah Password Saya"
+      ],
+      "jawaban": [
+        "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
+        "Untuk mereset kata sandi, silahkan klik 'Lupa Password' pada halaman login dan ikuti petunjuk yang diberikan.",
+        "Jika Anda lupa password akun Anda, Anda dapat meresetnya dengan mengklik 'Lupa Password' pada halaman login dan mengikuti petunjuk yang diberikan.",
+        "Untuk mengubah password akun, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Password'.",
+        "Untuk mengubah password, buka tab Saya > Pilih ikon > Akun Saya > Pilih Password > Isi password lama > Isi password baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
+      ]
+    },
+    {
+      "subkategori": "Nomor Telepon",
+      "pertanyaan": [
+        "Cara Ubah Nomor Telepon",
+        "Cara Verifikasi Nomor Telepon",
+        "Bagaimana Cara Mengganti Nomor Telepon",
+        "Saya Ingin Mengganti Nomor Telepon",
+        "Bagaimana Cara Mengubah Nomor Telepon",
+        "Saya Ingin Mengubah Nomor Telepon",
+        "Bagaimana Cara Mengganti Nomor Telepon Saya",
+        "Saya Ingin Mengganti Nomor Telepon Saya",
+        "Bagaimana Cara Mengubah Nomor Telepon Saya",
+        "Cara Mengganti Nomor Telepon",
+        "Saya Ingin Mengubah Nomor Telepon",
+        "Bagaimana Cara Mengubah Nomor Telepon",
+        "Cara Mengubah Nomor Telepon Saya",
+        "Saya Ingin Mengganti Nomor Telepon",
+        "Bagaimana Cara Mengganti Nomor Telepon",
+        "Cara Mengubah Nomor Telepon"
+      ],
+      "jawaban": [
+        "Hi kak, Kakak dapat mengubah no telepon akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti nomor telepon Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
+        "Untuk verifikasi nomor telepon, silahkan klik 'Verifikasi Nomor Telepon' pada halaman akun dan ikuti petunjuk yang diberikan.",
+        "Untuk mengganti nomor telepon, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Nomor Telepon'.",
+        "Untuk mengubah nomor telepon, buka tab Saya > Pilih ikon > Akun Saya > Pilih Nomor Telepon > Isi nomor telepon baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
+      ]
+    },
+    {
+      "subkategori": "Penghapusan Akun",
+      "pertanyaan": [
+        "Saya Ingin Menghapus Akun Bagaimana Caranya",
+        "Bagaimana Cara Menghapus Akun",
+        "Cara Menghapus Akun",
+        "Saya Ingin Menghapus Akun Saya",
+        "Bagaimana Cara Menghapus Akun Saya",
+        "Cara Menghapus Akun Saya",
+        "Saya Ingin Menghapus Akun",
+        "Cara Menghapus Akun Saya",
+        "Bagaimana Cara Menghapus Akun",
+        "Cara Menghapus Akun"
+      ],
+      "jawaban": [
+        "Anda dapat menghapus akun bengkel nusantara Anda dengan memilih tab Saya di aplikasi bengkel nusantara > pilih ikon (Pengaturan Akun) > pilih Ajukan Penghapusan Akun > pilih OK > pilih Lanjutkan > pilih metode verifikasi > lakukan proses verifikasi > isi alasan penghapusan akun > isi alamat email Anda > centang kotak setuju dengan Syarat & Ketentuan penghapusan akun > pilih Kirim > pilih Konfirmasi. Catatan: Penghapusan akun bersifat permanen dan tidak dapat diubah. Setelah penghapusan berhasil, Anda tidak dapat masuk dan melihat riwayat akun lagi.",
+        "Untuk menghapus akun, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Hapus Akun'."
+      ]
+    },
+    {
+      "subkategori": "PIN",
+      "pertanyaan": [
+        "Ubah Pin Bengkelnusantara",
+        "Bagaimana Cara Mengganti Pin",
+        "Saya Ingin Mengganti Pin",
+        "Bagaimana Cara Mengubah Pin",
+        "Cara Mengganti Pin",
+        "Saya Ingin Mengubah Pin",
+        "Bagaimana Cara Mengganti Pin Saya",
+        "Saya Ingin Mengganti Pin Saya",
+        "Bagaimana Cara Mengubah Pin Saya",
+        "Cara Mengubah Pin"
+      ],
+      "jawaban": [
+        "Hi kak, Kakak dapat mengubah password akun bengkel nusantara melalui aplikasi atau situs bengkel nusantara. Pilih tab Saya di aplikasi bengkel nusantara Pilih ikon () Pilih Akun & Keamanan > pilih Ganti Password Pilih metode verifikasi > lakukan proses verifikasi Masukkan password baru > konfirmasi password baru > pilih Konfirmasi.",
+        "Untuk mengganti pin, silahkan klik menu 'Akun Saya' kemudian klik 'Edit Profile' dan pilih 'Ubah Pin'.",
+        "Untuk mengubah pin, buka tab Saya > Pilih ikon > Akun Saya > Pilih Pin > Isi pin lama > Isi pin baru > KIRIM. Jika ini belum membantu silakan klik hubungi cs."
+      ]
+    },
+    {
+      "subkategori": "Email Pengguna",
+      "pertanyaan": [
+        "Apakah saya bisa mengubah email pengguna?",
+        "Bagaimana cara mengganti email pengguna saya?",
+        "Saya ingin mengganti email pengguna saya",
+        "Cara mengganti email pengguna"
+      ],
+      "jawaban": [
+        "Maaf, setelah email pengguna ditetapkan, email tersebut tidak dapat diubah. Namun, Anda bisa membuat akun baru dengan email pengguna yang berbeda."
+      ]
+    }
+  ],
+  "Layanan Bengkel": [
+    {
+      "subkategori": "Syarat Dan Ketentuan Biaya Jasa Aplikasi",
+      "pertanyaan": [
+        "Apa saja syarat dan ketentuan biaya jasa aplikasi?",
+        "Bagaimana syarat dan ketentuan biaya jasa aplikasi?",
+        "Syarat dan ketentuan biaya jasa aplikasi",
+        "Apa saja ketentuan biaya jasa aplikasi?",
+        "Bagaimana ketentuan biaya jasa aplikasi?",
+        "Ketentuan biaya jasa aplikasi",
+        "Apa saja syarat biaya jasa aplikasi?",
+        "Bagaimana syarat biaya jasa aplikasi?",
+        "Syarat biaya jasa aplikasi"
+      ],
+      "jawaban": [
+        "Biaya Layanan sudah termasuk dengan biaya Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan peraturan perundang-undangan di bidang perpajakan yang berlaku dan belum termasuk dengan Biaya Penanganan."
+      ]
+    },
+    {
+      "subkategori": "PPN",
+      "pertanyaan": [
+        "Apakah Biaya Layanan sudah termasuk PPN?",
+        "Apakah PPN sudah termasuk dalam Biaya Layanan?",
+        "Apakah Biaya Layanan sudah termasuk Pajak Pertambahan Nilai?",
+        "Apakah PPN sudah termasuk dalam Biaya Layanan?"
+      ],
+      "jawaban": [
+        "Ya, Biaya Layanan sudah termasuk Pajak Pertambahan Nilai (PPN) sesuai dengan ketentuan perundang-undangan yang berlaku."
+      ]
+    },
+    {
+      "subkategori": "Biaya Tambahan",
+      "pertanyaan": [
+        "Apakah ada biaya tambahan selain Biaya Layanan?",
+        "Apakah ada biaya tambahan yang dikenakan selain Biaya Layanan?",
+        "Apakah ada biaya tambahan yang harus dibayar selain Biaya Layanan?"
+      ],
+      "jawaban": [
+        "Biaya Layanan belum termasuk Biaya Penanganan yang mungkin dikenakan tergantung pada layanan yang digunakan."
+      ]
+    },
+    {
+      "subkategori": "Perhitungan Biaya",
+      "pertanyaan": [
+        "Bagaimana cara menghitung Biaya Layanan?",
+        "Bagaimana perhitungan Biaya Layanan?",
+        "Bagaimana cara perhitungan Biaya Layanan?"
+      ],
+      "jawaban": [
+        "Biaya Layanan dihitung berdasarkan ketentuan yang berlaku dan termasuk PPN. Biaya tambahan seperti Biaya Penanganan akan dikenakan secara terpisah."
+      ]
+    },
+    {
+      "subkategori": "Biaya Penanganan",
+      "pertanyaan": [
+        "Apakah ada Biaya Penanganan dalam transaksi?",
+        "Apakah Biaya Penangan"
+      ],
+      "jawaban": [
+        "Ya, Biaya Penanganan dapat dikenakan tergantung pada jenis layanan yang digunakan, namun ini belum termasuk dalam Biaya Layanan."
+      ]
+    },
+    {
+      "subkategori": "Perubahan Biaya",
+      "pertanyaan": [
+        "Apakah Biaya Layanan dapat berubah?",
+        "Apakah Biaya Layanan bisa berubah?",
+        "Apakah Biaya Layanan dapat berubah sesuai kebijakan?",
+        "Apakah Biaya Layanan bisa berubah sesuai kebijakan?"
+      ],
+      "jawaban": [
+        "Biaya Layanan dapat berubah sesuai dengan kebijakan dan ketentuan yang berlaku. Semua perubahan akan diinformasikan melalui platform resmi."
+      ]
+    },
+    {
+      "subkategori": "Promosi",
+      "pertanyaan": [
+        "Apakah ada promosi terkait Biaya Layanan?",
+        "Apakah Biaya Layanan bisa mendapatkan promosi?",
+        "Apakah Biaya Layanan bisa mendapatkan diskon?",
+        "Apakah Biaya Layanan bisa mendapatkan penawaran khusus?",
+        "Apakah Biaya Layanan bisa mendapatkan promo?",
+        "Apakah Biaya Layanan bisa mendapatkan penawaran diskon?",
+        "Apakah Biaya Layanan bisa mendapatkan penawaran promosi?"
+      ],
+      "jawaban": [
+        "Promosi terkait Biaya Layanan dapat tersedia dari waktu ke waktu. Silakan cek halaman promosi di aplikasi atau website untuk informasi lebih lanjut."
+      ]
+    },
+    {
+      "subkategori": "Total Biaya",
+      "pertanyaan": [
+        "Bagaimana cara mengetahui total Biaya Layanan?",
+        "cara mengetahui total biaya layanan",
+        "cara mengetahui total biaya layanan yang harus dibayar",
+        "total biaya layanan",
+        "total biaya layanan yang harus dibayar",
+        "total biaya layanan yang harus dibayar termasuk PPN dan biaya penanganan"
+      ],
+      "jawaban": [
+        "Total Biaya Layanan akan ditampilkan pada saat transaksi, termasuk PPN dan Biaya Penanganan jika berlaku."
+      ]
+    },
+    {
+      "subkategori": "Denda",
+      "pertanyaan": [
+        "Apakah ada denda jika terlambat membayar Biaya Layanan?",
+        "Apakah ada denda untuk Biaya Layanan jika terlambat membayar?"
+      ],
+      "jawaban": [
+        "Tidak ada denda untuk Biaya Layanan, namun pembayaran harus dilakukan sesuai dengan ketentuan yang berlaku."
+      ]
+    },
+    {
+      "subkategori": "Jenis Layanan",
+      "pertanyaan": [
+        "Apakah Biaya Layanan sama untuk semua jenis layanan?",
+        "Apakah Biaya Layanan berbeda untuk setiap jenis layanan?",
+        "Apakah Biaya Layanan bervariasi tergantung pada jenis layanan?",
+        "Apakah Biaya Layanan berbeda-beda tergantung pada jenis layanan?",
+        "Apakah Biaya Layanan bisa bervariasi tergantung pada jenis layanan?",
+        "Apakah Biaya Layanan bisa berbeda tergantung pada jenis layanan?",
+        "Apakah Biaya Layanan berbeda tergantung pada jenis layanan?",
+        "Apakah Biaya Layanan bervariasi tergantung pada jenis layanan?"
+      ],
+      "jawaban": [
+        "Biaya Layanan bisa bervariasi tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku.",
+        "Biaya Layanan berbeda-beda tergantung pada jenis layanan yang digunakan dan peraturan yang berlaku."
+      ]
+    },
+    {
+      "subkategori": "Layanan Servis",
+      "pertanyaan": [
+        "Apakah saya bisa booking servis motor?",
+        "Apa saja layanan yang tersedia di bengkel ini?",
+        "Bagaimana cara melakukan booking servis?",
+        "Berapa lama waktu yang dibutuhkan untuk servis?",
+        "Apakah saya bisa memilih mekanik tertentu?",
+        "Apakah ada layanan servis panggilan?",
+        "Apakah servis bisa dilakukan di hari Minggu?",
+        "Apakah saya bisa membatalkan booking servis?",
+        "Bagaimana cara melihat jadwal bengkel terdekat?",
+        "Apakah tersedia layanan antar jemput kendaraan untuk servis?"
+      ],
+      "jawaban": [
+        "Ya, Anda bisa booking servis melalui aplikasi Bengkel Nusantara. Silakan pilih tanggal dan jenis servis yang diinginkan.",
+        "Kami menyediakan layanan servis rutin, ganti oli, tune-up, spooring & balancing, dan banyak lagi.",
+        "Anda dapat melakukan booking servis melalui aplikasi atau datang langsung ke bengkel terdekat.",
+        "Waktu servis tergantung jenis layanan, biasanya sekitar 1-3 jam.",
+        "Saat ini kami belum menyediakan opsi pemilihan mekanik tertentu.",
+        "Ya, kami memiliki layanan servis panggilan dengan biaya tambahan.",
+        "Beberapa bengkel kami buka pada hari Minggu, silakan cek di aplikasi.",
+        "Anda dapat membatalkan booking melalui aplikasi maksimal 24 jam sebelum jadwal.",
+        "Jadwal bengkel terdekat bisa Anda lihat di menu 'Cari Bengkel' di aplikasi.",
+        "Ya, kami menyediakan layanan antar jemput kendaraan untuk servis dengan biaya tambahan."
+      ]
+    }
+  ],
+  "Customer Service": [
+    {
+      "subkategori": "Kontak",
+      "pertanyaan": [
+        "Adakah nomor dari Bengkel Nusantara yang bisa saya hubungi?",
+        "Bagaimana cara menghubungi Customer Service?",
+        "Bagaimana cara menghubungi Bengkel Nusantara?",
+        "Bagaimana cara menghubungi Layanan Pelanggan?",
+        "Bagaimana cara menghubungi Layanan Pengaduan Konsumen?",
+        "Bagaimana cara menghubungi Customer Service Bengkel Nusantara?",
+        "Bagaimana cara menghubungi Layanan Pelanggan Bengkel Nusantara?",
+        "Bagaimana cara menghubungi Layanan Pengaduan Konsumen Bengkel Nusantara?"
+      ],
+      "jawaban": [
+        "Anda dapat menghubungi Layanan Pengaduan Konsumen pada kontak di bawah ini: CV. Motekar Cipta Teknologi Call Center : (021) xxxxxxx. Anda dapat menghubungi Customer Service melalui email = bengkelnusantara@gmail.com atau Live Chat pada Pusat Bantuan di aplikasi Bengkel Nusantara."
+      ]
+    },
+    {
+      "subkategori": "Registrasi Akun",
+      "pertanyaan": [
+        "Bagaimana cara menregistrasi akun baru?",
+        "Bagaimana cara mendaftar akun baru?",
+        "Bagaimana cara membuat akun baru?",
+        "Bagaimana cara daftar akun baru?",
+        "Bagaimana cara registrasi pengguna baru?",
+        "Bagaimana cara mendaftar pengguna baru?",
+        "Bagaimana cara membuat pengguna baru?",
+        "Bagaimana cara daftar pengguna baru?"
+      ],
+      "jawaban": [
+        "Untuk registrasi pengguna baru, Anda dapat mendaftarkan akun Anda dengan Google atau dengan email. Dengan Google: 1. Klik opsi daftar pada halaman Saya 2. Klik logo Google dan pilih akun Google yang akan didaftarkan 3. Registrasi pengguna baru selesai. Dengan email: 1. Klik opsi daftar pada halaman Saya 2. Masukkan data-data yang dibutuhkan seperti username, nomor telepon, email, dan password 3. Aktivasi dengan mengecek email yang telah dikirimkan 4. Registrasi pengguna baru selesai.",
+        "Untuk mendaftar akun baru, Anda dapat membuat akun Anda dengan Google atau dengan email. Dengan Google: 1. Klik opsi daftar pada halaman Saya 2. Klik logo Google dan pilih akun Google yang akan didaftarkan 3. Mendaftar akun baru selesai. Dengan email: 1. Klik opsi daftar pada halaman Saya 2. Masukkan data-data yang dibutuhkan seperti username, nomor telepon, email, dan password 3. Aktivasi dengan mengecek email yang telah dikirimkan 4. Mendaftar akun baru selesai."
+      ]
+    },
+    {
+      "subkategori": "Chat",
+      "pertanyaan": [
+        "Bagaimana cara menghubungi CS?",
+        "Chat Admin",
+        "Chat CS",
+        "Hubungi CS",
+        "Hubungkan Admin",
+        "Hubungi Admin",
+        "Hubungi Customer Service",
+        "Hubungi Layanan Pelanggan",
+        "Hubungi Layanan Pengaduan Konsumen",
+        "Hubungi Customer Service Bengkel Nusantara",
+        "Hubungi Layanan Pelanggan Bengkel Nusantara",
+        "Hubungi Layanan Pengaduan Konsumen Bengkel Nusantara"
+      ],
+      "jawaban": [
+        "Sedang mengalihkan ke admin, harap tunggu.",
+        "Sedang mengalihkan ke CS, harap tunggu.",
+        "Sedang mengalihkan ke Customer Service, harap tunggu."
+      ]
+    },
+    {
+      "subkategori": "Jam Operasional",
+      "pertanyaan": [
+        "Apa saja jam operasional Customer Service?",
+        "Kapan Customer Service Bengkel Nusantara buka?",
+        "Kapan Customer Service Bengkel Nusantara tutup?",
+        "Jam operasional Customer Service Bengkel Nusantara",
+        "Jam operasional Layanan Pelanggan Bengkel Nusantara",
+        "Jam operasional Layanan Pengaduan Konsumen Bengkel Nusantara"
+      ],
+      "jawaban": [
+        "Customer Service Bengkel Nusantara tersedia 24 jam setiap hari untuk membantu Anda dengan segala pertanyaan dan masalah yang Anda miliki."
+      ]
+    },
+    {
+      "subkategori": "Keluhan dan Komplain",
+      "pertanyaan": [
+        "Saya mengalami keterlambatan servis, bagaimana solusinya?",
+        "Bagaimana cara mengajukan komplain?",
+        "Saya tidak puas dengan hasil servis, apa yang harus saya lakukan?",
+        "Bagaimana cara melaporkan mekanik yang kurang profesional?",
+        "Servis yang saya terima tidak sesuai pesanan, bagaimana cara mengatasinya?",
+        "Apakah ada garansi untuk servis yang dilakukan?",
+        "Bagaimana cara menghubungi customer service?",
+        "Saya dikenakan biaya tambahan tanpa pemberitahuan, bagaimana solusinya?",
+        "Bagaimana cara memberikan rating atau review terhadap bengkel?",
+        "Saya mengalami masalah dengan pembayaran, bagaimana cara menyelesaikannya?"
+      ],
+      "jawaban": [
+        "Mohon maaf atas ketidaknyamanannya. Anda bisa menghubungi bengkel terkait atau mengajukan keluhan melalui fitur pengaduan di aplikasi.",
+        "Anda dapat mengajukan komplain melalui menu 'Keluhan' di aplikasi atau langsung ke customer service kami.",
+        "Silakan hubungi bengkel tempat servis dilakukan untuk menyampaikan keluhan.",
+        "Laporkan keluhan Anda melalui aplikasi dengan menyertakan bukti atau detail kejadian.",
+        "Silakan hubungi customer service untuk mendapatkan solusi lebih lanjut.",
+        "Kami menyediakan garansi untuk beberapa jenis servis, silakan cek detailnya di aplikasi.",
+        "Anda bisa menghubungi customer service kami melalui live chat atau nomor yang tertera di aplikasi.",
+        "Jika terjadi kesalahan dalam penagihan, segera laporkan melalui fitur bantuan di aplikasi.",
+        "Anda bisa memberikan rating dan ulasan setelah servis selesai melalui aplikasi.",
+        "Silakan hubungi tim keuangan kami melalui aplikasi untuk menyelesaikan masalah pembayaran."
+      ]
+    }
+  ],
+  "Keamanan": [
+    {
+      "subkategori": "Melindungi Diri Dari Penipuan",
+      "pertanyaan": [
+        "Bagaimana cara melindungi diri dari penipuan?",
+        "Bagaimana cara menghindari penipuan online yang mengatasnamakan Bengkel Nusantara?",
+        "Bagaimana cara mengenali penipuan online yang mengatasnamakan Bengkel Nusantara?",
+        "Bagaimana cara melindungi diri dari penipuan online?",
+        "Bagaimana cara menghindari penipuan online?",
+        "Bagaimana cara mengenali penipuan online?"
+      ],
+      "jawaban": [
+        "Bengkel Nusantara tidak menyediakan WhatsApp pribadi, hindari link yang diberikan oleh oknum baik itu telepon, SMS ataupun WA. Website resmi hanya ada di bengkelnusantara.com untuk informasi lebih lanjut hubungi CS jika ada masalah.",
+        "Selalu pastikan Anda hanya bertransaksi melalui website resmi bengkelnusantara.com dan hindari memberikan informasi pribadi kepada pihak yang tidak dikenal."
+      ]
+    },
+    {
+      "subkategori": "Informasi Resmi",
+      "pertanyaan": [
+        "Di mana saya bisa menemukan informasi resmi dari Bengkel Nusantara?",
+        "Apakah Bengkel Nusantara memiliki media sosial resmi?",
+        "informasi resmi",
+        "media sosial resmi",
+        "akun media sosial resmi",
+        "akun resmi",
+        "website resmi",
+        "website bengkelnusantara.com",
+        "akun media sosial",
+        "akun resmi"
+      ],
+      "jawaban": [
+        "Semua informasi resmi mengenai Bengkel Nusantara tersedia di website resmi bengkelnusantara.com.",
+        "Ya, Bengkel Nusantara memiliki akun media sosial resmi yang terverifikasi. Hindari akun-akun palsu yang mengatasnamakan Bengkel Nusantara.",
+        "Semua informasi resmi Bengkel Nusantara dapat diakses melalui website resmi bengkelnusantara.com."
+      ]
+    },
+    {
+      "subkategori": "Nomor Kontak dan Layanan",
+      "pertanyaan": [
+        "Apakah Bengkel Nusantara memiliki nomor WhatsApp pribadi?",
+        "Apakah Bengkel Nusantara menyediakan layanan melalui SMS?",
+        "Nomor kontak Bengkel Nusantara",
+        "Layanan Bengkel Nusantara",
+        "Nomor WhatsApp Bengkel Nusantara",
+        "Layanan SMS Bengkel Nusantara"
+      ],
+      "jawaban": [
+        "Tidak, Bengkel Nusantara tidak menyediakan WhatsApp pribadi. Semua informasi resmi hanya dapat diakses melalui website bengkelnusantara.com.",
+        "Tidak, Bengkel Nusantara tidak menyediakan layanan melalui SMS. Semua informasi resmi disampaikan melalui website bengkelnusantara.com.",
+        "Nomor kontak Bengkel Nusantara hanya tersedia di website resmi bengkelnusantara.com."
+      ]
+    },
+    {
+      "subkategori": "Menangani Pesan dan Telepon Mencurigakan",
+      "pertanyaan": [
+        "Bagaimana jika saya menerima pesan mencurigakan atas nama Bengkel Nusantara?",
+        "Apa yang harus saya lakukan jika menerima telepon mencurigakan dari seseorang yang mengaku dari Bengkel Nusantara?",
+        "pesan mencurigakan",
+        "telepon mencurigakan",
+        "pesan dari Bengkel Nusantara",
+        "telepon dari Bengkel Nusantara"
+      ],
+      "jawaban": [
+        "Jangan klik link atau membagikan informasi pribadi. Segera laporkan pesan tersebut ke Customer Service melalui website resmi kami.",
+        "Jangan berikan informasi pribadi dan segera tutup telepon. Laporkan kejadian tersebut ke Customer Service melalui website resmi.",
+        "Jangan klik link atau membagikan informasi pribadi. Segera laporkan pesan tersebut ke Customer Service melalui website resmi kami."
+      ]
+    },
+    {
+      "subkategori": "Pelaporan Penipuan",
+      "pertanyaan": [
+        "Bagaimana cara melaporkan penipuan terkait Bengkel Nusantara?",
+        "Apakah Bengkel Nusantara pernah meminta data pribadi melalui telepon atau WhatsApp?",
+        "lapor penipuan",
+        "lapor penipuan Bengkel Nusantara",
+        "lapor penipuan online",
+        "lapor penipuan WhatsApp",
+        "lapor penipuan telepon"
+      ],
+      "jawaban": [
+        "Jika Anda menemui penipuan yang mengatasnamakan Bengkel Nusantara, segera hubungi Customer Service kami melalui website resmi.",
+        "Tidak, Bengkel Nusantara tidak akan meminta data pribadi melalui telepon atau WhatsApp. Jika Anda menerima permintaan seperti itu, harap segera laporkan."
+      ]
+    },
+    {
+      "subkategori": "Keamanan Link",
+      "pertanyaan": [
+        "Bagaimana cara mengetahui apakah sebuah link berasal dari Bengkel Nusantara?",
+        "Apakah aman untuk membuka link yang dikirim melalui SMS atau WhatsApp?",
+        "link dari Bengkel Nusantara",
+        "link aman",
+        "link tidak aman",
+        "link SMS",
+        "link WhatsApp"
+      ],
+      "jawaban": [
+        "Pastikan link yang Anda terima berasal dari domain bengkelnusantara.com. Hindari link yang dikirim melalui SMS, telepon, atau WhatsApp oleh oknum yang tidak dikenal.",
+        "Sebaiknya tidak membuka link yang dikirim melalui SMS atau WhatsApp oleh pihak yang tidak dikenal. Hanya akses link resmi dari website bengkelnusantara.com."
+      ]
+    }
+  ],
+
+  "Masalah Teknis": [
+    {
+      "subkategori": "Mengatasi Error dan Crash",
+      "pertanyaan": [
+        "Bagaimana mengatasi aplikasi error?",
+        "Bagaimana cara memperbaiki aplikasi yang sering crash?",
+        "Mengapa aplikasi tiba-tiba keluar sendiri?",
+        "Aplikasi sering crash, bagaimana cara mengatasinya?",
+        "Aplikasi error, bagaimana cara memperbaikinya?",
+        "Aplikasi sering keluar sendiri, bagaimana cara mengatasinya?",
+        "Aplikasi crash, bagaimana cara memperbaikinya?",
+        "Aplikasi error, bagaimana cara mengatasinya?"
+      ],
+      "jawaban": [
+        "Luncurkan ulang aplikasi, atau hapus cache aplikasi. Langkah-Langkah untuk menghapus cache aplikasi: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus memori/cache.",
+        "Coba perbarui aplikasi ke versi terbaru dan pastikan perangkat Anda memiliki ruang penyimpanan yang cukup. Jika masalah berlanjut, reinstall aplikasi.",
+        "Aplikasi mungkin mengalami crash. Coba bersihkan cache atau perbarui aplikasi ke versi terbaru. Jika masalah berlanjut, reinstall aplikasi.",
+        "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
+        "Aplikasi mungkin mengalami crash. Coba bersihkan cache atau perbarui aplikasi ke versi terbaru. Jika masalah berlanjut, reinstall aplikasi."
+      ]
+    },
+    {
+      "subkategori": "Akses dan Pembaruan Aplikasi",
+      "pertanyaan": [
+        "Aplikasi tidak bisa dibuka, apa yang harus saya lakukan?",
+        "Mengapa saya tidak bisa mengunduh pembaruan aplikasi?",
+        "Bagaimana cara memperbarui aplikasi Bengkel Nusantara?",
+        "Aplikasi tidak bisa diakses, bagaimana cara mengatasinya?",
+        "Mengapa aplikasi tidak bisa diakses?",
+        "Bagaimana cara mengunduh pembaruan aplikasi?",
+        "Mengapa saya tidak bisa mengakses aplikasi?",
+        "Bagaimana cara memperbarui aplikasi?",
+        "Aplikasi tidak bisa dibuka, bagaimana cara mengatasinya?",
+        "Mengapa aplikasi tidak bisa dibuka?",
+        "Bagaimana cara mengunduh pembaruan aplikasi?",
+        "Mengapa saya tidak bisa mengakses aplikasi?",
+        "Bagaimana cara memperbarui aplikasi?"
+      ],
+      "jawaban": [
+        "Pastikan aplikasi Bengkel Nusantara Anda diperbarui ke versi terbaru. Jika masalah berlanjut, coba hapus cache aplikasi atau reinstall aplikasi.",
+        "Pastikan koneksi internet Anda stabil dan perangkat Anda memiliki ruang penyimpanan yang cukup untuk mengunduh pembaruan aplikasi.",
+        "Buka Play Store atau App Store, cari Bengkel Nusantara, dan klik tombol 'Perbarui' jika tersedia."
+      ]
+    },
+    {
+      "subkategori": "Masalah Notifikasi dan Lag",
+      "pertanyaan": [
+        "Apa yang harus saya lakukan jika notifikasi dari aplikasi tidak muncul?",
+        "Apa yang harus dilakukan jika aplikasi mengalami lag?",
+        "Bagaimana cara mengatasi notifikasi yang tidak muncul?",
+        "Bagaimana cara mengatasi lag pada aplikasi?",
+        "Notifikasi tidak muncul, bagaimana cara mengatasinya?",
+        "Aplikasi sering lag, bagaimana cara mengatasinya?"
+      ],
+      "jawaban": [
+        "Periksa pengaturan notifikasi di perangkat Anda dan pastikan notifikasi untuk aplikasi Bengkel Nusantara diaktifkan.",
+        "Tutup aplikasi lain yang berjalan di latar belakang dan pastikan perangkat Anda memiliki ruang penyimpanan serta RAM yang cukup."
+      ]
+    },
+    {
+      "subkategori": "Laporan Masalah",
+      "pertanyaan": [
+        "Bagaimana cara melaporkan bug di aplikasi?",
+        "Apa yang harus saya lakukan jika situs tidak bisa diakses?",
+        "Bagaimana cara melaporkan masalah teknis?",
+        "Apa yang harus saya lakukan jika aplikasi mengalami masalah teknis?"
+      ],
+      "jawaban": [
+        "Untuk melaporkan bug, pergi ke bagian 'Bantuan & Dukungan' di aplikasi dan klik 'Laporkan Masalah'. Jelaskan masalahnya secara detail.",
+        "Jika situs tidak bisa diakses, coba bersihkan cache browser Anda atau coba akses situs dari browser atau perangkat lain.",
+        "Untuk melaporkan masalah teknis, hubungi Customer Service kami melalui email atau Live Chat di aplikasi."
+      ]
+    },
+    {
+      "subkategori": "Menghapus Cache",
+      "pertanyaan": [
+        "Bagaimana cara membersihkan cache aplikasi untuk memperbaiki masalah teknis?",
+        "Apa yang harus saya lakukan jika aplikasi sering crash?",
+        "Bagaimana cara menghapus cache aplikasi?",
+        "Aplikasi sering crash, bagaimana cara mengatasinya?"
+      ],
+      "jawaban": [
+        "Untuk membersihkan cache: 1. Buka pengaturan 2. Masuk ke menu aplikasi 3. Cari Bengkel Nusantara 4. Buka penyimpanan 5. Hapus cache.",
+        "Membersihkan cache aplikasi dapat membantu mengatasi masalah crash. Ikuti langkah-langkah di atas untuk membersihkan cache aplikasi."
+      ]
+    }
+  ],
+  "Metode Pembayaran": [
+    {
+      "subkategori": "Metode Pembayaran Umum",
+      "pertanyaan": [
+        "Apa saja metode pembayaran yang dapat dilakukan di Bengkel Nusantara?",
+        "Metode pembayaran apa saja yang diterima?",
+        "Apakah Bengkel Nusantara menerima pembayaran dengan dompet digital?",
+        "Metode pembayaran yang tersedia di Bengkel Nusantara",
+        "Metode pembayaran yang diterima",
+        "Pembayaran dengan dompet digital"
+      ],
+      "jawaban": [
+        "Di Bengkel Nusantara, beberapa metode pembayaran yang tersedia mungkin mencakup: COD: Pembayaran dapat dilakukan dengan sistem COD. Transfer Bank: Pembayaran dapat dilakukan dengan cara transfer bank. Diantaranya bank BRI, BNI, BCA. Tata Cara untuk transfer bank klik disini. Dompet Digital: Pembayaran juga dapat dilakukan dengan cara menggunakan dompet digital seperti GoPay, OVO, dan Dana. Cara untuk transfer menggunakan dompet digital dapat dilihat disini.",
+        "Kami menerima berbagai metode pembayaran, termasuk kartu kredit/debit, PayPal, dan transfer bank.",
+        "Ya, kami menerima pembayaran dengan dompet digital seperti GoPay, OVO, dan Dana. Panduan cara menggunakan dompet digital dapat dilihat di sini."
+      ]
+    },
+    {
+      "subkategori": "Pembayaran Spesifik",
+      "pertanyaan": [
+        "Apakah bisa bayar dengan kartu kredit?",
+        "Apakah COD tersedia untuk semua produk?",
+        "Apakah pembayaran dengan PayPal tersedia?",
+        "Pembayaran dengan kartu kredit",
+        "Pembayaran dengan COD",
+        "Pembayaran dengan PayPal"
+      ],
+      "jawaban": [
+        "Ya, Anda dapat membayar menggunakan kartu kredit di Bengkel Nusantara. Pilih opsi pembayaran dengan kartu kredit saat checkout.",
+        "Tidak, sistem COD hanya tersedia untuk produk tertentu. Pilih opsi COD saat checkout untuk melihat produk yang mendukung metode ini.",
+        "Ya, kami mendukung pembayaran melalui PayPal. Anda dapat memilih opsi PayPal saat checkout.",
+        "Ya, kami menerima pembayaran dengan kartu kredit. Pilih opsi kartu kredit/debit saat checkout.",
+        "COD hanya tersedia untuk produk tertentu. Pilih opsi COD saat checkout untuk melihat produk yang mendukung metode ini.",
+        "Ya, kami mendukung pembayaran melalui PayPal. Anda dapat memilih opsi PayPal saat checkout."
+      ]
+    },
+    {
+      "subkategori": "Cara Pembayaran",
+      "pertanyaan": [
+        "Bagaimana cara melakukan pembayaran dengan transfer bank?",
+        "Bagaimana cara membayar menggunakan GoPay?",
+        "Apakah bisa membayar menggunakan kartu debit?",
+        "Cara pembayaran dengan transfer bank",
+        "Cara pembayaran menggunakan GoPay",
+        "Cara pembayaran dengan kartu debit"
+      ],
+      "jawaban": [
+        "Untuk melakukan pembayaran dengan transfer bank, pilih opsi transfer bank saat checkout. Anda dapat melakukan transfer ke rekening BRI, BNI, atau BCA. Klik di sini untuk panduan lebih lanjut.",
+        "Untuk membayar dengan GoPay, pilih opsi dompet digital saat checkout, kemudian pilih GoPay dan ikuti instruksi pada layar.",
+        "Ya, kami menerima pembayaran menggunakan kartu debit. Pilih opsi kartu kredit/debit saat checkout."
+      ]
+    },
+    {
+      "subkategori": "Masalah Pembayaran",
+      "pertanyaan": [
+        "Bagaimana jika pembayaran saya gagal?",
+        "Apakah ada biaya tambahan untuk pembayaran dengan kartu kredit?",
+        "Pembayaran gagal, bagaimana cara mengatasinya?",
+        "Biaya tambahan untuk pembayaran dengan kartu kredit"
+      ],
+      "jawaban": [
+        "Jika pembayaran Anda gagal, coba lagi menggunakan metode pembayaran yang berbeda atau hubungi Customer Service untuk bantuan lebih lanjut.",
+        "Tidak ada biaya tambahan untuk pembayaran menggunakan kartu kredit di Bengkel Nusantara."
+      ]
+    }
+  ],
+
+  "Pelacakan Pesanan": [
+    {
+      "subkategori": "Cara Melacak dan Memahami Status Pengiriman",
+      "pertanyaan": [
+        "Bagaimana cara melacak status pengiriman barang?",
+        "Apa arti 'Sedang Diproses' pada status pesanan saya?",
+        "Apa arti status 'Dikirim' pada pesanan saya?",
+        "Bagaimana cara mengetahui status pengiriman barang?",
+        "Apa arti status 'Dikirim' pada pengiriman barang saya?"
+      ],
+      "jawaban": [
+        "Anda dapat melacak status pengiriman barang dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi.",
+        "'Sedang Diproses' berarti pesanan Anda sedang disiapkan untuk pengiriman.",
+        "'Dikirim' berarti barang pesanan Anda telah diserahkan kepada penyedia layanan pengiriman dan sedang dalam proses menuju alamat tujuan.",
+        "Untuk mengetahui status pengiriman barang, masukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi."
+      ]
+    },
+    {
+      "subkategori": "Estimasi dan Masalah Pengiriman",
+      "pertanyaan": [
+        "Cara mengetahui estimasi pengiriman?",
+        "Berapa lama waktu yang dibutuhkan untuk barang sampai?",
+        "Apa yang harus saya lakukan jika status pengiriman tidak berubah?",
+        "Apa yang harus saya lakukan jika barang saya terlambat sampai?",
+        "Apa yang harus saya lakukan jika tidak bisa melacak pengiriman?"
+      ],
+      "jawaban": [
+        "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh beberapa faktor.",
+        "Waktu pengiriman bervariasi tergantung lokasi Penjual dan Pembeli, serta tipe layanan pengiriman yang dipilih. Biasanya pengiriman dengan layanan Hemat lebih lama dibandingkan dengan Reguler.",
+        "Jika status pengiriman tidak berubah dalam beberapa hari, coba periksa kembali nomor pelacakan dan hubungi penyedia layanan pengiriman atau Customer Service untuk konfirmasi.",
+        "Jika barang Anda terlambat sampai, pastikan Anda sudah memeriksa status pengiriman melalui nomor resi. Jika pengiriman terlambat lebih dari waktu estimasi, segera hubungi Customer Service.",
+        "Jika Anda tidak bisa melacak pengiriman, pastikan nomor resi atau pelacakan yang dimasukkan benar. Jika masalah berlanjut, hubungi Customer Service atau penyedia layanan pengiriman untuk bantuan lebih lanjut."
+      ]
+    },
+    {
+      "subkategori": "Masalah dan Tindakan Setelah Pengiriman",
+      "pertanyaan": [
+        "Apa yang harus saya lakukan jika menerima barang yang salah?",
+        "Bagaimana jika barang saya hilang saat pengiriman?",
+        "Apakah saya bisa mengganti alamat pengiriman setelah pesanan dikirim?",
+        "Apa yang harus saya lakukan jika menerima barang yang rusak?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan pesanan?",
+        "Apa yang harus saya lakukan jika barang rusak saat pengiriman?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan deskripsi?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan gambar?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan ukuran?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan warna?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan spesifikasi?",
+        "Apa yang harus saya lakukan jika barang tidak sesuai dengan kualitas?"
+      ],
+      "jawaban": [
+        "Jika Anda menerima barang yang salah, segera hubungi Customer Service dan sertakan foto barang yang diterima serta nomor pesanan Anda untuk langkah lebih lanjut.",
+        "Jika barang hilang dalam proses pengiriman, segera hubungi penyedia layanan pengiriman dan Customer Service untuk melakukan pelacakan dan investigasi lebih lanjut.",
+        "Setelah pesanan dikirim, penggantian alamat pengiriman tidak bisa dilakukan. Anda dapat menghubungi penyedia layanan pengiriman untuk bantuan jika memungkinkan."
+      ]
+    }
+  ],
+  "Pengembalian Dana": [
+    {
+      "subkategori": "Proses dan Waktu Pengembalian Dana",
+      "pertanyaan": [
+        "Bagaimana proses pengembalian dana?",
+        "Berapa lama proses pengembalian dana?",
+        "Berapa lama waktu yang diperlukan untuk mendapatkan pengembalian dana?",
+        "Kapan dana akan dikembalikan setelah pengembalian barang?",
+        "Berapa lama waktu yang dibutuhkan untuk proses pengembalian dana?"
+      ],
+      "jawaban": [
+        "Setelah melakukan pembatalan pesanan atau pengembalian barang, dana akan dikembalikan ke saldo Bengkel Nusantara (koin) atau melalui transfer bank.",
+        "Proses pengembalian dana biasanya memakan waktu antara 3-7 hari kerja, tergantung metode pembayaran yang Anda gunakan.",
+        "Pengembalian dana biasanya memerlukan waktu 5-7 hari kerja setelah barang yang dikembalikan diterima dan diperiksa."
+      ]
+    },
+    {
+      "subkategori": "Kebijakan dan Persyaratan Pengembalian",
+      "pertanyaan": [
+        "Apakah ada biaya pengembalian barang?",
+        "Bagaimana jika produk yang diterima rusak?",
+        "Apakah semua produk bisa dikembalikan?",
+        "Bagaimana cara menghubungi Customer Service untuk pengembalian dana?",
+        "Apakah ada syarat dan ketentuan khusus untuk pengembalian dana?",
+        "Apa saja kebijakan pengembalian barang yang berlaku?"
+      ],
+      "jawaban": [
+        "Biaya pengembalian barang tergantung pada syarat dan ketentuan yang berlaku. Beberapa produk mungkin dikenakan biaya pengembalian.",
+        "Jika Anda menerima produk yang rusak, segera laporkan melalui menu 'Bantuan & Dukungan' di aplikasi dan pilih opsi pengembalian barang.",
+        "Tidak semua produk dapat dikembalikan. Produk yang tidak dapat dikembalikan biasanya termasuk produk yang bersifat perishable atau yang sudah digunakan.",
+        "Anda dapat menghubungi Customer Service melalui menu 'Bantuan & Dukungan' di aplikasi Bengkel Nusantara atau melalui email resmi kami."
+      ]
+    },
+    {
+      "subkategori": "Status dan Persyaratan Pengembalian Dana",
+      "pertanyaan": [
+        "Bagaimana saya mengetahui jika pengembalian dana sudah diproses?",
+        "Apakah pengembalian dana bisa ditolak?",
+        "Apakah saya bisa mengembalikan barang tanpa alasan?"
+      ],
+      "jawaban": [
+        "Anda akan menerima notifikasi melalui email atau aplikasi setelah pengembalian dana diproses. Anda juga bisa memeriksa statusnya di bagian 'Riwayat Transaksi' akun Anda.",
+        "Ya, pengembalian dana bisa ditolak jika produk yang dikembalikan tidak memenuhi syarat pengembalian, misalnya jika produk sudah digunakan atau tidak dalam kondisi asli.",
+        "Pengembalian barang tanpa alasan mungkin tidak diterima tergantung pada kebijakan penjual. Pastikan untuk memeriksa kebijakan pengembalian barang sebelum melakukan pembelian."
+      ]
+    }
+  ],
+  "Pembatalan": [
+    {
+      "subkategori": "Cara dan Syarat Pembatalan",
+      "pertanyaan": [
+        "Bagaimana cara membatalkan pesanan?",
+        "Apakah ada biaya untuk pembatalan pesanan?",
+        "Apakah alasan pembatalan pesanan diperlukan?",
+        "Kapan saya bisa membatalkan pesanan?"
+      ],
+      "jawaban": [
+        "Untuk pembatalan pesanan, pilih Saya > pilih menu Dikemas > pilih pesanan yang ingin dibatalkan > pilih Batalkan Pesanan. Anda dapat memilih alasan pembatalan dan kemudian konfirmasi untuk membatalkan pesanan.",
+        "Tidak ada biaya tambahan untuk pembatalan pesanan di Bengkel Nusantara. Namun, jika pesanan sudah dalam proses pengiriman, pembatalan mungkin tidak dapat dilakukan.",
+        "Ya, Anda perlu memilih alasan pembatalan saat ingin membatalkan pesanan. Beberapa pilihan alasan sudah disediakan untuk Anda pilih.",
+        "Pembatalan pesanan dapat dilakukan kapan saja selama pesanan belum masuk ke tahap pengiriman."
+      ]
+    },
+    {
+      "subkategori": "Proses dan Hasil Pembatalan",
+      "pertanyaan": [
+        "Apakah saya akan mendapatkan pengembalian dana setelah membatalkan pesanan?",
+        "Apa yang terjadi jika pembatalan tidak berhasil?",
+        "Berapa lama waktu yang dibutuhkan untuk proses pembatalan?"
+      ],
+      "jawaban": [
+        "Ya, setelah pembatalan pesanan, dana Anda akan dikembalikan melalui metode pembayaran yang digunakan atau ke saldo Bengkel Nusantara.",
+        "Jika pembatalan tidak berhasil, mungkin pesanan Anda sudah masuk dalam proses pengiriman. Anda dapat menghubungi Customer Service untuk bantuan lebih lanjut.",
+        "Proses pembatalan biasanya selesai dalam beberapa menit. Pengembalian dana dapat memakan waktu 3-7 hari kerja tergantung metode pembayaran."
+      ]
+    },
+    {
+      "subkategori": "Pembatalan Setelah Dikirim",
+      "pertanyaan": [
+        "Bagaimana jika saya ingin membatalkan pesanan setelah dikirim?",
+        "Apakah saya bisa membatalkan sebagian barang dalam pesanan?",
+        "Apakah saya bisa membatalkan pesanan jika sudah dibayar?"
+      ],
+      "jawaban": [
+        "Jika pesanan sudah dalam status Dikirim, pembatalan tidak dapat dilakukan. Anda bisa menunggu pesanan tiba dan kemudian mengajukan pengembalian barang.",
+        "Tidak, pembatalan hanya bisa dilakukan untuk keseluruhan pesanan, tidak untuk sebagian barang dalam pesanan.",
+        "Ya, pesanan yang sudah dibayar masih bisa dibatalkan selama belum dalam proses pengiriman."
+      ]
+    }
+  ],
+
+  "Pengiriman": [
+    {
+      "subkategori": "Jadwal dan Opsi Pengiriman",
+      "pertanyaan": [
+        "Bagaimana cara mengatur jadwal pengiriman?",
+        "Opsi pengiriman apa saja yang tersedia?",
+        "Kapan saya bisa memilih pengiriman hari berikutnya?",
+        "Bagaimana saya mengetahui jadwal pengiriman tersedia di daerah saya?"
+      ],
+      "jawaban": [
+        "Anda dapat mengatur jadwal pengiriman saat melakukan proses checkout. Pilih opsi pengiriman yang sesuai dengan preferensi Anda. Pastikan untuk memeriksa jadwal dan ketersediaan pengiriman di area Anda.",
+        "Kami menawarkan opsi pengiriman standar, ekspres, dan pengiriman hari berikutnya. Ketersediaan opsi ini mungkin berbeda tergantung lokasi Anda.",
+        "Pengiriman hari berikutnya hanya tersedia untuk pesanan yang dilakukan sebelum batas waktu tertentu dan di area yang mendukung layanan tersebut.",
+        "Anda bisa mengecek jadwal pengiriman yang tersedia di daerah Anda saat checkout. Pilih opsi pengiriman dan jadwal yang tersedia akan muncul berdasarkan alamat pengiriman Anda."
+      ]
+    },
+    {
+      "subkategori": "Status dan Lacak Pengiriman",
+      "pertanyaan": [
+        "Bagaimana cara melacak status pengiriman?",
+        "Apa yang harus saya lakukan jika status pengiriman tidak berubah?",
+        "Bagaimana cara mengetahui estimasi waktu pengiriman?",
+        "Apa yang harus saya lakukan jika barang tidak sampai sesuai jadwal?"
+      ],
+      "jawaban": [
+        "Anda dapat melacak status pengiriman dengan memasukkan nomor pelacakan atau nomor resi yang diberikan oleh penyedia layanan pengiriman ke situs web atau aplikasi resmi.",
+        "Jika status pengiriman tidak berubah dalam beberapa hari, coba periksa kembali nomor pelacakan dan hubungi penyedia layanan pengiriman atau Customer Service untuk konfirmasi.",
+        "Untuk mengetahui estimasi waktu pengiriman pesanan, pilih Saya > pilih Dikemas atau Dikirim > pilih pesanan > pada bagian Informasi Pengiriman, pilih Lacak. Waktu kedatangan pesanan dapat dipengaruhi oleh beberapa faktor.",
+        "Jika barang tidak sampai sesuai jadwal, pastikan Anda sudah memeriksa status pengiriman melalui nomor resi. Jika pengiriman terlambat lebih dari waktu estimasi, segera hubungi Customer Service."
+      ]
+    },
+    {
+      "subkategori": "Pengiriman Internasional",
+      "pertanyaan": [
+        "Apakah Bengkel Nusantara melakukan pengiriman internasional?",
+        "Bagaimana cara mengatur pengiriman internasional?",
+        "Berapa lama waktu yang dibutuhkan untuk pengiriman internasional?"
+      ],
+      "jawaban": [
+        "Ya, kami melakukan pengiriman internasional ke beberapa negara tertentu. Pilih opsi pengiriman internasional saat checkout.",
+        "Anda dapat mengatur pengiriman internasional saat melakukan proses checkout. Pilih opsi pengiriman internasional dan masukkan alamat pengiriman yang valid.",
+        "Waktu pengiriman internasional bervariasi tergantung lokasi tujuan dan metode pengiriman yang dipilih. Estimasi waktu pengiriman akan ditampilkan saat checkout."
+      ]
+    },
+    {
+      "subkategori": "Pengiriman Gratis",
+      "pertanyaan": [
+        "Apakah Bengkel Nusantara menawarkan pengiriman gratis?",
+        "Bagaimana cara mendapatkan pengiriman gratis?",
+        "Apa syarat dan ketentuan pengiriman gratis?"
+      ],
+      "jawaban": [
+        "Ya, kami menawarkan pengiriman gratis untuk beberapa produk tertentu. Pastikan untuk memeriksa detail produk dan promo saat checkout.",
+        "Anda bisa mendapatkan pengiriman gratis dengan memenuhi syarat dan ketentuan yang berlaku. Promo pengiriman gratis biasanya tersedia untuk pembelian di atas nominal tertentu.",
+        "Syarat dan ketentuan pengiriman gratis dapat berbeda tergantung promo yang berlaku. Pastikan untuk memeriksa detail promo saat checkout."
+      ]
+    }
+  ],
+  "Profil": [
+    {
+      "subkategori": "Pengelolaan Informasi Profil",
+      "pertanyaan": [
+        "Bagaimana cara mengubah informasi profil?",
+        "Apakah saya bisa mengganti foto profil?",
+        "Bagaimana cara menambahkan informasi kontak?",
+        "Apakah informasi profil saya aman?",
+        "mengubah informasi profil",
+        "cara menambahkan kontak",
+        "mengganti foto profil",
+        "keamanan informasi profil",
+        "profil aman"
+      ],
+      "jawaban": [
+        "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan.",
+        "Ya, Anda bisa mengganti foto profil dengan membuka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > pilih Ganti Foto Profil dan unggah foto baru.",
+        "Untuk menambahkan informasi kontak, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > tambahkan nomor telepon atau email baru dan pilih Simpan.",
+        "Ya, informasi profil Anda aman dan tidak akan dibagikan kepada pihak ketiga tanpa izin Anda.",
+        "Untuk mengubah informasi profil, buka tab Saya > pilih ikon Pengaturan > pilih Profil Saya > ubah informasi yang ingin diperbarui > pilih Simpan."
+      ]
+    },
+    {
+      "subkategori": "Keamanan dan Penghapusan Akun",
+      "pertanyaan": [
+        "Apa yang harus dilakukan jika saya lupa kata sandi profil?",
+        "Apakah saya bisa menghapus akun saya?",
+        "Apakah ada cara untuk mengembalikan profil yang dihapus?",
+        "cara hapus akun"
+      ],
+      "jawaban": [
+        "Anda bisa melakukan reset kata sandi dengan memilih opsi 'Lupa Kata Sandi' pada halaman login dan mengikuti instruksi yang diberikan.",
+        "Anda bisa mengajukan permohonan penghapusan akun dengan menghubungi Customer Service kami melalui bagian Bantuan di aplikasi.",
+        "Setelah profil dihapus, Anda tidak bisa mengembalikannya. Anda perlu mendaftar ulang jika ingin menggunakan layanan kami lagi."
+      ]
+    }
+  ],
+  "Promo": [
+    {
+      "subkategori": "Mendapatkan dan Menggunakan Promo",
+      "pertanyaan": [
+        "Bagaimana cara mendapatkan promo?",
+        "Bagaimana cara menggunakan kode promo?",
+        "Bisakah saya menggunakan beberapa diskon dalam satu pesanan?",
+        "Apakah ada promo khusus untuk pengguna baru?",
+        "promo",
+        "kode promo",
+        "diskon",
+        "promo khusus",
+        "promo baru",
+        "promo terbaru",
+        "kode promo baru",
+        "diskon baru",
+        "promo pengguna baru",
+        "promo pengguna lama",
+        "promo pelanggan baru",
+        "promo pelanggan lama",
+        "promo spesial",
+        "promo eksklusif",
+        "promo terbaru",
+        "promo diskon",
+        "promo kode",
+        "promo khusus"
+      ],
+      "jawaban": [
+        "Untuk mendapatkan promo terbaru, buka aplikasi Bengkel Nusantara dan pergi ke bagian Promo atau Penawaran Spesial. Anda juga dapat mengikuti akun media sosial resmi kami untuk mendapatkan informasi promo terbaru.",
+        "Anda dapat memasukkan kode promo saat checkout di kolom 'Kode Promo'. Masukkan kode dan klik 'Terapkan'.",
+        "Hanya satu kode promo atau diskon yang dapat diterapkan per pesanan.",
+        "Ya, kami sering menawarkan promo khusus untuk pengguna baru. Pastikan Anda memeriksa bagian Promo di aplikasi untuk informasi lebih lanjut."
+      ]
+    },
+    {
+      "subkategori": "Informasi dan Kebijakan Promo",
+      "pertanyaan": [
+        "Apakah promo berlaku untuk semua barang?",
+        "Bagaimana saya tahu jika promo sudah berakhir?",
+        "Apakah promo dapat dibatalkan setelah diterapkan?",
+        "Apakah saya bisa menerima pemberitahuan tentang promo melalui email?"
+      ],
+      "jawaban": [
+        "Tidak semua promo berlaku untuk semua barang. Setiap promo memiliki syarat dan ketentuan yang berlaku. Pastikan untuk membaca detail promo sebelum melakukan pembelian.",
+        "Informasi mengenai masa berlaku promo biasanya ditampilkan di halaman promo. Pastikan untuk memeriksa sebelum melakukan pembelian.",
+        "Tidak, sekali promo diterapkan, Anda tidak bisa membatalkannya. Pastikan untuk memeriksa detail sebelum menyelesaikan pembayaran.",
+        "Ya, Anda dapat mengaktifkan pemberitahuan melalui email untuk mendapatkan informasi tentang promo terbaru."
+      ]
+    }
+  ],
+
+  "Informasi Produk": [
+    {
+      "subkategori": "Garansi dan Ketersediaan Produk",
+      "pertanyaan": [
+        "Apakah produk Anda dilengkapi dengan garansi?",
+        "Bagaimana saya bisa mengetahui ketersediaan produk?",
+        "Di mana saya bisa menemukan panduan ukuran produk?",
+        "Apakah produk dijual dalam kondisi baru?",
+        "Apakah produk yang dijual asli?",
+        "Bagaimana cara mengetahui spesifikasi produk?",
+        "Apakah saya bisa mengajukan pertanyaan tentang produk?",
+        "Bagaimana jika saya menerima produk yang salah?"
+      ],
+      "jawaban": [
+        "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
+        "Ketersediaan produk ditampilkan di halaman produk. Jika produk habis, Anda bisa memilih opsi untuk diberitahu ketika produk kembali tersedia.",
+        "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'.",
+        "Ya, semua produk yang dijual melalui platform kami adalah produk baru. Kondisi produk dapat diperiksa di halaman deskripsi produk.",
+        "Ya, kami menjamin bahwa semua produk yang dijual di Bengkel Nusantara adalah produk asli dari penjual terverifikasi.",
+        "Spesifikasi produk dapat ditemukan di halaman detail produk, di bagian deskripsi atau spesifikasi teknis.",
+        "Ya, Anda dapat mengajukan pertanyaan tentang produk di halaman produk, dan tim kami akan menjawabnya.",
+        "Jika Anda menerima produk yang salah, segera hubungi Customer Service kami untuk proses pengembalian dan penggantian."
+      ]
+    },
+    {
+      "subkategori": "Keaslian dan Spesifikasi Produk",
+      "pertanyaan": [
+        "Apakah produk yang dijual asli?",
+        "Bagaimana cara mengetahui spesifikasi produk?",
+        "Apakah saya bisa mengajukan pertanyaan tentang produk?",
+        "Bagaimana jika saya menerima produk yang salah?",
+        "Apakah produk yang dijual dalam kondisi baru?",
+        "Apakah produk Anda dilengkapi dengan garansi?",
+        "Di mana saya bisa menemukan panduan ukuran produk?"
+      ],
+      "jawaban": [
+        "Ya, kami menjamin bahwa semua produk yang dijual di Bengkel Nusantara adalah produk asli dari penjual terverifikasi.",
+        "Spesifikasi produk dapat ditemukan di halaman detail produk, di bagian deskripsi atau spesifikasi teknis.",
+        "Ya, Anda dapat mengajukan pertanyaan tentang produk di halaman produk, dan tim kami akan menjawabnya.",
+        "Jika Anda menerima produk yang salah, segera hubungi Customer Service kami untuk proses pengembalian dan penggantian.",
+        "Ya, semua produk yang dijual melalui platform kami adalah produk baru. Kondisi produk dapat diperiksa di halaman deskripsi produk.",
+        "Ya, sebagian besar produk kami dilengkapi dengan garansi 1 tahun. Periksa halaman produk untuk detail garansi spesifik.",
+        "Panduan ukuran tersedia di halaman produk di bawah tautan 'Panduan Ukuran'."
+      ]
+    },
+    {
+      "subkategori": "Kebijakan Pengembalian",
+      "pertanyaan": [
+        "Apakah ada kebijakan pengembalian untuk produk?",
+        "Bagaimana cara mengembalikan produk yang tidak sesuai?",
+        "Berapa lama waktu yang diperlukan untuk proses pengembalian?",
+        "Apakah ada biaya tambahan untuk pengembalian produk?",
+        "Apakah semua produk bisa dikembalikan?",
+        "Bagaimana cara menghubungi Customer Service untuk pengembalian produk?",
+        "Apa yang harus dilakukan jika produk yang diterima rusak?"
+      ],
+      "jawaban": [
+        "Ya, kami memiliki kebijakan pengembalian untuk produk dalam jangka waktu tertentu setelah penerimaan barang.",
+        "Untuk mengembalikan produk yang tidak sesuai, hubungi Customer Service kami dan sertakan nomor pesanan serta alasan pengembalian.",
+        "Proses pengembalian biasanya memakan waktu 5-7 hari kerja setelah barang diterima dan diperiksa.",
+        "Biaya pengembalian tergantung pada syarat dan ketentuan yang berlaku. Beberapa produk mungkin dikenakan biaya pengembalian.",
+        "Tidak semua produk dapat dikembalikan. Produk yang tidak dapat dikembalikan biasanya termasuk produk yang bersifat perishable atau yang sudah digunakan.",
+        "Anda dapat menghubungi Customer Service melalui menu 'Bantuan & Dukungan' di aplikasi Bengkel Nusantara atau melalui email resmi kami.",
+        "Jika produk yang diterima rusak, segera laporkan melalui menu 'Bantuan & Dukungan' di aplikasi dan pilih opsi pengembalian barang."
+      ]
+    }
+  ],
+  "Greeting": [
+    {
+      "subkategori": "Sambutan Awal",
+      "pertanyaan": [
+        "Hi",
+        "Hi! Bagaimana kami bisa membantu Anda hari ini?",
+        "Halo! Ada yang bisa kami bantu?",
+        "Selamat Pagi! Bagaimana kabar Anda?",
+        "Selamat Siang! Perlu bantuan?",
+        "Selamat Sore! Ada yang bisa kami bantu?",
+        "Selamat Malam! Butuh bantuan sebelum beristirahat?",
+        "Terima Kasih sudah menghubungi kami. Ada yang bisa dibantu?"
+      ],
+      "jawaban": [
+        "Terima kasih telah menghubungi kami! Kami siap membantu Anda dengan pertanyaan atau masalah apa pun.",
+        "Kami di sini untuk membantu Anda dengan berbagai layanan kami. Silakan tanyakan apa saja.",
+        "Semoga harimu menyenangkan! Kami siap membantu segala kebutuhanmu.",
+        "Kami siap memberikan dukungan penuh untuk masalah atau pertanyaan yang Anda miliki.",
+        "Kami siap membantu Anda dengan informasi atau layanan yang Anda butuhkan.",
+        "Kami di sini untuk membantu kapan saja, silakan ajukan pertanyaan Anda.",
+        "Kami menghargai waktu Anda untuk menghubungi kami. Ada yang bisa kami bantu lebih lanjut?"
+      ]
+    }
+  ],
+  "Pertolongan Awal": [
+    {
+      "subkategori": "Pengecekan Oli Motor",
+      "pertanyaan": [
+        "Bagaimana cara mengecek kondisi oli motor?",
+        "Bagaimana cara memeriksa kebocoran oli?",
+        "Bagaimana cara mengetahui kualitas oli motor?",
+        "Cara mengecek oli motor",
+        "Cara memeriksa kebocoran oli",
+        "Cara mengetahui kualitas oli",
+        "Cara mengecek kondisi oli",
+        "Cara memeriksa oli motor",
+        "Cara mengetahui kualitas oli motor",
+        "Cara mengecek kebocoran oli",
+        "Cara mengetahui kondisi oli motor"
+      ],
+      "jawaban": [
+        "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
+        "Periksa bagian bawah mesin dan tempat parkir untuk melihat apakah ada tetesan oli yang tidak wajar.",
+        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor."
+      ]
+    },
+    {
+      "subkategori": "Penggantian Oli Motor",
+      "pertanyaan": [
+        "Kapan saya harus mengganti oli motor?",
+        "Apakah perlu mengganti filter oli setiap kali ganti oli?",
+        "Bagaimana cara mengisi ulang oli motor yang berkurang?",
+        "Kapan waktu yang tepat untuk mengganti oli motor?",
+        "Apakah perlu mengganti filter oli setiap kali mengganti oli?",
+        "Bagaimana cara mengisi ulang oli motor?"
+      ],
+      "jawaban": [
+        "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.",
+        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
+        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu."
+      ]
+    },
+    {
+      "subkategori": "Gejala Oli Bermasalah",
+      "pertanyaan": [
+        "Apa gejala jika oli motor kurang?",
+        "Apa tanda-tanda oli motor perlu diganti?",
+        "Apa yang terjadi jika terlambat mengganti oli motor?",
+        "Apa tanda-tanda oli motor kurang?",
+        "Apa gejala jika oli motor sudah lama?",
+        "Apa yang terjadi jika tidak mengganti oli motor?"
+      ],
+      "jawaban": [
+        "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang.",
+        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
+        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk."
+      ]
+    },
+    {
+      "subkategori": "Penggunaan Oli Motor",
+      "pertanyaan": [
+        "Apakah boleh menggunakan oli motor yang sudah lama?",
+        "Apakah bisa menggunakan oli motor yang berbeda merek?",
+        "Apakah bisa menggunakan oli motor bekas?",
+        "Berapa banyak oli yang dibutuhkan untuk motor saya?",
+        "Bolehkah menggunakan oli motor lama?",
+        "Bolehkah menggunakan oli motor berbeda merek?",
+        "Bolehkah menggunakan oli motor bekas?",
+        "Berapa banyak oli yang dibutuhkan untuk motor?"
+      ],
+      "jawaban": [
+        "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal.",
+        "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik.",
+        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin.",
+        "Biasanya sekitar 1-2 liter, tergantung jenis dan ukuran mesin motor."
+      ]
+    },
+    {
+      "subkategori": "Pengaruh Oli Terhadap Mesin",
+      "pertanyaan": [
+        "Apakah oli motor mempengaruhi performa mesin?",
+        "Apa yang harus dilakukan jika oli motor bocor?",
+        "Apakah oli motor yang berkualitas buruk berpengaruh pada mesin?",
+        "Bagaimana pengaruh oli motor terhadap performa mesin?",
+        "Apa yang harus dilakukan jika oli motor bocor?",
+        "Apakah oli motor berkualitas buruk berpengaruh pada mesin?"
+      ],
+      "jawaban": [
+        "Oli motor yang berkualitas buruk dapat menurunkan performa dan mempercepat keausan mesin.",
+        "Segera perbaiki kebocoran untuk menghindari kerusakan lebih lanjut pada mesin."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Kondisi Ban",
       "pertanyaan": [
         "Bagaimana mengetahui apakah ban perlu diganti?",
-        "Bagaimana cara memeriksa tekanan angin ban?",
-        "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?",
         "Bagaimana cara mengetahui apakah ban saya aus?",
-        "Apa penyebab ban motor cepat botak?",
-        "Berapa tekanan angin ideal untuk ban motor?",
-        "Bagaimana cara memperbaiki ban bocor?",
-        "Apa yang harus dilakukan jika ban motor saya kempes?",
-        "Bagaimana cara memilih ban motor yang tepat?",
-        "Kapan waktu yang tepat untuk mengganti ban motor?",
-        "Apakah ban mobil dapat dipasang di motor?",
-        "Bagaimana cara merawat ban agar awet?",
-        "Apa yang harus dilakukan jika ban mobil saya bocor?",
         "Bagaimana cara mengecek kedalaman alur ban?",
         "Apa tanda-tanda ban mobil perlu diganti?"
       ],
       "jawaban": [
         "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
-        "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
-        "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil.",
         "Periksa alur ban. Jika sudah tipis dan tidak ada lagi alur yang jelas, maka ban perlu diganti.",
-        "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi.",
-        "Tekanan angin ideal untuk ban motor biasanya sekitar 30-35 psi, tetapi cek di manual kendaraan.",
-        "Jika ban bocor, Anda bisa menambalnya atau mengganti ban jika sudah parah.",
-        "Segera isi ulang angin ban atau gunakan ban cadangan jika ban kempes.",
-        "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.",
-        "Ganti ban motor jika sudah aus atau tidak bisa diperbaiki lagi.",
-        "Tidak, ban mobil lebih besar dan memiliki spesifikasi yang berbeda dengan ban motor.",
-        "Jaga tekanan angin ban sesuai dengan rekomendasi dan hindari sering berkendara di jalan kasar.",
-        "Untuk ban mobil yang bocor, Anda bisa menambal ban atau mengganti ban jika tidak bisa diperbaiki.",
         "Periksa kedalaman alur dengan alat pengukur kedalaman ban. Jika kurang dari 1.6 mm, ban harus diganti.",
         "Jika ban mobil sudah aus atau ada kerusakan serius, sebaiknya segera diganti untuk keselamatan."
       ]
     },
     {
-      "subkategori": "Pengecekan Mandiri Aki",
+      "subkategori": "Pengecekan Tekanan Angin Ban",
+      "pertanyaan": [
+        "Bagaimana cara memeriksa tekanan angin ban?",
+        "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?",
+        "Berapa tekanan angin ideal untuk ban motor?",
+        "Cara mengecek tekanan angin ban"
+      ],
+      "jawaban": [
+        "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
+        "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil.",
+        "Tekanan angin ideal untuk ban motor biasanya sekitar 30-35 psi, tetapi cek di manual kendaraan."
+      ]
+    },
+    {
+      "subkategori": "Masalah dan Perbaikan Ban",
+      "pertanyaan": [
+        "Apa penyebab ban motor cepat botak?",
+        "Bagaimana cara memperbaiki ban bocor?",
+        "Apa yang harus dilakukan jika ban motor saya kempes?",
+        "Apa yang harus dilakukan jika ban mobil saya bocor?",
+        "Penyebab ban motor cepat botak",
+        "Cara memperbaiki ban bocor",
+        "Apa yang harus dilakukan jika ban motor kempes",
+        "Apa yang harus dilakukan jika ban mobil bocor"
+      ],
+      "jawaban": [
+        "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi.",
+        "Jika ban bocor, Anda bisa menambalnya atau mengganti ban jika sudah parah.",
+        "Segera isi ulang angin ban atau gunakan ban cadangan jika ban kempes.",
+        "Untuk ban mobil yang bocor, Anda bisa menambal ban atau mengganti ban jika tidak bisa diperbaiki."
+      ]
+    },
+    {
+      "subkategori": "Pemilihan dan Penggunaan Ban",
+      "pertanyaan": [
+        "Bagaimana cara memilih ban motor yang tepat?",
+        "Kapan waktu yang tepat untuk mengganti ban motor?",
+        "Apakah ban mobil dapat dipasang di motor?",
+        "Cara memilih ban motor yang tepat",
+        "Waktu yang tepat untuk mengganti ban motor",
+        "Apakah ban mobil bisa dipasang di motor"
+      ],
+      "jawaban": [
+        "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.",
+        "Ganti ban motor jika sudah aus atau tidak bisa diperbaiki lagi.",
+        "Tidak, ban mobil lebih besar dan memiliki spesifikasi yang berbeda dengan ban motor."
+      ]
+    },
+    {
+      "subkategori": "Perawatan Ban",
+      "pertanyaan": [
+        "Bagaimana cara merawat ban agar awet?",
+        "Apa yang harus dilakukan untuk mencegah ban motor cepat botak?",
+        "Cara merawat ban agar tahan lama"
+      ],
+      "jawaban": [
+        "Jaga tekanan angin ban sesuai dengan rekomendasi dan hindari sering berkendara di jalan kasar."
+      ]
+    },
+    {
+      "subkategori": "Tanda-Tanda Aki Bermasalah",
       "pertanyaan": [
         "Apa tanda-tanda aki motor mulai lemah?",
-        "Aki cepat habis, apa penyebabnya?",
-        "Bagaimana cara merawat aki motor?",
-        "Apa penyebab aki motor cepat habis?",
-        "Berapa lama umur aki motor?",
         "Bagaimana cara mengetahui apakah aki sudah waktunya diganti?",
-        "Bagaimana cara mengecek kondisi aki?",
-        "Apakah bisa menggunakan aki mobil untuk motor?",
-        "Apa yang harus dilakukan jika aki motor soak?",
         "Apa saja tanda aki mobil perlu diganti?",
-        "Bagaimana cara mengecek tegangan aki?",
-        "Apakah menggunakan alat elektronik terlalu banyak mempengaruhi aki motor?",
-        "Apa yang menyebabkan aki motor cepat rusak?",
-        "Bagaimana cara memperbaiki aki yang soak?",
-        "Apakah bisa mengisi ulang aki yang sudah soak?"
+        "Tanda-tanda aki motor lemah",
+        "Cara mengetahui aki motor perlu diganti",
+        "Tanda aki mobil perlu diganti"
       ],
       "jawaban": [
         "Jika lampu redup, motor sulit dinyalakan, atau klakson melemah, kemungkinan aki mulai lemah.",
-        "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
-        "Jaga kebersihan terminal aki dan pastikan tidak ada kotoran atau karat.",
-        "Penggunaan aksesori yang berlebihan atau masalah pada sistem pengisian dapat menyebabkan aki cepat habis.",
-        "Umur aki motor bervariasi, namun biasanya berkisar antara 1 hingga 2 tahun.",
         "Jika lampu redup atau motor sulit dinyalakan, bisa jadi saatnya mengganti aki.",
-        "Periksa terminal aki dan pastikan tegangan aki berada di level yang normal.",
-        "Tidak disarankan, karena aki mobil lebih besar dan tidak cocok untuk motor.",
-        "Jika aki soak, coba isi ulang atau ganti jika sudah tidak dapat diperbaiki.",
-        "Tanda aki mobil perlu diganti adalah jika mobil sulit dinyalakan atau indikator aki menyala.",
-        "Gunakan multimeter untuk mengukur tegangan aki. Tegangan normal sekitar 12.6 volt.",
-        "Menggunakan alat elektronik yang berlebihan bisa menyebabkan aki cepat habis, terutama jika sistem pengisian tidak bekerja dengan baik.",
+        "Tanda aki mobil perlu diganti adalah jika mobil sulit dinyalakan atau indikator aki menyala."
+      ]
+    },
+    {
+      "subkategori": "Penyebab Aki Cepat Habis atau Rusak",
+      "pertanyaan": [
+        "Aki cepat habis, apa penyebabnya?",
+        "Apa penyebab aki motor cepat habis?",
+        "Apa yang menyebabkan aki motor cepat rusak?",
+        "Apakah menggunakan alat elektronik terlalu banyak mempengaruhi aki motor?",
+        "Penyebab aki cepat habis",
+        "Penyebab aki motor cepat habis",
+        "Penyebab aki motor cepat rusak",
+        "Pengaruh alat elektronik terhadap aki motor"
+      ],
+      "jawaban": [
+        "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
+        "Penggunaan aksesori yang berlebihan atau masalah pada sistem pengisian dapat menyebabkan aki cepat habis.",
         "Penyebab utama aki motor cepat rusak adalah kelistrikan yang bocor atau kurangnya perawatan.",
+        "Menggunakan alat elektronik yang berlebihan bisa menyebabkan aki cepat habis, terutama jika sistem pengisian tidak bekerja dengan baik."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan dan Perawatan Aki",
+      "pertanyaan": [
+        "Bagaimana cara mengecek kondisi aki?",
+        "Bagaimana cara mengecek tegangan aki?",
+        "Bagaimana cara merawat aki motor?",
+        "Cara mengecek kondisi aki",
+        "Cara mengecek tegangan aki",
+        "Cara merawat aki motor"
+      ],
+      "jawaban": [
+        "Periksa terminal aki dan pastikan tegangan aki berada di level yang normal.",
+        "Gunakan multimeter untuk mengukur tegangan aki. Tegangan normal sekitar 12.6 volt.",
+        "Jaga kebersihan terminal aki dan pastikan tidak ada kotoran atau karat."
+      ]
+    },
+    {
+      "subkategori": "Masa Pakai dan Penggantian Aki",
+      "pertanyaan": [
+        "Berapa lama umur aki motor?",
+        "Apakah bisa menggunakan aki mobil untuk motor?",
+        "Umur aki motor",
+        "Menggunakan aki mobil untuk motor"
+      ],
+      "jawaban": [
+        "Umur aki motor bervariasi, namun biasanya berkisar antara 1 hingga 2 tahun.",
+        "Tidak disarankan, karena aki mobil lebih besar dan tidak cocok untuk motor."
+      ]
+    },
+    {
+      "subkategori": "Perbaikan dan Penanganan Aki Soak",
+      "pertanyaan": [
+        "Apa yang harus dilakukan jika aki motor soak?",
+        "Bagaimana cara memperbaiki aki yang soak?",
+        "Apakah bisa mengisi ulang aki yang sudah soak?",
+        "Penanganan aki soak",
+        "Cara memperbaiki aki soak",
+        "Mengisi ulang aki soak"
+      ],
+      "jawaban": [
+        "Jika aki soak, coba isi ulang atau ganti jika sudah tidak dapat diperbaiki.",
         "Coba bersihkan terminal aki dan pastikan koneksinya baik. Jika tetap soak, sebaiknya ganti aki.",
         "Jika aki sudah soak, sebaiknya ganti dengan yang baru karena proses pengisian ulang sering kali tidak efektif."
       ]
     },
     {
-      "subkategori": "Pengecekan Mandiri Shockbreaker",
+      "subkategori": "Pengecekan dan Gejala Shockbreaker Bermasalah",
       "pertanyaan": [
         "Bagaimana mengetahui apakah shockbreaker masih bagus?",
         "Bagaimana cara mengetahui apakah shockbreaker saya perlu diganti?",
-        "Bagaimana cara merawat shockbreaker?",
         "Apa gejala shockbreaker rusak?",
         "Apa tanda-tanda shockbreaker bocor?",
-        "Apa penyebab shockbreaker terasa keras?",
-        "Bagaimana cara memperbaiki shockbreaker?",
-        "Berapa lama usia shockbreaker motor?",
         "Bagaimana cara mengecek kinerja shockbreaker?",
-        "Apa akibat jika shockbreaker rusak?",
-        "Bagaimana cara mengganti shockbreaker?",
-        "Apakah shockbreaker berpengaruh pada kenyamanan berkendara?",
-        "Apakah shockbreaker yang bocor bisa diperbaiki?",
         "Bagaimana cara mengecek suspensi motor?",
-        "Apakah shockbreaker bisa digunakan kembali setelah dibongkar?"
+        "Cara mengetahui kondisi shockbreaker",
+        "Cara mengetahui apakah shockbreaker perlu diganti",
+        "Gejala shockbreaker rusak",
+        "Tanda-tanda shockbreaker bocor",
+        "Cara mengecek kinerja shockbreaker",
+        "Cara mengecek suspensi motor"
       ],
       "jawaban": [
         "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
         "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
-        "Periksa apakah ada kebocoran oli dari shockbreaker atau jika suspensi terasa keras saat melewati jalan berlubang.",
         "Gejala shockbreaker rusak termasuk suspensi keras, suara berdecit, atau kendaraan limbung saat berkendara.",
         "Shockbreaker yang bocor biasanya menunjukkan tanda-tanda rembesan oli atau kebocoran pada bagian dalam.",
-        "Penyebab shockbreaker terasa keras bisa karena oli shockbreaker yang sudah habis atau seal yang rusak.",
-        "Shockbreaker yang rusak sebaiknya diganti, karena dapat mempengaruhi kenyamanan dan keselamatan.",
-        "Usia shockbreaker motor bervariasi, tetapi biasanya sekitar 20.000 hingga 30.000 km tergantung penggunaan.",
         "Cek apakah kendaraan terlalu limbung atau terasa keras saat melewati jalan bergelombang, itu tanda shockbreaker tidak berfungsi dengan baik.",
-        "Jika shockbreaker rusak, kendaraan akan menjadi lebih sulit dikendalikan dan bisa mempengaruhi keselamatan.",
+        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu."
+      ]
+    },
+    {
+      "subkategori": "Penyebab dan Dampak Kerusakan Shockbreaker",
+      "pertanyaan": [
+        "Apa penyebab shockbreaker terasa keras?",
+        "Apa akibat jika shockbreaker rusak?",
+        "Penyebab shockbreaker keras",
+        "Dampak shockbreaker rusak"
+      ],
+      "jawaban": [
+        "Penyebab shockbreaker terasa keras bisa karena oli shockbreaker yang sudah habis atau seal yang rusak.",
+        "Jika shockbreaker rusak, kendaraan akan menjadi lebih sulit dikendalikan dan bisa mempengaruhi keselamatan."
+      ]
+    },
+    {
+      "subkategori": "Perawatan dan Umur Pakai Shockbreaker",
+      "pertanyaan": [
+        "Bagaimana cara merawat shockbreaker?",
+        "Berapa lama usia shockbreaker motor?",
+        "Cara merawat shockbreaker",
+        "Umur shockbreaker motor"
+      ],
+      "jawaban": [
+        "Periksa apakah ada kebocoran oli dari shockbreaker atau jika suspensi terasa keras saat melewati jalan berlubang.",
+        "Usia shockbreaker motor bervariasi, tetapi biasanya sekitar 20.000 hingga 30.000 km tergantung penggunaan."
+      ]
+    },
+    {
+      "subkategori": "Perbaikan dan Penggantian Shockbreaker",
+      "pertanyaan": [
+        "Bagaimana cara memperbaiki shockbreaker?",
+        "Bagaimana cara mengganti shockbreaker?",
+        "Apakah shockbreaker yang bocor bisa diperbaiki?",
+        "Apakah shockbreaker bisa digunakan kembali setelah dibongkar?",
+        "Cara memperbaiki shockbreaker",
+        "Cara mengganti shockbreaker",
+        "Apakah shockbreaker bocor bisa diperbaiki",
+        "Apakah shockbreaker bisa digunakan kembali"
+      ],
+      "jawaban": [
+        "Shockbreaker yang rusak sebaiknya diganti, karena dapat mempengaruhi kenyamanan dan keselamatan.",
         "Ganti shockbreaker dengan yang baru sesuai dengan spesifikasi motor untuk performa terbaik.",
-        "Ya, shockbreaker yang rusak akan sangat mempengaruhi kenyamanan berkendara dan stabilitas kendaraan.",
         "Shockbreaker yang bocor bisa diperbaiki dengan mengisi ulang oli atau mengganti seal, tapi jika parah, ganti yang baru.",
-        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu.",
         "Setelah dibongkar, shockbreaker biasanya tidak bisa digunakan kembali karena kehilangan kinerja."
+      ]
+    },
+    {
+      "subkategori": "Pengaruh Shockbreaker pada Kendaraan",
+      "pertanyaan": [
+        "Apakah shockbreaker berpengaruh pada kenyamanan berkendara?",
+        "Apakah shockbreaker yang rusak mempengaruhi stabilitas kendaraan?",
+        "Pengaruh shockbreaker pada kenyamanan berkendara",
+        "Pengaruh shockbreaker rusak pada stabilitas kendaraan"
+      ],
+      "jawaban": [
+        "Ya, shockbreaker yang rusak akan sangat mempengaruhi kenyamanan berkendara dan stabilitas kendaraan."
       ]
     }
   ]
-
-  }
+}
