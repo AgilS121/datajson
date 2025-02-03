@@ -1116,87 +1116,185 @@
       "subkategori": "Pengecekan Oli Motor",
       "pertanyaan": [
         "Bagaimana cara mengecek kondisi oli motor?",
-        "Bagaimana cara memeriksa kebocoran oli?",
-        "Bagaimana cara mengetahui kualitas oli motor?",
         "Cara mengecek oli motor",
-        "Cara memeriksa kebocoran oli",
-        "Cara mengetahui kualitas oli",
         "Cara mengecek kondisi oli",
         "Cara memeriksa oli motor",
-        "Cara mengetahui kualitas oli motor",
-        "Cara mengecek kebocoran oli",
         "Cara mengetahui kondisi oli motor"
       ],
       "jawaban": [
-        "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti.",
-        "Periksa bagian bawah mesin dan tempat parkir untuk melihat apakah ada tetesan oli yang tidak wajar.",
-        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor."
+        "Periksa warna dan kekentalan oli menggunakan dipstick. Jika oli terlalu hitam atau encer, sebaiknya diganti."
+      ]
+    },
+    {
+      "subkategori": "Kualitas Oli Motor",
+      "pertanyaan": [
+        "Bagaimana cara mengetahui kualitas oli motor?",
+        "Cara mengetahui kualitas oli",
+        "Cara mengetahui kualitas oli motor",
+        "Apa tanda-tanda oli motor berkualitas buruk?",
+        "Apa tanda-tanda oli motor berkualitas baik?",
+        "Apa yang harus dilakukan jika oli motor berkualitas buruk?"
+      ],
+      "jawaban": [
+        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor.",
+        "Oli motor berkualitas baik biasanya memiliki warna yang jernih dan kekentalan yang sesuai.",
+        "Jika oli motor berkualitas buruk, segera ganti dengan oli yang lebih baik untuk menjaga performa mesin."
+      ]
+    },
+    {
+      "subkategori": "Kebocoran Oli Motor",
+      "pertanyaan": [
+        "Bagaimana cara memeriksa kebocoran oli?",
+        "Cara memeriksa kebocoran oli",
+        "Cara mengecek kebocoran oli",
+        "Apa tanda-tanda kebocoran oli?",
+        "Apa yang harus dilakukan jika ada kebocoran oli?"
+      ],
+      "jawaban": [
+        "Periksa bagian bawah mesin dan tempat parkir untuk melihat apakah ada tetesan oli yang tidak wajar.Jika ada kebocoran oli, segera perbaiki atau ganti komponen yang bocor untuk mencegah kerusakan lebih lanjut."
       ]
     },
     {
       "subkategori": "Penggantian Oli Motor",
       "pertanyaan": [
         "Kapan saya harus mengganti oli motor?",
-        "Apakah perlu mengganti filter oli setiap kali ganti oli?",
-        "Bagaimana cara mengisi ulang oli motor yang berkurang?",
         "Kapan waktu yang tepat untuk mengganti oli motor?",
-        "Apakah perlu mengganti filter oli setiap kali mengganti oli?",
-        "Bagaimana cara mengisi ulang oli motor?"
+        "Berapa lama interval penggantian oli motor?",
+        "Berapa sering saya harus mengganti oli motor?"
       ],
       "jawaban": [
         "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.",
-        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
-        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu."
+        "Disarankan untuk mengganti oli motor secara berkala untuk menjaga performa mesin."
       ]
     },
     {
-      "subkategori": "Gejala Oli Bermasalah",
+      "subkategori": "Isi Ulang Oli Motor",
+      "pertanyaan": [
+        "Bagaimana cara mengisi ulang oli motor yang berkurang?",
+        "Bagaimana cara mengisi ulang oli motor?",
+        "Cara mengisi ulang oli motor",
+        "Cara mengisi oli motor yang berkurang"
+      ],
+      "jawaban": [
+        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu.",
+        "Pastikan untuk menggunakan oli yang sesuai dengan spesifikasi motor dan jangan melebihi level maksimum pada dipstick."
+      ]
+    },
+    {
+      "subkategori": "Filter Oli Motor",
+      "pertanyaan": [
+        "Apakah perlu mengganti filter oli setiap kali ganti oli?",
+        "Apakah perlu mengganti filter oli setiap kali mengganti oli?",
+        "Apakah filter oli perlu diganti setiap kali ganti oli?",
+        "Apakah filter oli harus diganti setiap kali ganti oli?"
+      ],
+      "jawaban": [
+        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
+        "Ya, filter oli perlu diganti setiap kali ganti oli untuk menjaga kualitas pelumasan mesin."
+      ]
+    },
+    {
+      "subkategori": "Gejala Oli Perlu Diganti",
+      "pertanyaan": [
+        "Apa tanda-tanda oli motor perlu diganti?",
+        "Apa yang terjadi jika tidak mengganti oli motor?",
+        "Apa gejala jika oli motor perlu diganti?"
+      ],
+      "jawaban": [
+        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
+        "Jika tidak mengganti oli motor, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
+      ]
+    },
+    {
+      "subkategori": "Terlambat Ganti Oli",
+      "pertanyaan": [
+        "Apa yang terjadi jika terlambat mengganti oli motor?",
+        "Apa yang terjadi jika tidak mengganti oli motor tepat waktu?",
+        "Apa dampaknya jika terlambat mengganti oli motor?"
+      ],
+      "jawaban": [
+        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk.",
+        "Jika tidak mengganti oli motor tepat waktu, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
+      ]
+    },
+    {
+      "subkategori": "Gejala Oli Kurang",
       "pertanyaan": [
         "Apa gejala jika oli motor kurang?",
-        "Apa tanda-tanda oli motor perlu diganti?",
-        "Apa yang terjadi jika terlambat mengganti oli motor?",
         "Apa tanda-tanda oli motor kurang?",
-        "Apa gejala jika oli motor sudah lama?",
-        "Apa yang terjadi jika tidak mengganti oli motor?"
+        "Apa yang terjadi jika oli motor kurang?"
       ],
       "jawaban": [
         "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang.",
         "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
-        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk."
+        "Jika oli motor kurang, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
       ]
     },
     {
-      "subkategori": "Penggunaan Oli Motor",
+      "subkategori": "Penggunaan Oli Motor lama",
       "pertanyaan": [
         "Apakah boleh menggunakan oli motor yang sudah lama?",
-        "Apakah bisa menggunakan oli motor yang berbeda merek?",
         "Apakah bisa menggunakan oli motor bekas?",
-        "Berapa banyak oli yang dibutuhkan untuk motor saya?",
         "Bolehkah menggunakan oli motor lama?",
-        "Bolehkah menggunakan oli motor berbeda merek?",
         "Bolehkah menggunakan oli motor bekas?",
-        "Berapa banyak oli yang dibutuhkan untuk motor?"
+        "Apakah bisa menggunakan oli motor yang sudah lama?",
+        "Apakah bisa menggunakan oli motor bekas?"
       ],
       "jawaban": [
         "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal.",
+        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin."
+      ]
+    },
+    {
+      "subkategori": "Penggunaan Oli Motor Berbeda Merek",
+      "pertanyaan": [
+        "Apakah bisa menggunakan oli motor yang berbeda merek?",
+        "Bolehkah menggunakan oli motor berbeda merek?",
+        "Apakah boleh menggunakan oli motor berbeda merek?",
+        "Apakah bisa menggunakan oli motor yang berbeda merek?"
+      ],
+      "jawaban": [
         "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik.",
-        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin.",
-        "Biasanya sekitar 1-2 liter, tergantung jenis dan ukuran mesin motor."
+        "Boleh menggunakan oli motor berbeda merek, tetapi pastikan sesuai dengan spesifikasi motor."
+      ]
+    },
+    {
+      "subkategori": "Berapa Penggunaan Oli Motor",
+      "pertanyaan": [
+        "Berapa banyak oli yang dibutuhkan untuk motor saya?",
+        "Berapa banyak oli yang dibutuhkan untuk motor?",
+        "Berapa liter oli yang dibutuhkan untuk motor saya?",
+        "Berapa liter oli yang dibutuhkan untuk motor?"
+      ],
+      "jawaban": [
+        "Biasanya sekitar 1-2 liter, tergantung jenis dan ukuran mesin motor.",
+        "Jumlah oli yang dibutuhkan untuk motor bisa berbeda-beda tergantung jenis dan ukuran mesin."
       ]
     },
     {
       "subkategori": "Pengaruh Oli Terhadap Mesin",
       "pertanyaan": [
         "Apakah oli motor mempengaruhi performa mesin?",
-        "Apa yang harus dilakukan jika oli motor bocor?",
         "Apakah oli motor yang berkualitas buruk berpengaruh pada mesin?",
         "Bagaimana pengaruh oli motor terhadap performa mesin?",
-        "Apa yang harus dilakukan jika oli motor bocor?",
-        "Apakah oli motor berkualitas buruk berpengaruh pada mesin?"
+        "Apakah oli motor berkualitas buruk berpengaruh pada mesin?",
+        "Apakah oli motor yang berkualitas buruk dapat merusak mesin?"
       ],
       "jawaban": [
         "Oli motor yang berkualitas buruk dapat menurunkan performa dan mempercepat keausan mesin.",
-        "Segera perbaiki kebocoran untuk menghindari kerusakan lebih lanjut pada mesin."
+        "Oli motor yang berkualitas buruk dapat merusak mesin dan mempercepat keausan komponen.",
+        "Oli motor yang berkualitas buruk dapat menyebabkan gesekan berlebihan dan keausan pada mesin."
+      ]
+    },
+    {
+      "subkategori": "Pengaruh Oli Bocor",
+      "pertanyaan": [
+        "Apa yang harus dilakukan jika oli motor bocor?",
+        "Apa yang harus dilakukan jika oli motor bocor?"
+      ],
+      "jawaban": [
+        "Segera perbaiki kebocoran untuk menghindari kerusakan lebih lanjut pada mesin.",
+        "Jika oli motor bocor, segera perbaiki kebocoran untuk mencegah kerusakan pada mesin."
       ]
     },
     {
@@ -1204,14 +1302,25 @@
       "pertanyaan": [
         "Bagaimana mengetahui apakah ban perlu diganti?",
         "Bagaimana cara mengetahui apakah ban saya aus?",
-        "Bagaimana cara mengecek kedalaman alur ban?",
         "Apa tanda-tanda ban mobil perlu diganti?"
       ],
       "jawaban": [
         "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
         "Periksa alur ban. Jika sudah tipis dan tidak ada lagi alur yang jelas, maka ban perlu diganti.",
-        "Periksa kedalaman alur dengan alat pengukur kedalaman ban. Jika kurang dari 1.6 mm, ban harus diganti.",
         "Jika ban mobil sudah aus atau ada kerusakan serius, sebaiknya segera diganti untuk keselamatan."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Kondisi Kedalaman Ban",
+      "pertanyaan": [
+        "Bagaimana cara mengecek kedalaman alur ban?",
+        "Cara mengecek kedalaman alur ban",
+        "Cara mengetahui kedalaman alur ban",
+        "Cara mengecek kedalaman ban"
+      ],
+      "jawaban": [
+        "Periksa kedalaman alur dengan alat pengukur kedalaman ban. Jika kurang dari 1.6 mm, ban harus diganti.",
+        "Gunakan alat pengukur kedalaman ban atau cek di bengkel terdekat untuk memastikan kedalaman alur ban."
       ]
     },
     {
@@ -1219,48 +1328,99 @@
       "pertanyaan": [
         "Bagaimana cara memeriksa tekanan angin ban?",
         "Bagaimana cara mengecek tekanan ban yang ideal untuk mobil dan motor saya?",
-        "Berapa tekanan angin ideal untuk ban motor?",
         "Cara mengecek tekanan angin ban"
       ],
       "jawaban": [
         "Gunakan alat pengukur tekanan angin atau cek di bengkel terdekat untuk memastikan tekanan sesuai rekomendasi.",
         "Tekanan ban ideal dapat ditemukan di buku manual kendaraan atau stiker di pintu mobil.",
-        "Tekanan angin ideal untuk ban motor biasanya sekitar 30-35 psi, tetapi cek di manual kendaraan."
+        "Periksa tekanan angin ban dengan alat pengukur tekanan angin dan sesuaikan dengan rekomendasi pabrik."
       ]
     },
     {
-      "subkategori": "Masalah dan Perbaikan Ban",
+      "subkategori": "Tekanan Angin Ban Ideal",
+      "pertanyaan": [
+        "Berapa tekanan angin ideal untuk ban motor?",
+        "Berapa tekanan angin yang disarankan untuk ban mobil?",
+        "Berapa tekanan angin yang ideal untuk ban motor dan mobil?",
+        "Tekanan angin ideal untuk ban motor",
+        "Tekanan angin ideal untuk ban mobil"
+      ],
+      "jawaban": [
+        "Tekanan angin ideal untuk ban motor biasanya sekitar 30-35 psi, tetapi cek di manual kendaraan.",
+        "Tekanan angin ideal untuk ban mobil biasanya tertera di buku manual kendaraan atau stiker di pintu mobil."
+      ]
+    },
+    {
+      "subkategori": "Ban Bocor",
+      "pertanyaan": [
+        "Bagaimana cara memperbaiki ban bocor?",
+        "Apa yang harus dilakukan jika ban mobil saya bocor?",
+        "Cara memperbaiki ban bocor",
+        "Apa yang harus dilakukan jika ban mobil bocor",
+        "Bagaimana cara menambal ban bocor?"
+      ],
+      "jawaban": [
+        "Jika ban bocor, Anda bisa menambalnya atau mengganti ban jika sudah parah.",
+        "Untuk ban mobil yang bocor, Anda bisa menambal ban atau mengganti ban jika tidak bisa diperbaiki.",
+        "Untuk menambal ban bocor, gunakan peralatan tambal ban dan ikuti petunjuk penggunaan."
+      ]
+    },
+    {
+      "subkategori": "Ban Kempes",
+      "pertanyaan": [
+        "Apa yang harus dilakukan jika ban motor saya kempes?",
+        "Apa yang harus dilakukan jika ban motor kempes",
+        "Apa yang harus dilakukan jika ban mobil saya kempes",
+        "Apa yang harus dilakukan jika ban mobil kempes"
+      ],
+      "jawaban": [
+        "Segera isi ulang angin ban atau gunakan ban cadangan jika ban kempes.",
+        "Jika ban motor kempes, segera isi ulang angin atau gunakan ban cadangan jika perlu.",
+        "Jika ban mobil kempes, segera isi ulang angin atau gunakan ban cadangan jika perlu."
+      ]
+    },
+    {
+      "subkategori": "Ban Botak",
       "pertanyaan": [
         "Apa penyebab ban motor cepat botak?",
-        "Bagaimana cara memperbaiki ban bocor?",
-        "Apa yang harus dilakukan jika ban motor saya kempes?",
-        "Apa yang harus dilakukan jika ban mobil saya bocor?",
         "Penyebab ban motor cepat botak",
-        "Cara memperbaiki ban bocor",
-        "Apa yang harus dilakukan jika ban motor kempes",
-        "Apa yang harus dilakukan jika ban mobil bocor"
+        "Apa yang harus dilakukan jika ban motor cepat botak?",
+        "Apa yang harus dilakukan jika ban motor botak?",
+        "Apa yang harus dilakukan jika ban mobil cepat botak?",
+        "Apa yang harus dilakukan jika ban mobil botak?"
       ],
       "jawaban": [
         "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi.",
-        "Jika ban bocor, Anda bisa menambalnya atau mengganti ban jika sudah parah.",
-        "Segera isi ulang angin ban atau gunakan ban cadangan jika ban kempes.",
-        "Untuk ban mobil yang bocor, Anda bisa menambal ban atau mengganti ban jika tidak bisa diperbaiki."
+        "Jika ban motor cepat botak, pastikan untuk menjaga tekanan angin yang sesuai dan hindari kecepatan tinggi.",
+        "Jika ban motor botak, segera ganti ban dengan yang baru untuk menjaga keamanan berkendara.",
+        "Jika ban mobil cepat botak, pastikan untuk menjaga tekanan angin yang sesuai dan hindari kecepatan tinggi.",
+        "Jika ban mobil botak, segera ganti ban dengan yang baru untuk menjaga keamanan berkendara."
       ]
     },
     {
-      "subkategori": "Pemilihan dan Penggunaan Ban",
+      "subkategori": "Pemilihan Ban",
       "pertanyaan": [
         "Bagaimana cara memilih ban motor yang tepat?",
-        "Kapan waktu yang tepat untuk mengganti ban motor?",
-        "Apakah ban mobil dapat dipasang di motor?",
         "Cara memilih ban motor yang tepat",
-        "Waktu yang tepat untuk mengganti ban motor",
-        "Apakah ban mobil bisa dipasang di motor"
+        "Bagaimana cara memilih ban mobil yang sesuai?",
+        "Cara memilih ban mobil yang sesuai"
       ],
       "jawaban": [
         "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.",
-        "Ganti ban motor jika sudah aus atau tidak bisa diperbaiki lagi.",
-        "Tidak, ban mobil lebih besar dan memiliki spesifikasi yang berbeda dengan ban motor."
+        "Pilih ban mobil yang sesuai dengan ukuran dan spesifikasi mobil Anda."
+      ]
+    },
+    {
+      "subkategori": "Penggunaan Ban",
+      "pertanyaan": [
+        "Apakah ban mobil dapat dipasang di motor?",
+        "Apakah ban mobil bisa dipasang di motor",
+        "Bolehkah menggunakan ban mobil untuk motor?",
+        "Bolehkah menggunakan ban mobil di motor?"
+      ],
+      "jawaban": [
+        "Tidak, ban mobil lebih besar dan memiliki spesifikasi yang berbeda dengan ban motor.",
+        "Tidak disarankan, karena ban mobil lebih besar dan tidak cocok untuk motor."
       ]
     },
     {
@@ -1286,56 +1446,66 @@
       ],
       "jawaban": [
         "Jika lampu redup, motor sulit dinyalakan, atau klakson melemah, kemungkinan aki mulai lemah.",
-        "Jika lampu redup atau motor sulit dinyalakan, bisa jadi saatnya mengganti aki.",
-        "Tanda aki mobil perlu diganti adalah jika mobil sulit dinyalakan atau indikator aki menyala."
+        "Jika lampu redup atau motor sulit dinyalakan, bisa jadi saatnya mengganti aki."
       ]
     },
     {
-      "subkategori": "Penyebab Aki Cepat Habis atau Rusak",
+      "subkategori": "Penyebab Aki Cepat Habis",
       "pertanyaan": [
         "Aki cepat habis, apa penyebabnya?",
         "Apa penyebab aki motor cepat habis?",
-        "Apa yang menyebabkan aki motor cepat rusak?",
-        "Apakah menggunakan alat elektronik terlalu banyak mempengaruhi aki motor?",
         "Penyebab aki cepat habis",
-        "Penyebab aki motor cepat habis",
-        "Penyebab aki motor cepat rusak",
-        "Pengaruh alat elektronik terhadap aki motor"
+        "Penyebab aki motor cepat habis"
       ],
       "jawaban": [
         "Aki bisa cepat habis jika ada kelistrikan yang bocor atau penggunaan aksesori yang berlebihan.",
-        "Penggunaan aksesori yang berlebihan atau masalah pada sistem pengisian dapat menyebabkan aki cepat habis.",
-        "Penyebab utama aki motor cepat rusak adalah kelistrikan yang bocor atau kurangnya perawatan.",
-        "Menggunakan alat elektronik yang berlebihan bisa menyebabkan aki cepat habis, terutama jika sistem pengisian tidak bekerja dengan baik."
+        "Penggunaan aksesori yang berlebihan atau masalah pada sistem pengisian dapat menyebabkan aki cepat habis."
       ]
     },
     {
-      "subkategori": "Pengecekan dan Perawatan Aki",
+      "subkategori": "Penyebab Aki Cepat Rusak",
+      "pertanyaan": [
+        "Apa yang menyebabkan aki motor cepat rusak?",
+        "Penyebab aki motor cepat rusak",
+        "Apa penyebab utama aki motor cepat rusak?",
+        "Penyebab utama aki motor cepat rusak"
+      ],
+      "jawaban": [
+        "Penyebab utama aki motor cepat rusak adalah kelistrikan yang bocor atau kurangnya perawatan.",
+        "Kelistrikan yang bocor, pengisian yang tidak tepat, atau kurangnya perawatan bisa menyebabkan aki cepat rusak."
+      ]
+    },
+    {
+      "subkategori": "Pengecekan Aki",
       "pertanyaan": [
         "Bagaimana cara mengecek kondisi aki?",
         "Bagaimana cara mengecek tegangan aki?",
-        "Bagaimana cara merawat aki motor?",
         "Cara mengecek kondisi aki",
         "Cara mengecek tegangan aki",
-        "Cara merawat aki motor"
+        "Cara mengecek aki motor"
       ],
       "jawaban": [
         "Periksa terminal aki dan pastikan tegangan aki berada di level yang normal.",
-        "Gunakan multimeter untuk mengukur tegangan aki. Tegangan normal sekitar 12.6 volt.",
-        "Jaga kebersihan terminal aki dan pastikan tidak ada kotoran atau karat."
+        "Gunakan multimeter untuk mengukur tegangan aki. Tegangan normal sekitar 12.6 volt."
+      ]
+    },
+    {
+      "subkategori": "Perawatan Aki",
+      "pertanyaan": [
+        "Bagaimana cara merawat aki motor?",
+        "Cara merawat aki motor",
+        "Apa yang harus dilakukan untuk merawat aki motor?"
+      ],
+      "jawaban": [
+        "Jaga kebersihan terminal aki dan pastikan tidak ada kotoran atau karat.",
+        "Pastikan aki terisi penuh, jaga kebersihan terminal, dan periksa tegangan secara berkala."
       ]
     },
     {
       "subkategori": "Masa Pakai dan Penggantian Aki",
-      "pertanyaan": [
-        "Berapa lama umur aki motor?",
-        "Apakah bisa menggunakan aki mobil untuk motor?",
-        "Umur aki motor",
-        "Menggunakan aki mobil untuk motor"
-      ],
+      "pertanyaan": ["Berapa lama umur aki ?", "Umur aki "],
       "jawaban": [
-        "Umur aki motor bervariasi, namun biasanya berkisar antara 1 hingga 2 tahun.",
-        "Tidak disarankan, karena aki mobil lebih besar dan tidak cocok untuk motor."
+        "Umur aki bervariasi, namun biasanya berkisar antara 1 hingga 2 tahun."
       ]
     },
     {
@@ -1355,73 +1525,124 @@
       ]
     },
     {
-      "subkategori": "Pengecekan dan Gejala Shockbreaker Bermasalah",
+      "subkategori": "Pengecekan Shockbreaker",
       "pertanyaan": [
         "Bagaimana mengetahui apakah shockbreaker masih bagus?",
         "Bagaimana cara mengetahui apakah shockbreaker saya perlu diganti?",
-        "Apa gejala shockbreaker rusak?",
-        "Apa tanda-tanda shockbreaker bocor?",
-        "Bagaimana cara mengecek kinerja shockbreaker?",
-        "Bagaimana cara mengecek suspensi motor?",
         "Cara mengetahui kondisi shockbreaker",
         "Cara mengetahui apakah shockbreaker perlu diganti",
-        "Gejala shockbreaker rusak",
+        "Cara mengecek kinerja shockbreaker"
+      ],
+      "jawaban": [
+        "Cek apakah kendaraan terlalu limbung atau terasa keras saat melewati jalan bergelombang, itu tanda shockbreaker tidak berfungsi dengan baik.",
+        "Jika shockbreaker terasa keras atau suspensi tidak berfungsi dengan baik, itu mungkin tanda untuk mengganti shockbreaker."
+      ]
+    },
+    {
+      "subkategori": "Kebocoran Shockbreaker Bermasalah",
+      "pertanyaan": [
+        "Apa tanda-tanda shockbreaker bocor?",
         "Tanda-tanda shockbreaker bocor",
+        "Apa yang harus dilakukan jika shockbreaker bocor?",
+        "Bagaimana cara mengetahui apakah shockbreaker bocor?"
+      ],
+      "jawaban": [
+        "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
+        "Shockbreaker yang bocor biasanya menunjukkan tanda-tanda rembesan oli atau kebocoran pada bagian dalam.",
+        "Jika shockbreaker bocor, segera ganti dengan yang baru untuk menjaga kenyamanan dan keselamatan berkendara."
+      ]
+    },
+    {
+      "subkategori": "Kerusakan Shockbreaker Bermasalah",
+      "pertanyaan": [
+        "Apa gejala shockbreaker rusak?",
+        "Gejala shockbreaker rusak",
+        "Apa yang harus dilakukan jika shockbreaker rusak?",
+        "Bagaimana cara mengetahui apakah shockbreaker rusak?"
+      ],
+      "jawaban": [
+        "Gejala shockbreaker rusak termasuk suspensi keras, suara berdecit, atau kendaraan limbung saat berkendara.",
+        "Jika shockbreaker rusak, segera ganti dengan yang baru untuk menjaga kenyamanan dan keselamatan berkendara."
+      ]
+    },
+    {
+      "subkategori": "Suspensi Shockbreaker",
+      "pertanyaan": [
+        "Bagaimana cara mengecek suspensi motor?",
+        "Cara mengecek suspensi motor",
         "Cara mengecek kinerja shockbreaker",
-        "Cara mengecek suspensi motor"
+        "Cara mengetahui apakah suspensi motor berfungsi dengan baik"
       ],
       "jawaban": [
         "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
-        "Shockbreaker yang bocor atau keras sebaiknya segera diganti untuk kenyamanan berkendara.",
         "Gejala shockbreaker rusak termasuk suspensi keras, suara berdecit, atau kendaraan limbung saat berkendara.",
-        "Shockbreaker yang bocor biasanya menunjukkan tanda-tanda rembesan oli atau kebocoran pada bagian dalam.",
-        "Cek apakah kendaraan terlalu limbung atau terasa keras saat melewati jalan bergelombang, itu tanda shockbreaker tidak berfungsi dengan baik.",
-        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu."
+        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu.",
+        "Jika suspensi terasa keras atau tidak berfungsi dengan baik, itu mungkin tanda untuk mengganti shockbreaker."
       ]
     },
     {
-      "subkategori": "Penyebab dan Dampak Kerusakan Shockbreaker",
+      "subkategori": "Penyebab Kerusakan Shockbreaker",
       "pertanyaan": [
         "Apa penyebab shockbreaker terasa keras?",
-        "Apa akibat jika shockbreaker rusak?",
         "Penyebab shockbreaker keras",
-        "Dampak shockbreaker rusak"
+        "Apa yang menyebabkan shockbreaker terasa keras?"
       ],
       "jawaban": [
         "Penyebab shockbreaker terasa keras bisa karena oli shockbreaker yang sudah habis atau seal yang rusak.",
-        "Jika shockbreaker rusak, kendaraan akan menjadi lebih sulit dikendalikan dan bisa mempengaruhi keselamatan."
+        "Shockbreaker terasa keras bisa disebabkan oleh oli yang sudah habis atau seal yang rusak."
       ]
     },
     {
-      "subkategori": "Perawatan dan Umur Pakai Shockbreaker",
+      "subkategori": "Perawatan Shockbreaker",
       "pertanyaan": [
         "Bagaimana cara merawat shockbreaker?",
-        "Berapa lama usia shockbreaker motor?",
         "Cara merawat shockbreaker",
-        "Umur shockbreaker motor"
+        "Apa yang harus dilakukan untuk merawat shockbreaker?"
       ],
       "jawaban": [
         "Periksa apakah ada kebocoran oli dari shockbreaker atau jika suspensi terasa keras saat melewati jalan berlubang.",
-        "Usia shockbreaker motor bervariasi, tetapi biasanya sekitar 20.000 hingga 30.000 km tergantung penggunaan."
+        "Perawatan shockbreaker meliputi pemeriksaan kebocoran oli, kekencangan suspensi, dan penggantian seal jika perlu."
       ]
     },
     {
-      "subkategori": "Perbaikan dan Penggantian Shockbreaker",
+      "subkategori": "Umur Pakai Shockbreaker",
+      "pertanyaan": [
+        "Berapa lama usia shockbreaker motor?",
+        "Umur shockbreaker motor",
+        "Berapa lama shockbreaker motor bisa digunakan?"
+      ],
+      "jawaban": [
+        "Usia shockbreaker motor bervariasi, tetapi biasanya sekitar 20.000 hingga 30.000 km tergantung penggunaan.",
+        "Shockbreaker motor bisa digunakan selama 20.000 hingga 30.000 km tergantung kondisi jalan dan penggunaan."
+      ]
+    },
+    {
+      "subkategori": "Perbaikan Shockbreaker",
       "pertanyaan": [
         "Bagaimana cara memperbaiki shockbreaker?",
-        "Bagaimana cara mengganti shockbreaker?",
         "Apakah shockbreaker yang bocor bisa diperbaiki?",
         "Apakah shockbreaker bisa digunakan kembali setelah dibongkar?",
         "Cara memperbaiki shockbreaker",
-        "Cara mengganti shockbreaker",
         "Apakah shockbreaker bocor bisa diperbaiki",
         "Apakah shockbreaker bisa digunakan kembali"
       ],
       "jawaban": [
         "Shockbreaker yang rusak sebaiknya diganti, karena dapat mempengaruhi kenyamanan dan keselamatan.",
-        "Ganti shockbreaker dengan yang baru sesuai dengan spesifikasi motor untuk performa terbaik.",
         "Shockbreaker yang bocor bisa diperbaiki dengan mengisi ulang oli atau mengganti seal, tapi jika parah, ganti yang baru.",
         "Setelah dibongkar, shockbreaker biasanya tidak bisa digunakan kembali karena kehilangan kinerja."
+      ]
+    },
+    {
+      "subkategori": "Penggantian Shockbreaker",
+      "pertanyaan": [
+        "Bagaimana cara mengganti shockbreaker?",
+        "Cara mengganti shockbreaker",
+        "Apa yang harus dilakukan jika shockbreaker rusak?",
+        "Bagaimana cara mengganti shockbreaker motor?"
+      ],
+      "jawaban": [
+        "Ganti shockbreaker dengan yang baru sesuai dengan spesifikasi motor untuk performa terbaik.",
+        "Jika shockbreaker rusak, segera ganti dengan yang baru untuk menjaga kenyamanan dan keselamatan berkendara."
       ]
     },
     {
