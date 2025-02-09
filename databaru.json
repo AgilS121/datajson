@@ -1126,19 +1126,25 @@
       ]
     },
     {
-      "subkategori": "Kualitas Oli Motor",
+      "subkategori": "Cara Mengetahui Kualitas Oli Motor",
       "pertanyaan": [
         "Bagaimana cara mengetahui kualitas oli motor?",
         "Cara mengetahui kualitas oli",
-        "Cara mengetahui kualitas oli motor",
+        "Cara mengetahui kualitas oli motor"
+      ],
+      "jawaban": [
+        "Oli motor berkualitas baik biasanya memiliki warna yang jernih dan kekentalan yang sesuai."
+      ]
+    },
+    {
+      "subkategori": "Tanda Tanda Kualitas Oli Motor",
+      "pertanyaan": [
         "Apa tanda-tanda oli motor berkualitas buruk?",
         "Apa tanda-tanda oli motor berkualitas baik?",
         "Apa yang harus dilakukan jika oli motor berkualitas buruk?"
       ],
       "jawaban": [
-        "Gunakan oli dengan kualitas baik dan pastikan sesuai dengan spesifikasi motor.",
-        "Oli motor berkualitas baik biasanya memiliki warna yang jernih dan kekentalan yang sesuai.",
-        "Jika oli motor berkualitas buruk, segera ganti dengan oli yang lebih baik untuk menjaga performa mesin."
+        "Oli motor berkualitas baik biasanya memiliki warna yang jernih dan kekentalan yang sesuai. Jika oli motor berkualitas buruk, segera ganti dengan oli yang lebih baik untuk menjaga performa mesin."
       ]
     },
     {
@@ -1163,8 +1169,7 @@
         "Berapa sering saya harus mengganti oli motor?"
       ],
       "jawaban": [
-        "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.",
-        "Disarankan untuk mengganti oli motor secara berkala untuk menjaga performa mesin."
+        "Gantilah oli motor setiap 3.000 hingga 5.000 km atau sesuai dengan rekomendasi pabrik.Disarankan untuk mengganti oli motor secara berkala untuk menjaga performa mesin."
       ]
     },
     {
@@ -1176,8 +1181,7 @@
         "Cara mengisi oli motor yang berkurang"
       ],
       "jawaban": [
-        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu.",
-        "Pastikan untuk menggunakan oli yang sesuai dengan spesifikasi motor dan jangan melebihi level maksimum pada dipstick."
+        "Gunakan dipstick untuk memeriksa level oli dan tambahkan jika perlu. Pastikan untuk menggunakan oli yang sesuai dengan spesifikasi motor dan jangan melebihi level maksimum pada dipstick."
       ]
     },
     {
@@ -1189,8 +1193,7 @@
         "Apakah filter oli harus diganti setiap kali ganti oli?"
       ],
       "jawaban": [
-        "Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan.",
-        "Ya, filter oli perlu diganti setiap kali ganti oli untuk menjaga kualitas pelumasan mesin."
+        "Ya, filter oli perlu diganti setiap kali ganti oli untuk menjaga kualitas pelumasan mesin.Disarankan untuk mengganti filter oli setiap kali ganti oli untuk menjaga kualitas pelumasan."
       ]
     },
     {
@@ -1201,8 +1204,7 @@
         "Apa gejala jika oli motor perlu diganti?"
       ],
       "jawaban": [
-        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
-        "Jika tidak mengganti oli motor, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
+        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti dan Bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
       ]
     },
     {
@@ -1213,8 +1215,7 @@
         "Apa dampaknya jika terlambat mengganti oli motor?"
       ],
       "jawaban": [
-        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk.",
-        "Jika tidak mengganti oli motor tepat waktu, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
+        "Jika terlambat mengganti oli, bisa menyebabkan kerusakan pada mesin karena pelumasan yang buruk.Jika tidak mengganti oli motor tepat waktu, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
       ]
     },
     {
@@ -1225,8 +1226,17 @@
         "Apa yang terjadi jika oli motor kurang?"
       ],
       "jawaban": [
-        "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang.",
-        "Oli motor yang sudah hitam, encer, atau berkurang drastis perlu segera diganti.",
+        "Mesin terasa kasar, suara berisik, atau mesin terasa panas bisa menjadi tanda oli kurang."
+      ]
+    },
+    {
+      "subkategori": "Akibat Oli Kurang",
+      "pertanyaan": [
+        "Apa gejala jika oli motor kurang?",
+        "Apa tanda-tanda oli motor kurang?",
+        "Apa yang terjadi jika oli motor kurang?"
+      ],
+      "jawaban": [
         "Jika oli motor kurang, bisa menyebabkan gesekan berlebihan dan keausan pada mesin."
       ]
     },
@@ -1241,8 +1251,7 @@
         "Apakah bisa menggunakan oli motor bekas?"
       ],
       "jawaban": [
-        "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal.",
-        "Oli motor bekas tidak boleh digunakan karena bisa mengandung kotoran yang merusak mesin."
+        "Tidak disarankan. Oli yang sudah lama dapat kehilangan kualitas dan tidak memberikan perlindungan optimal."
       ]
     },
     {
@@ -1254,8 +1263,7 @@
         "Apakah bisa menggunakan oli motor yang berbeda merek?"
       ],
       "jawaban": [
-        "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik.",
-        "Boleh menggunakan oli motor berbeda merek, tetapi pastikan sesuai dengan spesifikasi motor."
+        "Seharusnya tidak masalah, tetapi disarankan untuk menggunakan merek yang direkomendasikan oleh pabrik."
       ]
     },
     {
@@ -1302,11 +1310,18 @@
       "pertanyaan": [
         "Bagaimana mengetahui apakah ban perlu diganti?",
         "Bagaimana cara mengetahui apakah ban saya aus?",
-        "Apa tanda-tanda ban mobil perlu diganti?"
       ],
       "jawaban": [
         "Cek ketebalan ban dan lihat apakah ada retakan atau botak. Jika ada, segera ganti ban.",
-        "Periksa alur ban. Jika sudah tipis dan tidak ada lagi alur yang jelas, maka ban perlu diganti.",
+        "Periksa alur ban. Jika sudah tipis dan tidak ada lagi alur yang jelas, maka ban perlu diganti."
+      ]
+    },
+    {
+      "subkategori": "Penggantian Kondisi Ban",
+      "pertanyaan": [
+        "Apa tanda-tanda ban mobil perlu diganti?"
+      ],
+      "jawaban": [
         "Jika ban mobil sudah aus atau ada kerusakan serius, sebaiknya segera diganti untuk keselamatan."
       ]
     },
@@ -1380,18 +1395,24 @@
       ]
     },
     {
-      "subkategori": "Ban Botak",
+      "subkategori": "Penyebab Ban Botak",
       "pertanyaan": [
         "Apa penyebab ban motor cepat botak?",
-        "Penyebab ban motor cepat botak",
+        "Penyebab ban motor cepat botak"
+      ],
+      "jawaban": [
+        "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi."
+      ]
+    },
+    {
+      "subkategori": "Hal Yang Harus Dilakukan Jika Ban Botak",
+      "pertanyaan": [
         "Apa yang harus dilakukan jika ban motor cepat botak?",
         "Apa yang harus dilakukan jika ban motor botak?",
         "Apa yang harus dilakukan jika ban mobil cepat botak?",
         "Apa yang harus dilakukan jika ban mobil botak?"
       ],
       "jawaban": [
-        "Penyebab ban motor cepat botak bisa disebabkan oleh tekanan angin yang tidak sesuai atau sering digunakan untuk kecepatan tinggi.",
-        "Jika ban motor cepat botak, pastikan untuk menjaga tekanan angin yang sesuai dan hindari kecepatan tinggi.",
         "Jika ban motor botak, segera ganti ban dengan yang baru untuk menjaga keamanan berkendara.",
         "Jika ban mobil cepat botak, pastikan untuk menjaga tekanan angin yang sesuai dan hindari kecepatan tinggi.",
         "Jika ban mobil botak, segera ganti ban dengan yang baru untuk menjaga keamanan berkendara."
@@ -1406,8 +1427,7 @@
         "Cara memilih ban mobil yang sesuai"
       ],
       "jawaban": [
-        "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.",
-        "Pilih ban mobil yang sesuai dengan ukuran dan spesifikasi mobil Anda."
+        "Pilih ban motor yang sesuai dengan jenis motor dan kondisi jalan yang biasa Anda lewati.Pilih ban mobil yang sesuai dengan ukuran dan spesifikasi mobil Anda."
       ]
     },
     {
@@ -1519,9 +1539,7 @@
         "Mengisi ulang aki soak"
       ],
       "jawaban": [
-        "Jika aki soak, coba isi ulang atau ganti jika sudah tidak dapat diperbaiki.",
-        "Coba bersihkan terminal aki dan pastikan koneksinya baik. Jika tetap soak, sebaiknya ganti aki.",
-        "Jika aki sudah soak, sebaiknya ganti dengan yang baru karena proses pengisian ulang sering kali tidak efektif."
+        "Jika aki soak, coba isi ulang atau ganti jika sudah tidak dapat diperbaiki."
       ]
     },
     {
@@ -1576,7 +1594,6 @@
       "jawaban": [
         "Jika motor terasa limbung atau suspensi terasa keras, shockbreaker mungkin perlu diganti.",
         "Gejala shockbreaker rusak termasuk suspensi keras, suara berdecit, atau kendaraan limbung saat berkendara.",
-        "Periksa apakah suspensi berfungsi dengan baik saat motor melewati jalan bergelombang atau berbatu.",
         "Jika suspensi terasa keras atau tidak berfungsi dengan baik, itu mungkin tanda untuk mengganti shockbreaker."
       ]
     },
@@ -1628,8 +1645,7 @@
       ],
       "jawaban": [
         "Shockbreaker yang rusak sebaiknya diganti, karena dapat mempengaruhi kenyamanan dan keselamatan.",
-        "Shockbreaker yang bocor bisa diperbaiki dengan mengisi ulang oli atau mengganti seal, tapi jika parah, ganti yang baru.",
-        "Setelah dibongkar, shockbreaker biasanya tidak bisa digunakan kembali karena kehilangan kinerja."
+        "Shockbreaker yang bocor bisa diperbaiki dengan mengisi ulang oli atau mengganti seal, tapi jika parah, ganti yang baru."
       ]
     },
     {
@@ -1638,7 +1654,7 @@
         "Bagaimana cara mengganti shockbreaker?",
         "Cara mengganti shockbreaker",
         "Apa yang harus dilakukan jika shockbreaker rusak?",
-        "Bagaimana cara mengganti shockbreaker motor?"
+        "yang harus dilakukan jika shockbreaker rusak?"
       ],
       "jawaban": [
         "Ganti shockbreaker dengan yang baru sesuai dengan spesifikasi motor untuk performa terbaik.",
